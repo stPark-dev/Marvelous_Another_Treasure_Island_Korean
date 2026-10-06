@@ -53,3 +53,42 @@ def test_rom_overrides(ctx):
             data = w[lorom_to_file(int(ov['addr'], 16))]
             ent = [data[2 * i] | data[2 * i + 1] << 8 for i in range(len(data) // 2)]
             assert decode(ent, doc['slots']) == ov['ko']
+
+
+def test_save_screen_header_reads_korean():
+    """Save screen (SELECT) header table 98:8A49: SELECTでゲーム画面に -> SELECT로 종료."""
+    import build
+    src = open(ROM_PATH, 'rb').read()
+    out, _, _ = build.build(src, {}, 'dev')
+    slots = ui_pool.load()['slots']
+    inv = {ui_pool.slot_tile(k): k for k in range(len(slots))}
+    o = build.lorom_to_file(0x988A55)
+    text = ''.join(slots[inv[(out[o + 2 * i] | out[o + 2 * i + 1] << 8) & 0x3FF]] for i in range(7))
+    assert text == '로ㅤ종료ㅤㅤㅤ'
+
+
+def test_save_confirm_prompt_reads_korean():
+    """Save confirm table 98:98C8: (1)に記録していいですか？ -> (1)로 기록할까요?"""
+    import build
+    src = open(ROM_PATH, 'rb').read()
+    out, _, _ = build.build(src, {}, 'dev')
+    slots = ui_pool.load()['slots']
+    inv = {ui_pool.slot_tile(k): k for k in range(len(slots))}
+    o = build.lorom_to_file(0x9898C8)
+    text = ''.join(slots[inv[(out[o + 2 * i] | out[o + 2 * i + 1] << 8) & 0x3FF]] for i in range(11))
+    assert text == '로ㅤ기록할까요?ㅤㅤㅤ'
+
+
+@pytest.mark.parametrize('addr,n,want', [
+    (0x989AAF, 8, '로ㅤ기록.ㅤㅤㅤ'),    # (1)に記録しました。 after saving
+    (0x989AD7, 7, '로ㅤ종료ㅤㅤㅤ'),       # SELECTでゲーム画面に after saving
+    (0x9891B9, 2, '회ㅤ'),                 # (n)回め on save slots
+])
+def test_post_save_texts_read_korean(addr, n, want):
+    import build
+    src = open(ROM_PATH, 'rb').read()
+    out, _, _ = build.build(src, {}, 'dev')
+    slots = ui_pool.load()['slots']
+    inv = {ui_pool.slot_tile(k): k for k in range(len(slots))}
+    o = build.lorom_to_file(addr)
+    assert ''.join(slots[inv[(out[o + 2 * i] | out[o + 2 * i + 1] << 8) & 0x3FF]] for i in range(n)) == want
