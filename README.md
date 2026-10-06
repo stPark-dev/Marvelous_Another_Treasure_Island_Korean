@@ -1,4 +1,4 @@
-<p align="center"><img src="cover_ko.png" alt="마벨러스 ~또 하나의 보물섬~ 한글화" width="480"></p>
+<p align="center"><img src="cover_ko.png" alt="마벨러스 또 하나의 보물섬 한글화" width="480"></p>
 
 # 마벨러스 ~또 하나의 보물섬~ 한글화
 
