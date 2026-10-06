@@ -1,0 +1,19 @@
+# original game data and anything derived from it
+rom/
+*.sfc
+*.smc
+*.zip
+*.ips
+*.state
+build/
+text/script_jp.*
+
+# scratch work, emulator dumps
+work/
+
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# local emulator checkout (trace patch lives in tools/emu/)
+.ext/

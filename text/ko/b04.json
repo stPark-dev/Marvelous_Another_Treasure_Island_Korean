@@ -1,0 +1,4312 @@
+{
+ "batch": "b04",
+ "source_sha256": "555d78c9e4667bee7fb503efd87ed9fc82c55b0e8bde034a10aa2a53967762c5",
+ "entries": [
+  {
+   "id": 925,
+   "src": "00e000e25a9b55e0220e2c0e2c0006101e4b0f14e3fb",
+   "jp": "あーあ、サッカーもそろそろあきちまったな。<FB>",
+   "ko": "아~아, 축구도 슬슬 질려 버렸네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 926,
+   "src": "1e0f232c0235e314e3fb",
+   "jp": "またやろうぜ。な。<FB>",
+   "ko": "또 하자. 응.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 927,
+   "src": "83704b120ae1e1e1e1e1e1354b0f0164515b9e3735e3f81d4f1319fd48fd62180913fdccfde606144f3735e3fb",
+   "jp": "ジムってさ・・・・・・ぜったいナイショだぜ。<F8>\nほんとは先生のこと大好きなんだぜ。<FB>",
+   "ko": "짐 말이야…… 절대 비밀이다.<F8>\n사실은 선생님을 엄청 좋아한대.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 928,
+   "src": "e65a9b55e05b9de084e72d004b0f28f8091890e07a27fd3b014b0629082a09132d3a062a4f3708f93be1e1e1e1e1e1e3fb",
+   "jp": "「サッカーシューズ」があったら<F8>\nこのボールを思いっきりけることができるんだけ[F9]ど・・・・・・。<FB>",
+   "ko": "「축구화」가 있으면<F8>\n이 공을 힘껏 찰 수 있을 텐데[F9]…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 929,
+   "src": "1435e20918230b063708f8557e2d05054b12012a18372c02e1e1defb",
+   "jp": "なぜ、このやしきだけ<F8>\nカギがかかっているのだろう・・？<FB>",
+   "ko": "왜 이 저택만<F8>\n문이 잠겨 있는 걸까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 930,
+   "src": "f28b502dfd0f010f36dff8e65f5170ebfda4e7198b5915002a18372c02e1e1e1defb",
+   "jp": "[F2]ドアが開いたぞ！<F8>\n「タイム部屋」はドコにあるのだろう・・・？<FB>",
+   "ko": "[F2]문이 열렸다!<F8>\n「타임 룸」은 어디에 있을까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 931,
+   "src": "fd9a18fc0c18fd3d18fd552f28011428e20c090b19fd641522f826052a193425dffb",
+   "jp": "昔の町の人の事ぐらいなら、すこしは私にも<F8>\nわかるはずよ！<FB>",
+   "ko": "옛날 마을 사람 일 정도라면, 나도 조금은<F8>\n알 거야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 932,
+   "src": "5550e0f05550e0f8fc1bfc1a546e5328589b59520101fde5dffb",
+   "jp": "カアー　カアー<F8>\n訳：オマエらケッコウいい男！<FB>",
+   "ko": "까악　까악<F8>\n번역: 너희들 꽤 멋진 남자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 933,
+   "src": "0e020e02e2fd6418fddc19535a27fd923f2a13f80c2f1517104c020528fd502711082a4f3725e3fa",
+   "jp": "そうそう、私の犬はエサを食べると<F8>\nすぐにねちゃうから気をつけるんだよ。<FA>",
+   "ko": "그래그래, 우리 개는 먹이를 먹으면<F8>\n금방 잠들어 버리니까 조심하려무나.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 934,
+   "src": "092b19e2043301104c4f2d05052b12012a4f3725e3fa",
+   "jp": "これは、おじいちゃんがかかれているんだよ。<FA>",
+   "ko": "이건, 할아버지를 그린 거란다.<FA>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 벤슨 부인(0933과 같은 할머니 말투). 「おじいちゃん」이 누구인지 불명.",
+   "question": ""
+  },
+  {
+   "id": 935,
+   "src": "092b19e1e1e1fa",
+   "jp": "これは・・・<FA>",
+   "ko": "이건……<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 936,
+   "src": "094b101974e07b51252922e2fdbafd2f1871181d022df83a121d0b0125e1e1e1e3fb",
+   "jp": "こっちはユーレイよりも、作物のメのほうが<F8>\nでてほしいよ・・・。<FB>",
+   "ko": "여기선 유령보다 작물 싹이나<F8>\n나와 줬으면 좋겠어…….<FB>",
+   "state": "needs_human_review",
+   "note": "「出る」(유령이 나오다/싹이 나다)를 「나오다」로 맞춤.",
+   "question": ""
+  },
+  {
+   "id": 937,
+   "src": "74e07b512df45c153a2a260814012517e5e3fb",
+   "jp": "ユーレイが朝にでるわけないよね～。<FB>",
+   "ko": "유령이 아침에 나올 리가 없지~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 938,
+   "src": "1a4be1e1e1fd3d55802de1e1e1e1fb",
+   "jp": "ひっ・・・人カゲが・・・・<FB>",
+   "ko": "히익…… 사, 사람 그림자가……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 939,
+   "src": "6d9f6315012a18051703defb",
+   "jp": "ホントにいるのかねえ？<FB>",
+   "ko": "정말 있는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 940,
+   "src": "00181a13e274e07b5115144b1222f85b9c51144f370528e1e1e1fb",
+   "jp": "あのひと、ユーレイになっても<F8>\nシャイなんだから・・・<FB>",
+   "ko": "그이는 유령이 되어서도<F8>\n수줍음을 탄다니까……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 941,
+   "src": "fd6419e254738318fd6e052874e07b511355537a2df8152d12144f37e3fb",
+   "jp": "私は、オヤジの代からユーレイとカエルが<F8>\nにがてなんだ。<FB>",
+   "ko": "나는 아버지 대부터 유령과 개구리가<F8>\n질색이야.<FB>",
+   "state": "needs_human_review",
+   "note": "화자: 현재의 보안관(0997 개구리 약점과 연결).",
+   "question": ""
+  },
+  {
+   "id": 942,
+   "src": "064b13e2092b22519f8a975418fdf62d0b0f15f8fc1401140182e06e5ce3fb",
+   "jp": "きっと、これもインディオの娘がしたに<F8>\n違いないザーマス。<FB>",
+   "ko": "분명 이것도 인디오의 딸이 한 짓이<F8>\n틀림없사와요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 943,
+   "src": "092601083be2609e9b9279260726070c2a17dffb",
+   "jp": "こわいけど、チョッピリわくわくするね！<FB>",
+   "ko": "무섭지만, 조금 두근두근하네!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 944,
+   "src": "24280b121f250205e1e1dffb",
+   "jp": "ゆらしてみようか・・！<FB>",
+   "ko": "흔들어 볼까……!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 945,
+   "src": "566f0f1027fc3a33140126083a1914012de2f8002afde51318fdc0fc613afcb4fd9f138b590528fd680f0519f9fd100314014f37e3fb",
+   "jp": "キミたちを信じないわけではないが、<F8>\nある男との約束で名前とドコから来たかは[F9]言えないんだ。<FB>",
+   "ko": "너희를 못 믿는 건 아니지만,<F8>\n어떤 남자와의 약속 때문에 이름과 어디서[F9]왔는지는 말할 수 없어.<FB>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 과거의 벤슨(빈집에 숨어 있음, 1385). 0946–0948로 이어짐.",
+   "question": ""
+  },
+  {
+   "id": 946,
+   "src": "fd0518fc75fc6c3701def8fd080712250726052814011400e1e1e1defb",
+   "jp": "何の写真だい？<F8>\n遠くてよくわからないなあ・・・？<FB>",
+   "ko": "무슨 사진이지?<F8>\n멀어서 잘 안 보이는데……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 947,
+   "src": "fd6413519f8a97542dfc754b12012a334c140105dff8094f14fc75fc6ce2134b0f0440032d14011815e1e1e1f9e1e1e1566f0f1019fd33fc45e2fd05fd1b144f37e3fa",
+   "jp": "私とインディオが写っているじゃないか！<F8>\nこんな写真、とったおぼえがないのに・・・[F9]・・・キミたちは一体、何者なんだ。<FA>",
+   "ko": "나와 인디오가 찍혀 있잖아!<F8>\n이런 사진, 찍은 기억이 없는데……[F9]……너희는 대체 누구냐.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 948,
+   "src": "144f374b12dfdff8e68e7ae057795c5f7ae72dfd59fd7715fc301e2b0fdfdff93b020b12e20e4f14091327fd3c4b12012a4f37defe69f637083b0e2b2dfd49fc191428e2fdccfdaa14fd5537dff6e66e9f6ee063d7fc12fcf7e71805072bfc071428fd642df6fd3c4b12012ae313150507519f8a975427fdda0815010902fe69f60e18fc75fc6c19fd642d0034054b12040725e3fb",
+   "jp": "なんだって！！<F8>\n「ブルークリスタル」が山賊に盗まれた！！[F9]どうして、そんなことを知っているんだ？[FE69][F6]だけどそれが本当なら、大変な事だ！[F6]「マンマート３兄弟」のかくれ家なら私が[F6]知っている。とにかくインディオを助けにいこう[FE69][F6]その写真は私があずかっておくよ。<FB>",
+   "ko": "뭐라고!!<F8>\n「블루 크리스털」을 산적이 훔쳐 갔다고!![F9]어떻게 그런 걸 알고 있지?[FE69][F6]하지만 그게 사실이라면 큰일이다![F6]「만마트 3형제」의 은신처라면 내가[F6]알고 있어. 어쨌든 인디오를 구하러 가자[FE69][F6]그 사진은 내가 맡아 두마.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 949,
+   "src": "fd4827010e3102dfdffb",
+   "jp": "先をいそごう！！<FB>",
+   "ko": "서두르자!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 950,
+   "src": "1e00e2fd2612144bdfdffa",
+   "jp": "まあ、見てなっ！！<FA>",
+   "ko": "뭐, 두고 보라고!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 951,
+   "src": "09090528fd0415fd072b2a193437e30a00e2fd4827fcfb3102dffa",
+   "jp": "ここから中に入れるはずだ。さあ、先を急ごう！<FA>",
+   "ko": "여기로 들어갈 수 있을 거다. 자, 서두르자!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 952,
+   "src": "566f0f10e2090915fd6812072be3fb",
+   "jp": "キミたち、ここに来てくれ。<FB>",
+   "ko": "너희, 이리 좀 와 봐.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 953,
+   "src": "13150507e2fd9e0b12012b3cfd3b01fd310c372c02e3fa",
+   "jp": "とにかく、探していれば思い出すだろう。<FA>",
+   "ko": "아무튼, 찾다 보면 생각나겠지.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 954,
+   "src": "fd15fd7715144b12e2fdb0fc24270508121f140105defb",
+   "jp": "海賊になって、青春をかけてみないか？<FB>",
+   "ko": "해적이 되어서, 청춘을 걸어 보지 않겠나?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 955,
+   "src": "fd15fd772dfd59fd7715040e262b2a144f12e2f85b9c7b15144f140125e5e3fb",
+   "jp": "海賊が山賊におそわれるなんて、<F8>\nシャレになんないよ～。<FB>",
+   "ko": "해적이 산적한테 습격당하다니,<F8>\n웃을 일이 아니야~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 956,
+   "src": "014b121f0f28defb",
+   "jp": "いってみたら？<FB>",
+   "ko": "가 보는 게 어때?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 957,
+   "src": "8e7adf010105304f150b140a01dfdffb",
+   "jp": "ブル！いいかげんにしなさい！！<FB>",
+   "ko": "불! 적당히 좀 하렴!!<FB>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 과거의 벤슨 부인이 어린 불을 꾸짖음. 0958 어린 불, 0959 어린 시스코(추정).",
+   "question": ""
+  },
+  {
+   "id": 958,
+   "src": "545178180500104c4f567b51372cdffb",
+   "jp": "オイラのかあちゃんキレイだろ！<FB>",
+   "ko": "우리 엄마 예쁘지!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 959,
+   "src": "fdcc0607144b0f28e2fd48fd621514290f013a0cdffb",
+   "jp": "大きくなったら、先生になりたいです！<FB>",
+   "ko": "커서 선생님이 되고 싶어요!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 960,
+   "src": "144f186379185f6e81372c02e1e1e1def8f9e1e1e14f4bdffa",
+   "jp": "なんのトリのタマゴだろう・・・？<F8>\n[F9]・・・んっ！<FA>",
+   "ko": "무슨 새의 알일까……?<F8>\n[F9]……앗!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 961,
+   "src": "f255785c18fdaefc3f2dfd621e2b0fdffb",
+   "jp": "[F2]カラスの子供が生まれた！<FB>",
+   "ko": "[F2]까마귀 새끼가 태어났다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 962,
+   "src": "0c3101df0c3101dffa",
+   "jp": "すごい！すごい！<FA>",
+   "ko": "굉장해! 굉장해!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 963,
+   "src": "3b02234b0f28e2fcd02d1a280718372c02e1e1e1defb",
+   "jp": "どうやったら、花がひらくのだろう・・・？<FB>",
+   "ko": "어떻게 하면 꽃이 필까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 964,
+   "src": "e1e1e1084b121f2a05dffb",
+   "jp": "・・・けってみるか！<FB>",
+   "ko": "……차 볼까!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 965,
+   "src": "fd9639010f28fcd03d281523282b104c020b1446e1e1e1fb",
+   "jp": "近づいたら花びらにやられちゃうしなぁ・・・<FB>",
+   "ko": "가까이 가면 꽃잎에 당할 테고……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 966,
+   "src": "739b5fe0dfdff85f517076e09315fc22fc230b0f4f37dff9519f8a97541873612dfd104b0ffd5519fd49fc19374b0fdffe69f6547b19fc8afd6815060f1805e1e1e1def60e2b2529e2519f8a97542dfd104b12010f250215f61d4f130215fc0c18fd3819fd5407144b12012a1805dffa",
+   "jp": "ヤッター！！<F8>\nタイムワープに成功したんだ！[F9]インディオのヤツが言った事は本当だった！[FE69][F6]オレは未来にきたのか・・・？[F6]それより、インディオが言っていたように[F6]ほんとうに町の水は無くなっているのか！<FA>",
+   "ko": "해냈다!!<F8>\n타임워프에 성공한 거야![F9]인디오 녀석이 한 말은 사실이었어![FE69][F6]내가 미래에 온 건가……?[F6]그보다, 인디오가 말한 대로[F6]정말로 마을의 물이 없어진 건가!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 967,
+   "src": "546e532de6fd4f270023112afce6e715fd0d4b12012af80918fdc719e2144f3a22fcccfc01180029052dfd530112002af90e02334c170305dffe69f6fd6a012de2547b0f102d010f370112010735dfdffa",
+   "jp": "オマエが「時をあやつる術」に使っている<F8>\nこの玉は、なんでも財宝のありかが書いてある[F9]そうじゃねえか！[FE69][F6]悪いが、オレたちがいただいていくぜ！！<FA>",
+   "ko": "네가 「시간을 다루는 술법」에 쓰고 있는<F8>\n이 구슬엔, 듣자 하니 보물이 있는 곳이 적혀[F9]있다지 않냐![FE69][F6]미안하지만, 우리가 가져가겠다!!<FA>",
+   "state": "needs_human_review",
+   "note": "화자: 만마트 3형제(인디오에게서 블루 크리스털을 빼앗는 장면).",
+   "question": ""
+  },
+  {
+   "id": 968,
+   "src": "001319e2f86271e02818fd09fd0a2d5b9e8e9f0b12072b2a35dff9ea0b1f150b12144bdffa",
+   "jp": "あとは、<F8>\nテメーらの仲間がショブンしてくれるぜ！[F9]楽しみにしてなっ！<FA>",
+   "ko": "나머지는,<F8>\n네놈 동료들이 처리해 줄 거다![F9]기대하고 있으라고!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 969,
+   "src": "fe6d04905f9f3a919f6027370b12e2f8fd4c0b4b41140b150c2a137de08b37dff926054b0f05dfdffa",
+   "jp": "[FE6D04]ボタンでパンチをだして、<F8>\n押しっぱなしにするとガードだ！[F9]わかったか！！<FA>",
+   "ko": "[FE6D04]버튼으로 펀치를 날리고,<F8>\n계속 누르고 있으면 가드다![F9]알겠냐!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 970,
+   "src": "1c1c1c4bdf003c25dffa",
+   "jp": "へへへっ！あばよ！<FA>",
+   "ko": "헤헤헷! 잘 있어라!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 971,
+   "src": "e6fc0c18fc01fd2fe718fdc72d1407144b12012adff8231929519f8a9754e26271e02dfc304f374f37144bdff90f4b0ffda3e211021d022d004b0f4f3a01dffa",
+   "jp": "「町の宝物」の玉がなくなっている！<F8>\nやはりインディオ、テメーが盗んだんだなっ！[F9]たった今、つうほうがあったんでい！<FA>",
+   "ko": "「마을의 보물」인 구슬이 없어졌다!<F8>\n역시 인디오, 네놈이 훔친 거로구나![F9]방금 막 신고가 들어왔단 말이다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 972,
+   "src": "5f516d0c2adffa",
+   "jp": "タイホする！<FA>",
+   "ko": "체포한다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 973,
+   "src": "9052840f10e25f516d15fd4dfd4e054f0b4c0c2a35dff8092b3ae20918519f8a97542dfc0c27040e4b0ff9fd59fd7718555b78374b12fd5519fd0afc14011703dffa",
+   "jp": "ボウズたち、タイホに協力かんしゃするぜ！<F8>\nこれで、このインディオが町をおそった[F9]山賊のカシラだって事は間違いねえ！<FA>",
+   "ko": "꼬마들, 체포에 협조해 줘서 고맙다!<F8>\n이걸로 이 인디오가 마을을 습격한[F9]산적 두목이라는 건 틀림없어!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 974,
+   "src": "0c31e501df2507fd0f08282b0f2617e3f80e18557e3ae20f3e4fe1e1e1fdb001fdd719fd0f07193425e3f90a4b0e07fd514b121f1e0b4ee3fa",
+   "jp": "すご～い！よく開けられたわね。<F8>\nそのカギで、たぶん・・・青い扉は開くはずよ。[F9]さっそく行ってみましょ。<FA>",
+   "ko": "대단해~! 잘 열었구나.<F8>\n그 열쇠로 아마…… 파란 문이 열릴 거야.[F9]얼른 가 보자.<FA>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 지나 선생님(제5장, 파란 문).",
+   "question": ""
+  },
+  {
+   "id": 975,
+   "src": "e1e1144f1305e2fd041825020c2d2605281401051400defb",
+   "jp": "・・なんとか、中のようすがわからないかなあ？<FB>",
+   "ko": "……어떻게든 안의 상황을 알 수 없을까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 976,
+   "src": "fd960715252814064ce2fd260314011400defb",
+   "jp": "近くによらなきゃ、見えないなあ？<FB>",
+   "ko": "가까이 가지 않으면 안 보이겠는걸?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 977,
+   "src": "fe6a004be2010f010fdff8014b0f01e2141527fd030b12012a4f372c02defb",
+   "jp": "[FE6A]あっ、いたいた！<F8>\nいったい、なにを話しているんだろう？<FB>",
+   "ko": "[FE6A]앗, 있다 있다!<F8>\n대체 무슨 얘기를 하는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 978,
+   "src": "fd6419e2fdc7143bfc304f3a19011401dff0fd49fc1937dfdff80e4f14fd552529e2fd1d07fc05fc0627fd9d28140113f001342bfc0cf918fd3819fd5407144b120b1e0236dffe69f6fde915012afde515fc05fc0627fd9d2afd55270f184f374f372de1e1f60e011113fd4dfd4e0b12e2014b090722fd1d07f6fc05fc0627fd9d28140113fdccfdaa14fd5515142a36dfdffb",
+   "jp": "私は、玉など盗んではいない！　本当だ！！<F8>\nそんな事より、早く井戸を掘らないと　いずれ町[F9]の水は無くなってしまうぞ！[FE69][F6]池にいる男に井戸を掘る事をたのんだんだが・・[F6]そいつと協力して、いっこくも早く[F6]井戸を掘らないと大変な事になるぞ！！<FB>",
+   "ko": "난 구슬 따위 훔치지 않았다! 정말이다!!<F8>\n그보다, 어서 우물을 파지 않으면 언젠가 마을[F9]물이 없어지고 말 거다![FE69][F6]연못의 남자에게 우물을 파 달라고 했는데……[F6]그 사람과 협력해서 한시라도 빨리[F6]우물을 파지 않으면 큰일 난다!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 979,
+   "src": "fc0c18fd382dfd5407142adef8fde915012afde515fc05fc0627fd9d2a0913270f184f373713dfdff9525e3c05290101232d4b12dffe69f60a4b0a13e6fc0c18fc01fd2fe72705070b0ffd0cfd2a27f61906232d2b4bdfdffb",
+   "jp": "町の水が無くなる？<F8>\n池にいる男に井戸を掘ることをたのんだだと！！[F9]ウソばかりいいやがって！[FE69][F6]さっさと「町の宝物」をかくした場所を[F6]はきやがれっ！！<FB>",
+   "ko": "마을 물이 없어진다고?<F8>\n연못 남자한테 우물을 파 달라고 했다고!![F9]거짓말만 늘어놓기는![FE69][F6]냉큼 「마을의 보물」을 숨긴 곳을[F6]불어라!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 980,
+   "src": "519f8a9754150f181e2b0ffd552d002a4f37083be1e1e1f8566f0f10e2f9011e519f8a97542d8b5915012a05fd3c281401defb",
+   "jp": "インディオにたのまれた事があるんだけど・・・<F8>\nキミたち、[F9]いまインディオがドコにいるか知らない？<FB>",
+   "ko": "인디오에게 부탁받은 일이 있는데……<F8>\n너희,[F9]지금 인디오가 어디 있는지 모르니?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 981,
+   "src": "519f8a975419e20918fde92d22020c2f1afd162d4b12f80b1e02052854517815fc05fc0627fd9d2b4b12fd10024f37dff9fe69f637083bfc05fc0627fd9d2a0f211519e2090918949f7e9f18f66b5b7e14fd4e2d1a112502144f37083be2736128fc4efc4ff65be0849f3ae2104b1322fde90528fd312502130b1401dffe69f6fd5705949f7e9f2711051e0312fd6812072b140105defe6af6f0f0f0f0024fe2010125dff6f0f0f0f0fdc9fdca3a11051e030f28dffe68fa",
+   "jp": "インディオは、この池がもうすぐひ上がって<F8>\nしまうからオイラに井戸を掘れって言うんだ！[F9][FE69][F6]だけど井戸を掘るためには、ここのペンギンの[F6]フシギな力がひつようなんだけど、ヤツら結婚[F6]シーズンで、ちっとも池から出ようとしない！[FE69][F6]誰かペンギンをつかまえて来てくれないか？[FE6A][F6]　　　　うん、いいよ！[F6]　　　　自分でつかまえたら！[FE68]<FA>",
+   "ko": "인디오가, 이 연못이 곧 말라 버릴 테니<F8>\n나더러 우물을 파라는 거야![F9][FE69][F6]그런데 우물을 파려면 여기 펭귄의[F6]신기한 힘이 필요한데, 녀석들 결혼[F6]시즌이라 도통 연못에서 나오려 하질 않아![FE69][F6]누가 펭귄 좀 잡아다 주지 않을래?[FE6A][F6]　　　　응, 좋아![F6]　　　　직접 잡지 그래![FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 982,
+   "src": "0e020914074b104cdff854517819fd33fdb4fd4815fd954b12012a0528e2021e010913f9949f7e9f2711051e03282b0f28fc212b12061217e3fa",
+   "jp": "そうこなくっちゃ！<F8>\nオイラは一足先に帰っているから、うまいこと[F9]ペンギンをつかまえられたら連れてきてね。<FA>",
+   "ko": "그래야지!<F8>\n난 한발 먼저 돌아가 있을 테니까, 펭귄을[F9]잘 잡으면 데려와 줘.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "suggestion",
+     "proposed": "그래야지!<F8>\n난 한발 먼저 돌아가 있을 테니까, 펭귄을[F9]잘 잡으면 데려와 줘.<FA>",
+     "reason": "「잘[F9]펭귄을 잡으면」은 어순이 어색함. 「펭귄을 잘 잡으면」으로 정리.",
+     "applied": "D9"
+    }
+   ],
+   "draft_ko": "그래야지!<F8>\n난 한발 먼저 돌아가 있을 테니까, 잘[F9]펭귄을 잡으면 데려와 줘.<FA>"
+  },
+  {
+   "id": 983,
+   "src": "374b12545178e2e1e1e1fd1c3014014f37224fdffb",
+   "jp": "だってオイラ、・・・泳げないんだもん！<FB>",
+   "ko": "그야 나…… 헤엄을 못 친단 말이야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 984,
+   "src": "034be2fd9d2afd2f2dfd54014b12def8334c00e254517818fd25fc520b0fe6fdf4fcdd296e5be09fe727f900302502dffe69f6e1e1e113fd10010f01fd2a37083be200011507fcf6fdb2fc330b05f614014f37e3f6fd33fc53e2fd2f27fdba2afd552d0c0614fdae2d13291504013ae3fb",
+   "jp": "えっ、掘る物が無いって？<F8>\nじゃあ、オイラの発明した「穴掘りマシーン」を[F9]あげよう！[FE69][F6]・・・と言いたい所だけど、あいにく設計図しか[F6]ないんだ。[F6]一番、物を作る事がすきな子がとりにおいで。<FB>",
+   "ko": "뭐, 팔 도구가 없다고?<F8>\n그럼, 내가 발명한 「구멍파기 머신」을[F9]줄게![FE69][F6]……라고 하고 싶지만, 아쉽게도 설계도밖에[F6]없어.[F6]만들기를 제일 좋아하는 애가 가지러 오렴.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 985,
+   "src": "54517818fd25fc520b0fe6fdf4fcdd296e5be09fe72700300f01f8083be200011507002a1819fcf6fdb2fc333708dff9ebfdfa19fdc9fdca3afd9e0b1267e3fa",
+   "jp": "オイラの発明した「穴掘りマシーン」をあげたい<F8>\nけど、あいにくあるのは設計図だけ！[F9]部品は自分で探してネ。<FA>",
+   "ko": "내가 발명한 「구멍파기 머신」을 주고<F8>\n싶지만, 아쉽게도 있는 건 설계도뿐![F9]부품은 직접 찾아 줘.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 986,
+   "src": "f2fdf4fcdd296e5be09f18fcf6fdb2fc3327fd0615fd072b0fdff9ebfdfade3b09053afd260f250214e1e1e1fa",
+   "jp": "[F2]穴掘りマシーンの設計図を手に入れた！[F9]部品？どこかで見たような・・・<FA>",
+   "ko": "[F2]구멍파기 머신의 설계도를 손에 넣었다![F9]부품? 어디선가 본 것 같은……<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 987,
+   "src": "0e020e02e2f854517818559f3713fc0c15fe6d2411f9fc05fc062dfd9d2b2a1934370528252c0b0767e3fa",
+   "jp": "そうそう、<F8>\nオイラのカンだと町に[FE6D24]つ[F9]井戸が掘れるはずだからよろしくネ。<FA>",
+   "ko": "맞다 맞다,<F8>\n내 감으로는 마을에 [FE6D24]군데[F9]우물을 팔 수 있을 테니까 잘 부탁해.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 988,
+   "src": "fd1d07fd9d28140113e2fdccfdaa14091315142a4f37dffb",
+   "jp": "早く掘らないと、大変なことになるんだ！<FB>",
+   "ko": "빨리 파지 않으면 큰일 난다고!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 989,
+   "src": "f2e6fdf4fcdd296e5be09fe72dfd31fd680f86dfdffa",
+   "jp": "[F2]「穴掘りマシーン」が出来たゾ！！<FA>",
+   "ko": "[F2]「구멍파기 머신」이 완성됐다!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 990,
+   "src": "37083be2fdc60712fd2e12140125e5df6e9b575c0f1820dffb",
+   "jp": "だけど、重くて持てないよ～！マックスたのむ！<FB>",
+   "ko": "그런데 무거워서 못 들겠어~! 맥스 부탁해!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 991,
+   "src": "6e9b575c15fd2e4b1222280402dffb",
+   "jp": "マックスに持ってもらおう！<FB>",
+   "ko": "맥스에게 들어 달라고 하자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 992,
+   "src": "f8f0f0f0f00b4b05290c2a4f37e2839c9b57e3fb",
+   "jp": "<F8>\n　　　　しっかりするんだ、ジャック。<FB>",
+   "ko": "<F8>\n　　　　정신 차려, 잭.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 993,
+   "src": "f5012c72e0f072e0e3f8fc1bfc1a22e0f022e0fb",
+   "jp": "[F5012C]モー　モー。<F8>\n訳：もー　もー<FB>",
+   "ko": "[F5012C]모ー　모ー.<F8>\n번역: 몰라ー　몰라ー<FB>",
+   "state": "needs_human_review",
+   "note": "원문은 울음 「モー」와 번역 「もー」(「もう!」=에잇, 짜증)가 같은 소리인 개그.",
+   "question": "0993: 소 울음 「モー」=「もー(짜증)」 말장난. 울음을 「모ー」로 두고 번역을 「몰라ー」로 비틂. 대안: 울음 「음메ー」, 번역 「아이참ー」(말장난 포기). 0995 울음과 통일 필요.",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문: 소 울음 「モー」=번역 「もー(짜증)」 같은 소리 개그. 권고: 초벌 「모ー/몰라ー」 유지(소리가 이어져 개그가 살아 있음). 「음메」로 바꾸려면 0995도 같이 바꿀 것."
+    }
+   ]
+  },
+  {
+   "id": 994,
+   "src": "fd960715254b12fd0513050b121f2a05e1e1e1fb",
+   "jp": "近くによって何とかしてみるか・・・<FB>",
+   "ko": "가까이 가서 어떻게든 해 볼까……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 995,
+   "src": "f5012c72e0f072e0f8fc1bfc1a765f5be2070c2f4b0f2d29370528004f1e29fd9607f9f0f015fd6814013a104ee03701dfdffb",
+   "jp": "[F5012C]モー　モー<F8>\n訳：ワタシ、くすぐったがりだからあんまり近く[F9]　　に来ないでちょーだい！！<FB>",
+   "ko": "[F5012C]모ー　모ー<F8>\n번역: 나, 간지럼을 잘 타니까 너무 가까이[F9]　　오지 말아 줘!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 996,
+   "src": "509f5f0f10dff80111227b8a97e015144f1209133c05290a0d2a1825dffa",
+   "jp": "アンタたち！<F8>\nいつもレディーになんてことばかりさせるのよ！<FA>",
+   "ko": "너희들!<F8>\n맨날 숙녀한테 이상한 일만 시킨다니까!<FA>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 폴리.",
+   "question": ""
+  },
+  {
+   "id": 997,
+   "src": "2507234b12072b0f67e3f8f2092b3a0918fc0c22fd38fc57fdb43afdcd2afd55191407144b0f25e3f950797d6352dffe69f6949f7e9f195451782d0034054b12040725e3f61d051522fd06fca74b122228010f0109132d002a4f37dff6fe69f6004bdf0e020e02e2f6566f0f10e20101fd0327040b031200302a25e3f6519f8a975427fdda080f054b0f2855537a27fd9e0b144bdffe69f6fc2cfd40fc2d187361e20000fd2603122255537a370819fdecfd06f6144f37dffa",
+   "jp": "よくやってくれたネ。<F8>\n[F2]これでこの町も水不足で困る事はなくなったよ。[F9]アリガトウ！[FE69][F6]ペンギンはオイラがあずかっておくよ。[F6]ほかにも手伝ってもらいたいことがあるんだ！[F6][FE69][F6]あっ！そうそう、[F6]キミたち、いい話をおしえてあげるよ。[F6]インディオを助けたかったらカエルを探しなっ！[FE69][F6]保安官のヤツ、ああ見えてもカエルだけは苦手[F6]なんだ！<FA>",
+   "ko": "정말 잘해 줬어.<F8>\n[F2]이제 이 마을도 물 부족 걱정은 없겠어.[F9]고마워![FE69][F6]펭귄은 내가 맡아 둘게.[F6]그 밖에도 도와줬으면 하는 일이 있어![F6][FE69][F6]앗! 맞다 맞다,[F6]너희한테 좋은 정보를 알려 줄게.[F6]인디오를 구하고 싶으면 개구리를 찾아봐![FE69][F6]보안관 녀석, 저래 보여도 개구리만은 질색[F6]이거든!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 998,
+   "src": "fc0c18fd38fc57fdb419e2566f0f10180405303a144f1305f8144b0f083be2094f3b19519f8a97542dfd41fde237dffb",
+   "jp": "町の水不足は、キミたちのおかげでなんとか<F8>\nなったけど、こんどはインディオが心配だ！<FB>",
+   "ko": "마을 물 부족은 너희 덕분에 어떻게든<F8>\n해결됐지만, 이번엔 인디오가 걱정이야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 999,
+   "src": "8059e0f08059e0f8fc1bfc1a00e5332b4b1201df449f7e9f187361e2f9f0f0fd1d07e2074b1106232d2bdffb",
+   "jp": "ゲコー　ゲコー<F8>\n訳：あ～じれってい！ぺンギンのヤツ、[F9]　　早く、くっつきやがれ！<FB>",
+   "ko": "개굴ー　개굴ー<F8>\n번역: 아~ 답답해! 펭귄 녀석들,[F9]　　빨리 좀 붙어 버려라!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1000,
+   "src": "8059e0f08059e0f8fc1bfc1a372137e1e1e169781c290c2e12e2f9f0f0fd9c0772681f4f142d535a15fd26032ae3fb",
+   "jp": "ゲコー　ゲコー<F8>\n訳：だめだ・・・ハラへりすぎて、[F9]　　動くモノみんながエサに見える。<FB>",
+   "ko": "개굴ー　개굴ー<F8>\n번역: 안 되겠다…… 너무 배가 고파서,[F9]　　움직이는 건 전부 먹이로 보여.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1001,
+   "src": "f255537a27fd0615fd072b0fdff8fdecfc470b0f1446e5e3fb",
+   "jp": "[F2]カエルを手に入れた！<F8>\n苦労したなぁ～。<FB>",
+   "ko": "[F2]개구리를 손에 넣었다!<F8>\n고생했다~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1002,
+   "src": "fdb001fdd718537b8fe05fe027fd9e0c1825e3f8fc31fdcae2fd48fd622dfdb5330921282b12010febfda418fd0e15f9004b0f4f334c14054b0f050b28defb",
+   "jp": "青い扉のエレベーターを探すのよ。<F8>\n多分、先生が閉じこめられていた部屋の下に[F9]あったんじゃなかったかしら？<FB>",
+   "ko": "파란 문의 엘리베이터를 찾는 거야.<F8>\n아마, 선생님이 갇혀 있던 방 아래에[F9]있지 않았던가?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1003,
+   "src": "519ce0df559be255537adfdff0fdda0812e0dffa",
+   "jp": "イャー！カッ、カエル！！　助けてー！<FA>",
+   "ko": "으악! 개, 개구리!! 살려 줘ー!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1004,
+   "src": "0f0b0515e2fd0115fc754b12012afde52d8f9f5e9f37dff80e2b15e2fce415012a1819fd6437e1e1e1f90918fc75fc6c273b093adefe69f6094f14fc75fc6c27134b0f04400319140118372de1e1e1e1f6231929e2566f0f1019fd4f18fc3e18fd0d01141805dfdef60f1820e20918fc75fc6c27fd2e4b12e2fe69f68f9f5e9f27fd9e0b12072bdffb",
+   "jp": "たしかに、左に写っている男がベンソンだ！<F8>\nそれに、横にいるのは私だ・・・[F9]この写真をどこで？[FE69][F6]こんな写真をとったおぼえはないのだが・・・・[F6]やはり、キミたちは時の神の使いなのか！？[F6]たのむ、この写真を持って、[FE69][F6]ベンソンを探してくれ！<FB>",
+   "ko": "확실히, 왼쪽에 찍힌 남자가 벤슨이다!<F8>\n게다가 옆에 있는 건 나……[F9]이 사진을 어디서?[FE69][F6]이런 사진을 찍은 기억은 없는데……[F6]역시 너희는 시간의 신의 사자인가!?[F6]부탁한다, 이 사진을 가지고,[FE69][F6]벤슨을 찾아 다오!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1005,
+   "src": "034bde8f9f5e9f27fd3c4b12012adef8fc3a33140126083a1914012de2fd0505fc7b185c7d5f2df926052afd2f3a22fd2e4b12012a180501defb",
+   "jp": "えっ？ベンソンを知っている？<F8>\n信じないわけではないが、何か彼のスガタが[F9]わかる物でも持っているのかい？<FB>",
+   "ko": "뭐? 벤슨을 안다고?<F8>\n못 믿는 건 아니지만, 뭔가 그의 모습을[F9]알 수 있는 물건이라도 가지고 있니?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1006,
+   "src": "566f0f1019e2fd4f18fc3e18fd0d0115fc14011401dff80514283423e28f9f5e9f130102fde515f9ee032a13fc3a3312012a25dffb",
+   "jp": "キミたちは、時の神の使いに違いない！<F8>\nかならずや、ベンソンという男に[F9]会えると信じているよ！<FB>",
+   "ko": "너희는 틀림없이 시간의 신의 사자다!<F8>\n반드시 벤슨이라는 남자를[F9]만날 수 있으리라 믿는다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1007,
+   "src": "fd4f18fc3e25e20918fdae0f1027fc3d290f1e03e1e1e1fb",
+   "jp": "時の神よ、この子たちを守りたまえ・・・<FB>",
+   "ko": "시간의 신이여, 이 아이들을 지켜 주소서……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1008,
+   "src": "566f14283b2b2d515113fd3b02def8515113fd3b021827fdc50a0b1225dffb",
+   "jp": "キミならどれがイイと思う？<F8>\nイイと思うのを指さしてよ！<FB>",
+   "ko": "너라면 어느 게 좋을 것 같아?<F8>\n좋다고 생각하는 걸 가리켜 줘!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1009,
+   "src": "f5020c0e0205e26e8b370818736117e1e1e1f8234b4129e25b9f937a14182dfd33fc53372517dffa",
+   "jp": "[F5020C]そうか、マドだけのヤツね・・・<F8>\nやっぱり、シンプルなのが一番だよね！<FA>",
+   "ko": "[F5020C]그렇구나, 창문만 있는 거구나……<F8>\n역시 심플한 게 최고지!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1010,
+   "src": "f5020c0e0205e28b50136e8b2d002a736117e1e1e1f88b502d14082b3ce2fd0415fd072b1401224f1400dffa",
+   "jp": "[F5020C]そうか、ドアとマドがあるヤツね・・・<F8>\nドアがなければ、中に入れないもんなあ！<FA>",
+   "ko": "[F5020C]그렇구나, 문과 창문이 있는 거구나……<F8>\n문이 없으면 안에 못 들어가니까!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1011,
+   "src": "f5020c0e0205e28b502dfd1615002a736117e1e1e1f874562d1b4b0f28e2fd160528fd312b2a224f1400dffa",
+   "jp": "[F5020C]そうか、ドアが上にあるヤツね・・・<F8>\nユキがふったら、上から出れるもんなあ！<FA>",
+   "ko": "[F5020C]그렇구나, 문이 위에 있는 거구나……<F8>\n눈이 오면 위로 나갈 수 있으니까!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1012,
+   "src": "f5020c6e8b3c4b0518736117e1e1e1f8fc0718fd0419234b4129fc522a071407104c00dffa",
+   "jp": "[F5020C]マドばっかのヤツね・・・<F8>\n家の中はやっぱり明るくなくちゃあ！<FA>",
+   "ko": "[F5020C]창문투성이인 거구나……<F8>\n집 안은 역시 밝아야지!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1013,
+   "src": "00292d1302dff8fca5fc220b0f28fd26121d0b01083be21e371e37fd4818fd03f93705281400e1e1e1e3fdcc0607144b0f28fd26121f1225dffa",
+   "jp": "ありがとう！<F8>\n完成したら見てほしいけど、まだまだ先の話[F9]だからなあ・・・。大きくなったら見てみてよ！<FA>",
+   "ko": "고마워!<F8>\n완성되면 보여 주고 싶지만, 아직 먼 얘기[F9]라서……. 어른이 되면 보러 와!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1014,
+   "src": "fe6d32fc53334c877114180501def8334c00e2515113fd3b021827fdc50a0b1225dffb",
+   "jp": "[FE6D32]番じゃダメなのかい？<F8>\nじゃあ、イイと思うのを指さしてよ！<FB>",
+   "ko": "[FE6D32]번은 안 돼?<F8>\n그럼, 좋다고 생각하는 걸 가리켜 줘!<FB>",
+   "state": "needs_human_review",
+   "note": "[FE6D32]는 숫자 아이콘(추정 10). 선택지 번호와 맞는지 실기 확인 필요.",
+   "question": ""
+  },
+  {
+   "id": 1015,
+   "src": "234b0fdffdd72dfd0f010f36dffb",
+   "jp": "やった！扉が開いたぞ！<FB>",
+   "ko": "해냈다! 문이 열렸어!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1016,
+   "src": "6d9f6319e2765be1e1e1f8599be2595b2d160812fd9c084f18334ce1e1e1fb",
+   "jp": "ホントは、ワシ・・・<F8>\nコッ、コシがぬけて動けんのじゃ・・・<FB>",
+   "ko": "사실은, 나……<F8>\n다, 다리에 힘이 풀려서 못 움직이겠구먼……<FB>",
+   "state": "needs_human_review",
+   "note": "화자 불명(ワシ+～じゃ 노인. 1018 폴리와 같은 장면이면 하잔으로 추정).",
+   "question": ""
+  },
+  {
+   "id": 1017,
+   "src": "e1e1e13a22e2fa",
+   "jp": "・・・でも、<FA>",
+   "ko": "……하지만,<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1018,
+   "src": "04220b2c0e02370528e29579e0232a26dffa",
+   "jp": "おもしろそうだから、ポリーやるわ！<FA>",
+   "ko": "재밌을 것 같으니까, 폴리가 할래!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1019,
+   "src": "f252e59fe28751646e516327fd0615fd072b0fdff9fe6d04905f9f15fd072b12fd0d4b121f2502dffa",
+   "jp": "[F2]ウ～ン、ダイナマイトを手に入れた！[F9][FE6D04]ボタンに入れて使ってみよう！<FA>",
+   "ko": "[F2]으~음, 다이너마이트를 손에 넣었다![F9][FE6D04]버튼에 넣어서 써 보자!<FA>",
+   "state": "needs_human_review",
+   "note": "「ウ～ン、ダイナマイト」(아이템명 3048과 같은 말장난). 아이템명과 표기 통일 필요.",
+   "question": ""
+  },
+  {
+   "id": 1020,
+   "src": "f8f0f06e9b575ce25051627019fc9d0312fd0d024f37e3fb",
+   "jp": "<F8>\n　　マックス、アイテムは考えて使うんだ。<FB>",
+   "ko": "<F8>\n　　맥스, 아이템은 생각하고 쓰는 거야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1021,
+   "src": "104e4b13e209091e3afd6812072b140105dffb",
+   "jp": "ちょっと、ここまで来てくれないか！<FB>",
+   "ko": "잠깐, 여기까지 와 주겠니!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1022,
+   "src": "7f847f840b14013ae28751646e516327fd0d4b12fd07fdb727f8fd2611082a4f37dffb",
+   "jp": "グズグズしないで、ダイナマイトを使って入口を<F8>\n見つけるんだ！<FB>",
+   "ko": "꾸물대지 말고, 다이너마이트로 입구를<F8>\n찾아내는 거다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1023,
+   "src": "519b9161e28b55e09f13014b121f2502dffb",
+   "jp": "イッパツ、ドカーンといってみよう！<FB>",
+   "ko": "한 방, 쾅 하고 터뜨려 보자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1024,
+   "src": "8751646e516319e2fd572dfd2e4b12012a4f3701defb",
+   "jp": "ダイナマイトは、誰が持っているんだい？<FB>",
+   "ko": "다이너마이트는 누가 가지고 있지?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1025,
+   "src": "0f0b0515e28751646e51631905030b1222284b0f35f809188751646e516327fd0d4b12e258707927fd1630120407f90528e2192f2b2a4f334c140135dffa",
+   "jp": "たしかに、ダイナマイトはかえしてもらったぜ<F8>\nこのダイナマイトを使って、ケムリを上げておく[F9]から、はぐれるんじゃないぜ！<FA>",
+   "ko": "다이너마이트는 확실히 돌려받았다.<F8>\n이 다이너마이트로 연기를 피워 올려 둘 테니[F9]길 잃지 말라고!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1026,
+   "src": "6e9f6ee06318fcfdfd2b27110812012a052e29e2f8092b2529fd48151901050d1401dffb",
+   "jp": "マンマートの仮面をつけているかぎり、<F8>\nこれより先にはいかせない！<FB>",
+   "ko": "만마트의 가면을 쓰고 있는 한,<F8>\n이 앞으로는 못 지나간다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1027,
+   "src": "050f0712e2fd063a19fd4c0d0e022214011400e1e1e1fb",
+   "jp": "かたくて、手では押せそうもないなあ・・・<FB>",
+   "ko": "단단해서 손으로는 못 밀 것 같아……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1028,
+   "src": "051429fdc60e0237e1e1e3fb",
+   "jp": "かなり重そうだ・・。<FB>",
+   "ko": "꽤 무거워 보여…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1029,
+   "src": "60e07076e05719e2fd960715254b12d7fd3d188c789f5cf827fc9d031217dffb",
+   "jp": "チームワークは、近くによって３人のバランス<F8>\nを考えてね！<FB>",
+   "ko": "팀워크는 가까이 다가가서<F8>\n세 사람의 균형을 생각해 봐!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1030,
+   "src": "09181e1efdce4b414b0f28e2190a1e2b104c0225e5dffb",
+   "jp": "このまま引っぱったら、はさまれちゃうよ～！<FB>",
+   "ko": "이대로 잡아당기면 끼어 버리겠어~!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1031,
+   "src": "0429121f2adefb",
+   "jp": "おりてみる？<FB>",
+   "ko": "내려가 볼까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1032,
+   "src": "fdd62dfd54082b3c260f2b1401e3fb",
+   "jp": "橋が無ければわたれない。<FB>",
+   "ko": "다리가 없으면 못 건너.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1033,
+   "src": "0028569c93629fdf002612123b020b0f4f3a0cdef8e1e1e13a22e20e180026120f04fd14225c6256dffb",
+   "jp": "あらキャプテン！あわててどうしたんです？<F8>\n・・・でも、そのあわてたお顔もステキ！<FB>",
+   "ko": "어머 캡틴! 허둥지둥 무슨 일이세요?<F8>\n……그래도, 그 허둥대는 얼굴도 멋져요!<FB>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 젊은 시절의 벤슨 부인.",
+   "question": ""
+  },
+  {
+   "id": 1034,
+   "src": "fd1605281415053a0f0f0112113e0b0f1805144bdefb",
+   "jp": "上からなにかでたたいてつぶしたのかなっ？<FB>",
+   "ko": "위에서 뭔가로 때려서 납작하게 만든 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1035,
+   "src": "789b59e2789b59f8fc1bfc1a8d9b57790c2a0528043b050a14013a17dffb",
+   "jp": "ラッコ、ラッコ<F8>\n訳：ビックリするからおどかさないでね！<FB>",
+   "ko": "해달, 해달<F8>\n번역: 깜짝 놀라니까 겁주지 말아 줘!<FB>",
+   "state": "needs_human_review",
+   "note": "울음 「ラッコ、ラッコ」는 제 이름을 우는 개그라서 「해달, 해달」로 옮김.",
+   "question": ""
+  },
+  {
+   "id": 1036,
+   "src": "789b59e2789b59f8fc1bfc1a8d9b57790c2a0528043b050a14013a17dffb",
+   "jp": "ラッコ、ラッコ<F8>\n訳：ビックリするからおどかさないでね！<FB>",
+   "ko": "해달, 해달<F8>\n번역: 깜짝 놀라니까 겁주지 말아 줘!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1037,
+   "src": "fd1d070b140113e26e9f6ee0631873612815f8fd5039052b2a36dffb",
+   "jp": "早くしないと、マンマートのヤツらに<F8>\n気づかれるぞ！<FB>",
+   "ko": "서두르지 않으면 만마트 녀석들한테<F8>\n들킨다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1038,
+   "src": "6e9f6ee063d7fc12fcf70528e204fc0127fc302202144f12f801018b569e520b122a334c170305dff9555781193a0612012a4f372c021400dffe69f61e3419e290525b27053e4b0f04fd9f0528fd881e112915f6003012232a35e1e1dff6547b0f1018fd3018043b2927fd2625dfdffa",
+   "jp": "マンマート３兄弟から、お宝を盗もうなんて<F8>\nいいドキョウしてるじゃねえか！[F9]カクゴはできているんだろうなあ！[FE69][F6]まずは、ボウシをかぶったお前から血まつりに[F6]あげてやるぜ・・！[F6]オレたちの死のおどりを見よ！！<FA>",
+   "ko": "만마트 3형제한테서 보물을 훔치려 들다니<F8>\n배짱 한번 좋구나![F9]각오는 돼 있겠지![FE69][F6]먼저 모자를 쓴 너부터 피의 제물로[F6]삼아 주마……![F6]우리의 죽음의 춤을 봐라!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1039,
+   "src": "04fd9f2d79e087e0054bdffb",
+   "jp": "お前がリーダーかっ！<FB>",
+   "ko": "네가 리더냐!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1040,
+   "src": "547b0f100528e2fcb730282b2a13fd3b0214254bdffb",
+   "jp": "オレたちから、逃げられると思うなよっ！<FB>",
+   "ko": "우리한테서 도망칠 수 있을 것 같으냐!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1041,
+   "src": "e1e1e1e1e1e1e1e1fb",
+   "jp": "・・・・・・・・<FB>",
+   "ko": "…………<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1042,
+   "src": "0e2b2529e27361282dfd104b12012a091327fdeb074f37dffb",
+   "jp": "それより、ヤツらが言っていることを聞くんだ！<FB>",
+   "ko": "그보다, 녀석들이 하는 말을 들어 봐!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1043,
+   "src": "fd1d07905f9f27fd4c0a140113e26e9f6ee06318736128f82d0406120b1e0236dffb",
+   "jp": "早くボタンを押さないと、マンマートのヤツら<F8>\nがおきてしまうぞ！<FB>",
+   "ko": "빨리 버튼을 누르지 않으면<F8>\n만마트 녀석들이 깨어나 버린다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1044,
+   "src": "726318fd5ffd6015223b4b0f28e205142834fd6415ee0115f8fd682a4f37e3010117dffb",
+   "jp": "モトの世界にもどったら、かならず私に会いに<F8>\n来るんだ。いいね！<FB>",
+   "ko": "원래 세계로 돌아가면, 꼭 나를 만나러<F8>\n오는 거다. 알았지!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1045,
+   "src": "726318fd5ffd6015223b4b0f28e205142834fd6415ee0115f8fd682a4f37e3010117dffb",
+   "jp": "モトの世界にもどったら、かならず私に会いに<F8>\n来るんだ。いいね！<FB>",
+   "ko": "원래 세계로 돌아가면, 꼭 나를 만나러<F8>\n오는 거다. 알았지!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1046,
+   "src": "fd54fd792d192b1225054b0f17e1e1e1dffb",
+   "jp": "無実がはれてよかったね・・・！<FB>",
+   "ko": "누명을 벗어서 다행이야……!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1047,
+   "src": "8f9f5e9f2de290570f1015fd870b12014b0ff8719b5de08337dff9e1e1e1e13b020102516f372c02defb",
+   "jp": "ベンソンが、ボクたちに残していった<F8>\nメッセージだ！[F9]・・・・どういうイミだろう？<FB>",
+   "ko": "벤슨이 우리에게 남기고 간<F8>\n메시지야![F9]……무슨 뜻일까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1048,
+   "src": "fd0505e2002a180514defb",
+   "jp": "何か、あるのかな？<FB>",
+   "ko": "뭔가 있는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1049,
+   "src": "104e4b13e209091e3afd6812fcf6fdb2fc3327fd2612072bdffb",
+   "jp": "ちょっと、ここまで来て設計図を見てくれ！<FB>",
+   "ko": "잠깐, 여기 와서 설계도 좀 봐 줘!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1050,
+   "src": "144f37de0918fc75fc6c19e1e1e1fb",
+   "jp": "なんだ？この写真は・・・<FB>",
+   "ko": "뭐야? 이 사진은……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1051,
+   "src": "8f9f5e9ffdc8334c140105dffb",
+   "jp": "ベンソン様じゃないか！<FB>",
+   "ko": "벤슨 님이잖아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1052,
+   "src": "8f9f5e9ffdc81813092c15fd680f519f8a97543725e3f8144f3a22e6fc0c2dfdccfdaa37e71305014b120f1446fb",
+   "jp": "ベンソン様のところに来たインディオだよ。<F8>\nなんでも「町が大変だ」とかいってたなぁ<FB>",
+   "ko": "벤슨 님한테 왔던 인디오야.<F8>\n듣자 하니 「마을이 큰일이다」라나 뭐라나.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1053,
+   "src": "8f9f5e9ffdc82dfd2611080fe66ee0f45799799b5718fcccfc01e7f818002905270b210b0ffdc73ae68e7ae057795c5f7ae7f94b12014b0f4b08dffb",
+   "jp": "ベンソン様が見つけた「マーヴェリックの財宝」<F8>\nのありかをしめした玉で「ブルークリスタル」[F9]っていったっけ！<FB>",
+   "ko": "벤슨 님이 찾아낸 「매버릭의 보물」이<F8>\n있는 곳을 가리키는 구슬인데,[F9]「블루 크리스털」이라고 했던가!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1054,
+   "src": "144be1e1144f370918fc75fc6cdefb",
+   "jp": "なっ・・なんだこの写真？<FB>",
+   "ko": "뭐, 뭐야 이 사진?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1055,
+   "src": "144f37e28f9f5e9ffdc8334c170305dffb",
+   "jp": "なんだ、ベンソン様じゃねえか！<FB>",
+   "ko": "뭐야, 벤슨 님이잖아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1056,
+   "src": "8f9f5e9ffdc81813092c15fd680f519f8a9754372cdffb",
+   "jp": "ベンソン様のところに来たインディオだろ！<FB>",
+   "ko": "벤슨 님한테 왔던 인디오잖아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1057,
+   "src": "e6fc0c18fc01fd2fe73ae20f0b05e1e18f9f5e9ffdc8f818230b0615004b0f194be1e1e1699b575b9e9fdff919343725e3fb",
+   "jp": "「町の宝物」で、たしか・・ベンソン様<F8>\nのやしきにあったはっ・・・ハックション！[F9]はずだよ。<FB>",
+   "ko": "「마을의 보물」인데, 분명…… 벤슨 님<F8>\n저택에 있었을 거, 거…… 에, 에취![F9]거야.<FB>",
+   "state": "needs_human_review",
+   "note": "원문은 「はず」를 말하다 재채기(ハックション)로 끊김. 같은 구조로 옮김.",
+   "question": ""
+  },
+  {
+   "id": 1058,
+   "src": "140015e20918fc75fc6cdffb",
+   "jp": "なあに、この写真！<FB>",
+   "ko": "어머, 이 사진 뭐야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1059,
+   "src": "8f9f5e9ffdc817dff80f071e0b074b12e20101fde51418dffb",
+   "jp": "ベンソン様ね！<F8>\nたくましくって、いい男なの！<FB>",
+   "ko": "벤슨 님이네!<F8>\n늠름하고, 멋진 남자야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1060,
+   "src": "949f7e9ffde91820090215fc114f3a012a519f8a975425dff8fdf613014b0b4e15fc114f3a012a26e3fb",
+   "jp": "ペンギン池のむこうに住んでいるインディオよ！<F8>\n娘といっしょに住んでいるわ。<FB>",
+   "ko": "펭귄 연못 건너편에 사는 인디오야!<F8>\n딸이랑 같이 살고 있어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1061,
+   "src": "e6fc0c18fc01fd2fe73a0b4ee3f837083b597be2519f8a975418fd0a3a19e2f9e6fd4f18fc3e18fd2fe7130b12002d21282b12012a18e3fb",
+   "jp": "「町の宝物」でしょ。<F8>\nだけどコレ、インディオの間では、[F9]「時の神の物」としてあがめられているの。<FB>",
+   "ko": "「마을의 보물」이잖아.<F8>\n그런데 이건 인디오들 사이에서는,[F9]「시간의 신의 물건」으로 숭배받고 있대.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1062,
+   "src": "140015e20918fc75fc6cdffb",
+   "jp": "なあに、この写真！<FB>",
+   "ko": "어머, 이 사진 뭐야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1063,
+   "src": "260f0b18fcfe25dff80018fd3de2011118fd0a15094f14fc75fc6c27134b0f18050b28f9e1e1e1fb",
+   "jp": "わたしの夫よ！<F8>\nあの人、いつの間にこんな写真をとったのかしら[F9]・・・<FB>",
+   "ko": "우리 남편이야!<F8>\n그이, 언제 이런 사진을 찍었을까[F9]……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1064,
+   "src": "fcfe1813092c15fd680ffd3d25e3f8144f3a22e2fd4f270023112b2afce627fd2e4b12012a1305e2f9e1e1e1fd49fc19050b28e3fb",
+   "jp": "夫のところに来た人よ。<F8>\nなんでも、時をあやつれる術を持っているとか、[F9]・・・本当かしら。<FB>",
+   "ko": "남편을 찾아왔던 사람이야.<F8>\n듣자 하니, 시간을 다루는 술법을 가졌다나,[F9]……정말일까.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1065,
+   "src": "fcfe2dfd2611080ffdc717e3fb",
+   "jp": "夫が見つけた玉ね。<FB>",
+   "ko": "남편이 찾아낸 구슬이네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1066,
+   "src": "144f37e20918fc75fc6cdffb",
+   "jp": "なんだ、この写真！<FB>",
+   "ko": "뭐야, 이 사진!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1067,
+   "src": "1302104c4f37dffb",
+   "jp": "とうちゃんだ！<FB>",
+   "ko": "아빠다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1068,
+   "src": "fd3c2817e0dffb",
+   "jp": "知らねー！<FB>",
+   "ko": "몰라!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1069,
+   "src": "fd3c2817e0dffb",
+   "jp": "知らねー！<FB>",
+   "ko": "몰라!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1070,
+   "src": "fd053a0c05e20918fc75fc6cdefb",
+   "jp": "何ですか、この写真？<FB>",
+   "ko": "이 사진, 뭐예요?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1071,
+   "src": "0918fc0727050b12072b0f0433104c4f3a0cdffb",
+   "jp": "この家をかしてくれたおじちゃんです！<FB>",
+   "ko": "이 집을 빌려준 아저씨예요!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1072,
+   "src": "fc343a0cdffda3192a0c150b12011e0cdffb",
+   "jp": "父です！今はるすにしています！<FB>",
+   "ko": "아빠예요! 지금은 집에 없어요!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1073,
+   "src": "fd4f18fc3efdc818fd2e10fd2f3a0cdffb",
+   "jp": "時の神様の持ち物です！<FB>",
+   "ko": "시간의 신님의 물건이에요!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1074,
+   "src": "92e0f092e0f8fc1bfc1a6e6edf6e6edffb",
+   "jp": "ピー　ピー<F8>\n訳：ママ！ママ！<FB>",
+   "ko": "삐ー　삐ー<F8>\n번역: 엄마! 엄마!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1075,
+   "src": "92e56a9e7cf092e56a9e7cf8fc1bfc1afd4f18fc3e25df3b0205e20018fde527fc8afd681cf9f0f01f103d060f1e03e0fb",
+   "jp": "ピ～ヒョロ　ピ～ヒョロ<F8>\n訳：時の神よ！どうか、あの男を未来へ[F9]　　みちびきたまえー<FB>",
+   "ko": "삐~요로　삐~요로<F8>\n번역: 시간의 신이여! 부디 저 남자를[F9]　　미래로 인도하소서ー<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1076,
+   "src": "90570f102d5f517076e0930b0ffd5513141505e2f8fc2afc2b2d002a180514e1e1e1defb",
+   "jp": "ボクたちがタイムワープした事となにか、<F8>\n関係があるのかな・・・？<FB>",
+   "ko": "우리가 타임워프한 것과 뭔가<F8>\n관계가 있는 걸까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1077,
+   "src": "fd15fd77fda62d14054b0f28e2090918fd3dfde419fd15fd771319f801261401250214fd502d0c2a4f37083be1e1e1e1fb",
+   "jp": "海賊船がなかったら、ここの人達は海賊とは<F8>\nいわないような気がするんだけど・・・・<FB>",
+   "ko": "해적선이 없으면, 여기 사람들은 해적이라고<F8>\n안 할 것 같은데…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1078,
+   "src": "fd3dfd62fc2ffd35dffa",
+   "jp": "人生最高！<FA>",
+   "ko": "인생 최고!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1079,
+   "src": "e1e1e1fd42072605281401083be2002612104c372125e3f8f93a22e1e1e1e1e1e1e1fcfb013a09090528fd311e0b4edffb",
+   "jp": "・・・良くわからないけど、あわてちゃだめよ。<F8>\n[F9]でも・・・・・・・急いでここから出ましょ！<FB>",
+   "ko": "……잘 모르겠지만, 허둥대면 안 돼.<F8>\n[F9]그래도…… 서둘러 여기서 나가자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1080,
+   "src": "919b60e0844b12e2d711fdae374b0f4f37e1e1e1dffb",
+   "jp": "パッチーズって、３つ子だったんだ・・・！<FB>",
+   "ko": "패치즈는 세쌍둥이였구나……!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1081,
+   "src": "e6a7aeb6f0b3aef0fd15fd77e7f8e1e1e1fc974f3a1f0f01fd502d0c2ae3fb",
+   "jp": "「ＨＯＷ　ＴＯ　海賊」<F8>\n・・・読んでみたい気がする。<FB>",
+   "ko": "「HOW TO 해적」<F8>\n……읽어 보고 싶은 기분이 든다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1082,
+   "src": "609e9b9279e21d0b011400e5e3fb",
+   "jp": "チョッピリ、ほしいなあ～。<FB>",
+   "ko": "조금, 갖고 싶다~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1083,
+   "src": "90572822e28f9b633a170f011400e5e3fb",
+   "jp": "ボクらも、ベットでねたいなあ～。<FB>",
+   "ko": "우리도 침대에서 자고 싶다~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1084,
+   "src": "3f1115143012fd0d032a2608334c14012517dffb",
+   "jp": "べつになげて使えるわけじゃないよね！<FB>",
+   "ko": "딱히 던져서 쓸 수 있는 건 아니겠지!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1085,
+   "src": "fd15fd7718fdfa3a1914012514e1e1e1dffb",
+   "jp": "海賊の品ではないよな・・・！<FB>",
+   "ko": "해적의 물건은 아니겠지……!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1086,
+   "src": "1e37fd0d4b12012a180514defb",
+   "jp": "まだ使っているのかな？<FB>",
+   "ko": "아직 쓰고 있는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1087,
+   "src": "0918515c19e2050f0e0237e3fb",
+   "jp": "このイスは、かたそうだ。<FB>",
+   "ko": "이 의자는 딱딱해 보여.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1088,
+   "src": "0918334d020f4f22e2fd15fd7718e1e1e1f81426064c140105dffb",
+   "jp": "このじゅうたんも、海賊の・・・<F8>\nなわきゃないか！<FB>",
+   "ko": "이 양탄자도 해적의……<F8>\n것일 리가 없나!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1089,
+   "src": "fe6af500d3f8f0f0f0f0f0f0f0f01e4b12fd48fd62dff9fe69f6f0f0f0f090572dfd872a25dff08a97549ff6f0f0f0f090572dfd872a25dff06e9b575cf6f0f0f0f090572dfd872a25dff0839c9b57fe6efa",
+   "jp": "[FE6A][F500D3]<F8>\n　　　　　　　　まって先生！[F9][FE69][F6]　　　　ボクが残るよ！　ディオン[F6]　　　　ボクが残るよ！　マックス[F6]　　　　ボクが残るよ！　ジャック[FE6E]<FA>",
+   "ko": "[FE6A][F500D3]<F8>\n　　　　　　　　　　　　기다려요, 선생님![F9][FE69][F6]　　　　제가 남을게요!　디온[F6]　　　　제가 남을게요!　맥스[F6]　　　　제가 남을게요!　잭[FE6E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1090,
+   "src": "1415def00918fc75fc6cdffb",
+   "jp": "なに？　この写真！<FB>",
+   "ko": "뭐야? 이 사진!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1091,
+   "src": "004bdff054738d9f37dffb",
+   "jp": "あっ！　オヤビンだ！<FB>",
+   "ko": "앗! 두목이다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1092,
+   "src": "fd3c281401dffb",
+   "jp": "知らない！<FB>",
+   "ko": "몰라!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1093,
+   "src": "04fc0137dffb",
+   "jp": "お宝だ！<FB>",
+   "ko": "보물이다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1094,
+   "src": "1415def00918fc75fc6cdffb",
+   "jp": "なに？　この写真！<FB>",
+   "ko": "뭐야? 이 사진!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1095,
+   "src": "004bdff054738d9f37dffb",
+   "jp": "あっ！　オヤビンだ！<FB>",
+   "ko": "앗! 두목이다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1096,
+   "src": "fd3c281401f0083bf00101fde5dffb",
+   "jp": "知らない　けど　いい男！<FB>",
+   "ko": "몰라　그래도　멋진 남자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1097,
+   "src": "04fc0137dffb",
+   "jp": "お宝だ！<FB>",
+   "ko": "보물이다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1098,
+   "src": "8c8ef08c8efb",
+   "jp": "バブ　バブ<FB>",
+   "ko": "옹알　옹알<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "suggestion",
+     "proposed": "옹알　옹알<FB>",
+     "reason": "아기 옹알이 「バブ」를 「바부」로 두면 「바보」처럼 읽힘. 한국어 옹알이 의성어 「옹알」 권장(1100과 통일).",
+     "applied": "D9"
+    }
+   ],
+   "draft_ko": "바부　바부<FB>"
+  },
+  {
+   "id": 1099,
+   "src": "0202e54ff053e09fdf53e09fdff9e1e1e102140a2b12012ae3fb",
+   "jp": "うう～ん　エーン！エーン！[F9]・・・うなされている。<FB>",
+   "ko": "우으~응 앙! 앙![F9]……악몽을 꾸고 있다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1100,
+   "src": "8c8ef08c8efb",
+   "jp": "バブ　バブ<FB>",
+   "ko": "옹알　옹알<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "suggestion",
+     "proposed": "옹알　옹알<FB>",
+     "reason": "1098과 같음.",
+     "applied": "D9"
+    }
+   ],
+   "draft_ko": "바부　바부<FB>"
+  },
+  {
+   "id": 1101,
+   "src": "569c9bdf569c9bdff9e1e1e104fc01fd260d0f28e2252c094f3a012ae3fb",
+   "jp": "キャッ！キャッ！[F9]・・・お宝見せたら、よろこんでいる。<FB>",
+   "ko": "꺄! 꺄![F9]……보물을 보여 주니 좋아한다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1102,
+   "src": "8059f08059f8fc1bfc1a1e4b0f07e2140a081703e5e3fb",
+   "jp": "ゲコ　ゲコ<F8>\n訳：まったく、なさけねえ～。<FB>",
+   "ko": "개굴　개굴<F8>\n번역: 정말이지, 한심하구먼~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1103,
+   "src": "0a0c2de25b5c59fd48fd62dff804fc34fdc822799b9114fd113a0b0f0528e2f9fd881900280e03140182e06e5cdffb",
+   "jp": "さすが、シスコ先生！<F8>\nお父様もリッパな方でしたから、[F9]血はあらそえないザーマス！<FB>",
+   "ko": "역시, 시스코 선생님!<F8>\n아버님도 훌륭한 분이셨으니,[F9]피는 못 속이는 법이사와요!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1104,
+   "src": "fc50fc51371400e5dffb",
+   "jp": "平和だなあ～！<FB>",
+   "ko": "평화롭구나~!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1105,
+   "src": "765b220918d6fd3d180405303afda3334cfc0cfd6b3725e3fb",
+   "jp": "ワシもこの２人のおかげで今じゃ町長だよ。<FB>",
+   "ko": "나도 이 두 사람 덕분에 지금은 촌장이라네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1106,
+   "src": "fd6418fcfe19e2fd6415e2fd9a15ee4b0f50645f0f101f0f0114f8fdae3b2218fd032725070b12010f0528e2f9064b13252c093e26e3fb",
+   "jp": "私の夫は、私に、昔に会ったアナタたちみたいな<F8>\n子どもの話をよくしていたから、[F9]きっとよろこぶわ。<FB>",
+   "ko": "우리 남편은, 나한테 옛날에 만난 너희 같은<F8>\n아이들 얘기를 자주 했으니까,[F9]분명 기뻐할 거야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1107,
+   "src": "fc0c2d0902144b0f1819e2f8519f8a9754138f9f5e9f1804053037e0dffb",
+   "jp": "町がこうなったのは、<F8>\nインディオとベンソンのおかげだー！<FB>",
+   "ko": "마을이 이렇게 된 건,<F8>\n인디오와 벤슨 덕분이다ー!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1108,
+   "src": "519f8a975418fdf60a4f19fc94fcee18fd48fd62270b12012a25e3f8fc34fc3515fcfc12e2799b9114fd3d3725e3f98f9f5e9f18fc3cfdae19e1e1e1e1e1e1e1fd3c2817031400defb",
+   "jp": "インディオの娘さんは学校の先生をしているよ。<F8>\n父親に似て、リッパな人だよ。[F9]ベンソンの息子は・・・・・・・知らねえなあ？<FB>",
+   "ko": "인디오의 딸은 학교 선생님을 하고 있어.<F8>\n아버지를 닮아서 훌륭한 사람이야.[F9]벤슨의 아들은……… 모르겠는데?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1109,
+   "src": "5b5c590a4f27fd2612e2f8609e9b9279e283e064fd48fd6227fd3b01fd310b120b1e4b0fe3fb",
+   "jp": "シスコさんを見て、<F8>\nチョッピリ、ジーナ先生を思い出してしまった。<FB>",
+   "ko": "시스코 선생님을 보고,<F8>\n조금, 지나 선생님이 생각나 버렸다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1110,
+   "src": "fc44fdcb220101082b3be20f1e1519fd7e3afceb3c14064cdffb",
+   "jp": "勉強もいいけれど、たまには外で遊ばなきゃ！<FB>",
+   "ko": "공부도 좋지만, 가끔은 밖에서 놀아야지!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1111,
+   "src": "094f14e2fdb0fc2618fd0e3afc44fdcb2dfd31fd682a144f12e2f85c62563776e3fb",
+   "jp": "こんな、青空の下で勉強が出来るなんて、<F8>\nステキだワ。<FB>",
+   "ko": "이런 파란 하늘 아래서 공부할 수 있다니,<F8>\n멋져.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1112,
+   "src": "22020c2fe25b5c59fd48fd6218f400fced2dfdf51e2a13f8fd3b024f37083be1e1e1fd48fd62040e011400e5e3fb",
+   "jp": "もうすぐ、シスコ先生の授業が始まると<F8>\n思うんだけど・・・先生おそいなあ～。<FB>",
+   "ko": "이제 곧 시스코 선생님 수업이 시작될<F8>\n텐데…… 선생님 늦으시네~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1113,
+   "src": "fc44fdcb2d0628011428e2fd33fdf35b5c59fd48fd6218f400fced27f80208121f1425e3134b1222260529230c014f37dffb",
+   "jp": "勉強がきらいなら、一度シスコ先生の授業を<F8>\nうけてみなよ。とってもわかりやすいんだ！<FB>",
+   "ko": "공부가 싫으면, 한번 시스코 선생님 수업을<F8>\n들어 봐. 정말 알기 쉽거든!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1114,
+   "src": "1703e21703e2f85b5c59fd48fd624b125c62563713fd3b261401defb",
+   "jp": "ねえ、ねえ、<F8>\nシスコ先生ってステキだと思わない？<FB>",
+   "ko": "있지, 있지,<F8>\n시스코 선생님 멋지다고 생각 안 해?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1115,
+   "src": "5b5c59fd48fd624b12e2fd49fc19150101fd48fd62372517e2174bdffb",
+   "jp": "シスコ先生って、本当にいい先生だよね、ねっ！<FB>",
+   "ko": "시스코 선생님 정말 좋은 선생님이지, 그치!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1116,
+   "src": "fd954b0f28e2fd48fd6215252c0b0717dffb",
+   "jp": "帰ったら、先生によろしくね！<FB>",
+   "ko": "돌아가면, 선생님께 안부 전해 줘!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1117,
+   "src": "5c625614fc073a0b4edffb",
+   "jp": "ステキな家でしょ！<FB>",
+   "ko": "멋진 집이지!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1118,
+   "src": "fd3dfd6219e21e371e37092b0528334cdffb",
+   "jp": "人生は、まだまだこれからじゃ！<FB>",
+   "ko": "인생은 이제부터라네!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1119,
+   "src": "f8f0f0f0f0f0f01e4b12fe6d56fc67dffb",
+   "jp": "<F8>\n　　　　　　まって[FE6D56]君！<FB>",
+   "ko": "<F8>\n　　　　　　기다려 [FE6D56] 군!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1120,
+   "src": "659ce0e2659ce0e2fb",
+   "jp": "ニャー、ニャー、<FB>",
+   "ko": "냐옹, 냐옹,<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1121,
+   "src": "fd9ae2fd260f559f83131e26292dfc1402250214fd502d0c2af84f37082b3be1e1e1fb",
+   "jp": "昔、見たカンジとまわりが違うような気がする<F8>\nんだけれど・・・<FB>",
+   "ko": "옛날에 본 느낌과 주변이 다른 것 같은데<F8>\n……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1122,
+   "src": "23070e0727044003120112072b0f180514defb",
+   "jp": "やくそくをおぼえていてくれたのかな？<FB>",
+   "ko": "약속을 기억해 준 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1123,
+   "src": "144f37de0918fc75fc6c19e1e1e1fb",
+   "jp": "なんだ？この写真は・・・<FB>",
+   "ko": "뭐야? 이 사진은……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1124,
+   "src": "fd3c2817031400e1e1e1e3fb",
+   "jp": "知らねえなあ・・・。<FB>",
+   "ko": "모르겠는데…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1125,
+   "src": "fd3c2817031400e1e1e1e3fb",
+   "jp": "知らねえなあ・・・。<FB>",
+   "ko": "모르겠는데…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1126,
+   "src": "fd260f091317031400e1e1e1e3fb",
+   "jp": "見たことねえなあ・・・。<FB>",
+   "ko": "본 적 없는데…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1127,
+   "src": "fda319e2001e29fd0d4b121401250237e3fb",
+   "jp": "今は、あまり使ってないようだ。<FB>",
+   "ko": "지금은 별로 안 쓰는 것 같다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1128,
+   "src": "9057283a19e2fd2e120e02221401e1e1e1fb",
+   "jp": "ボクらでは、持てそうもない・・・<FB>",
+   "ko": "우리로서는 못 들 것 같아……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1129,
+   "src": "1d0b011400e5fb",
+   "jp": "ほしいなあ～<FB>",
+   "ko": "갖고 싶다~<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1130,
+   "src": "fd0515fd0d0218372c02e1e1e1defb",
+   "jp": "何に使うのだろう・・・？<FB>",
+   "ko": "어디에 쓰는 걸까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1131,
+   "src": "09020102fd2f4b12e21329000334fc071505324b120407f8083be200133a839c6e15142a4f372517dffb",
+   "jp": "こういう物って、とりあえず家にかざっておく<F8>\nけど、あとでジャマになるんだよね！<FB>",
+   "ko": "이런 물건은 일단 집에 장식해 두지만,<F8>\n나중에 거추장스러워진단 말이야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1132,
+   "src": "09020102fd2f4b12e21329000334fc071505324b120407f8083be200133a839c6e15142a4f372517dffb",
+   "jp": "こういう物って、とりあえず家にかざっておく<F8>\nけど、あとでジャマになるんだよね！<FB>",
+   "ko": "이런 물건은 일단 집에 장식해 두지만,<F8>\n나중에 거추장스러워진단 말이야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1133,
+   "src": "37083be20918fd0618fc01fc024b12fd0f0514014f372517dffb",
+   "jp": "だけど、この手の宝箱って開かないんだよね！<FB>",
+   "ko": "그런데, 이런 보물상자는 안 열리더라!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1134,
+   "src": "fc4a3afd31fd6812012adef0144f05e25b9d6ffd6a01dffb",
+   "jp": "金で出来ている？　なんか、シュミ悪い！<FB>",
+   "ko": "금으로 만들었나? 왠지 취향 별로!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1135,
+   "src": "234b4129dffb",
+   "jp": "やっぱり！<FB>",
+   "ko": "역시!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1136,
+   "src": "fd571804fcab144f372c02e1e1defb",
+   "jp": "誰のお墓なんだろう・・？<FB>",
+   "ko": "누구의 무덤일까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1137,
+   "src": "0918fdbffc59e2fd0505fc58fd292d002a180514defb",
+   "jp": "この黒石、何か意味があるのかな？<FB>",
+   "ko": "이 검은 돌, 뭔가 의미가 있는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1138,
+   "src": "947ee2947ee2947ee5e3f8fc1bfc1afd3dfd0a18949b634b12231115142a1822e2f9f0f00101221817e5e3fb",
+   "jp": "ペギ、ペギ、ペギ～。<F8>\n訳：人間のペットってやつになるのも、[F9]　　いいものね～。<FB>",
+   "ko": "펭, 펭, 펭~.<F8>\n번역: 인간의 펫이라는 게 되는 것도[F9]　　괜찮은걸~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1139,
+   "src": "fe6a004be20e0237dff079e087e0699b63e3f8092b4be2905719220279e087e0334c1401052817e3f9e1e1e1e1e1fd48fd62270f184f3725dffa",
+   "jp": "[FE6A]あっ、そうだ！　リーダーハット。<F8>\nこれっ、ボクはもうリーダーじゃないからね。[F9]・・・・・先生をたのんだよ！<FA>",
+   "ko": "[FE6A]앗, 맞다! 리더 모자.<F8>\n이거, 난 이제 리더가 아니니까.[F9]……선생님을 부탁할게!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1140,
+   "src": "fe6d34fc67e2004f0ffda3f079e087e0144f370528f8fd0513050b140a0125dffb",
+   "jp": "[FE6D34]君、あんた今　リーダーなんだから<F8>\n何とかしなさいよ！<FB>",
+   "ko": "[FE6D34] 군, 지금은 네가 리더잖아.<F8>\n어떻게 좀 해 봐!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1141,
+   "src": "0f0c054b0f26e3fb",
+   "jp": "たすかったわ。<FB>",
+   "ko": "살았어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1142,
+   "src": "e65f567ee719fde918fd11150f070a4f004b0f2625e3fb",
+   "jp": "「タキギ」は池の方にたくさんあったわよ。<FB>",
+   "ko": "「땔감」은 연못 쪽에 많이 있었어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1143,
+   "src": "e1e1e1e1e1e1e1e1e1e1e126054b0f26f80c2f15fdda0827fd974f3afd682a0528e2fc67190e0927f9fd9c0514013afdfc4b12011217e3fa",
+   "jp": "・・・・・・・・・・・わかったわ<F8>\nすぐに助けを呼んで来るから、君はそこを[F9]動かないで待っていてね。<FA>",
+   "ko": "…………알았어.<F8>\n금방 도움을 불러올 테니까, 너는 거기서[F9]움직이지 말고 기다리고 있으렴.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1144,
+   "src": "034bde83809f5e5260def00ee20e294c0f011c4f37dff8fd050b124f3701dffc670f1022fd1d07fcb7301425e3fa",
+   "jp": "えっ？ジゲンソウチ？　そ、そりゃたいへんだ！<F8>\n何してんだい！君たちも早く逃げなよ。<FA>",
+   "ko": "뭐? 차원장치? 그, 그거 큰일이다!<F8>\n뭐 하는 거야! 너희도 빨리 도망쳐.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1145,
+   "src": "3be522dff0313e0a0f3a739f5ce3f8144f3705e20f011c4f14091315144b122a25023af9739f5c17e30123e20918fd9f144f05e1e1e1e1e1e1e1e1fa",
+   "jp": "ど～も！　ごぶさたでヤンス。<F8>\nなんだか、たいへんなことになってるようで[F9]ヤンスね。いや、この前なんか・・・・・・・・<FA>",
+   "ko": "안녕하십니까요! 오랜만입죠.<F8>\n뭔가 큰일이 벌어진 모양입죠.[F9]아니 글쎄, 요전에는 말입죠……<FA>",
+   "state": "needs_human_review",
+   "note": "철새의 「～でヤンス」를 「~입죠」 말투로 옮김(용어집에 한국어 말버릇 미정). 다른 배치(1713, 2773, 2804)와 통일 필요.",
+   "question": ""
+  },
+  {
+   "id": 1146,
+   "src": "0046e0e22202df04fd9f18fd030bfde606151900062b2a25e3f80e4f14fd03e20b122afd0cfd9b334c14014f37e3f9fda319fd33fcbe2700280e02fd4f144f3725e226054b124f18defe69f6104e4b13e209260105220b2b1401083be2fd0e0528fcef2df6f45501122a0528e23701334e023e3713fd3b0225e3f60e2b334ce2010725e3fa",
+   "jp": "あぁー、もう！お前の話し好きにはあきれるよ。<F8>\nそんな話、してる場合じゃないんだ。[F9]今は一刻をあらそう時なんだよ、わかってんの？[FE69][F6]ちょっと、こわいかもしれないけど、下から風が[F6]吹いてるから、だいじょうぶだと思うよ。[F6]それじゃ、いくよ。<FA>",
+   "ko": "아~, 정말! 너의 수다에는 질렸어.<F8>\n그런 얘기 할 때가 아니라고.[F9]지금은 일분일초가 급하단 말이야, 알아?[FE69][F6]조금 무서울지도 모르지만, 아래에서 바람이[F6]불고 있으니까, 괜찮을 거야.[F6]그럼, 간다.<FA>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 피락(철새에게 하는 말). 訳： 없이 평문.",
+   "question": ""
+  },
+  {
+   "id": 1147,
+   "src": "094f14fd2a15fd50fd672dfd650a2b122a144f12e3fb",
+   "jp": "こんな所に気球が隠されてるなんて。<FB>",
+   "ko": "이런 곳에 기구가 숨겨져 있었다니.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1148,
+   "src": "e1e1e1e1e1fd4ffd0a2d14010528fd4207fc9d032502e3f890572818fc45fdc61428e1e1e1e1fd0115fdc601736127fd4a0112f9fd000528d6fd3d3afd2e10fd1630126b518127fd9c050ce1e1e1e1fa",
+   "jp": "・・・・・時間がないから良く考えよう。<F8>\nボクらの体重なら・・・・左に重いヤツを置いて[F9]右から２人で持ち上げてフイゴを動かす・・・・<FA>",
+   "ko": "……시간이 없으니까 잘 생각하자.<F8>\n우리 몸무게라면…… 왼쪽에 무거운 애를 두고[F9]오른쪽 둘이 들어 올려 풀무를 움직인다……<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1149,
+   "src": "f500d3fd6418fd25fc52fc07130b1218fd3dfd621909090528fdf51e4b0fe3f80918fd50fd6719fd57222dfc2627fc553e0913143bfc57fda1fc6613fd3b4bf912010ffd4ffd6ee2fd642d1e371d4f18fdaefc3f18092c15fe69f6fd25fc520b0f221837e3fd6418fcccfc0127fd822112234b12060ff6fcd1fcd2fd1b25e3092b2dfd6418fc6c18fc0137e3f60e0b12e2fd6418fdba4b0f879f839e9f27f456fd310c2a0f2118fe69f6e606291b37e737e3f604fd9f2d0918fd50fd6727fd2611080ffd4f15e21e37fd50fd672dfc553ef6091327f4334b12012ae3fe69f6f6f0f0f0f0f0569c93629ff06ee0f45799799b57fb",
+   "jp": "[F500D3]私の発明家としての人生はここから始まった。<F8>\nこの気球は誰もが空を飛ぶことなど不可能と思っ[F9]ていた時代、私がまだほんの子供のころに[FE69][F6]発明したものだ。私の財宝を求めてやってきた[F6]冒険者よ。これが私の真の宝だ。[F6]そして、私の作ったダンジョンを脱出するための[FE69][F6]「きりふだ」だ。[F6]お前がこの気球を見つけた時に、まだ気球が飛ぶ[F6]ことを祈っている。[FE69][F6][F6]　　　　　キャプテン　マーヴェリック<FB>",
+   "ko": "[F500D3]발명가로서의 내 인생은 여기서 시작되었다.<F8>\n이 기구는 누구나 하늘을 나는 건 불가능하다고[F9]여기던 시대, 내가 아직 어린아이였을 때[FE69][F6]발명한 것이다. 내 보물을 찾아온[F6]모험가여. 이것이 나의 진정한 보물이다.[F6]그리고 내가 만든 던전을 탈출하기 위한[FE69][F6]「비장의 카드」다.[F6]그대가 이 기구를 찾았을 때, 아직 기구가 날[F6]수 있기를 빈다.[FE69][F6][F6]　　　　　캡틴　매버릭<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1150,
+   "src": "fd1d07fd4c0b121f2502e3fb",
+   "jp": "早く押してみよう。<FB>",
+   "ko": "얼른 눌러 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1151,
+   "src": "fe79fe6d02905f9f27fdcb07fd4c0b12e2fd2e10fd16302502e3f8f0f0f0f0f0f0f0f0fe6d12fe7efa",
+   "jp": "[FE79][FE6D02]ボタンを強く押して、持ち上げよう。<F8>\n　　　　　　　　[FE6D12][FE7E]<FA>",
+   "ko": "[FE79][FE6D02]버튼을 세게 눌러서 들어 올리자.<F8>\n　　　　　　　　[FE6D12][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1152,
+   "src": "234b0fdffd50fd672d919f919f15144b0f36e3f8250be2fd1d07fda729092202dffa",
+   "jp": "やった！気球がパンパンになったぞ。<F8>\nよし、早く乗りこもう！<FA>",
+   "ko": "해냈다! 기구가 빵빵해졌어.<F8>\n좋아, 얼른 올라타자!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1153,
+   "src": "905718e65a9b55e05b9de084e72700302a0528e2f8fde918fd0415222f4b12e2134b12061225dffb",
+   "jp": "ボクの「サッカーシューズ」をあげるから、<F8>\n池の中にもぐって、とってきてよ！<FB>",
+   "ko": "내 「축구화」를 줄 테니까,<F8>\n연못 속에 들어가서 가져와 줘!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1154,
+   "src": "f5020d54515451df04fd9fe25a9b55e00c2a1815e2f8e65a9b55e05b9de084e722fd2e4b121703180525dff9fd142700284b12e23a14040b120614dfdffb",
+   "jp": "[F5020D]オイオイ！お前、サッカーするのに、<F8>\n「サッカーシューズ」も持ってねえのかよ！[F9]顔をあらって、でなおしてきな！！<FB>",
+   "ko": "[F5020D]어이어이! 너, 축구하면서<F8>\n「축구화」도 없는 거냐![F9]세수하고 다시 와라!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1155,
+   "src": "fd3818fd0415222f28140113e2f8576115fd062d133b060e022214010be1e1e1f90e181e1ee2222f4b0f28fd6f2d515f51372c021400e5e3fb",
+   "jp": "水の中にもぐらないと、<F8>\nクツに手がとどきそうもないし・・・[F9]そのまま、もぐったら目がイタイだろうなあ～。<FB>",
+   "ko": "물속에 잠수하지 않으면,<F8>\n신발에 손이 닿지 않을 것 같고……[F9]그냥 잠수하면 눈이 아프겠지~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1156,
+   "src": "fd0513050b12072b25dffe6af8f0f0f0f0024fe3f9f0f0f0f0233725e3fe68fa",
+   "jp": "何とかしてくれよ！[FE6A]<F8>\n　　　　うん。[F9]　　　　やだよ。[FE68]<FA>",
+   "ko": "어떻게 좀 해 줘![FE6A]<F8>\n　　　　응.[F9]　　　　싫어.[FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1157,
+   "src": "144f3725e211210f0114e5e3fb",
+   "jp": "なんだよ、つめたいな～。<FB>",
+   "ko": "뭐야, 매정하긴~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1158,
+   "src": "fe6d0a905f9f3a79e087e027050312e2f8d5fd3d3411648f18fd960715250d2a4f37e3f99057281f0f0115e20e18fc2815fe6d4827fd4c0c180adffb",
+   "jp": "[FE6D0A]ボタンでリーダーをかえて、<F8>\n１人ずつナベの近くによせるんだ。[F9]ボクらみたいに、その後に[FE6D48]を押すのさ！<FB>",
+   "ko": "[FE6D0A]버튼으로 리더를 바꿔서,<F8>\n한 명씩 냄비 가까이 붙이는 거야.[F9]우리처럼, 그다음에 [FE6D48]을 누르는 거지!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1159,
+   "src": "fdd03a074f37280c200913141815e1e1e1fb",
+   "jp": "川でくんだらすむことなのに・・・<FB>",
+   "ko": "강에서 길어 오면 될 일인데……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1160,
+   "src": "0e2b150b1222e200e011052b0fe3fb",
+   "jp": "それにしても、あーつかれた。<FB>",
+   "ko": "그나저나, 아~ 피곤해.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1161,
+   "src": "fc7b2818250215234b121f2502e3f8648f181e2629158c789f5cfd4207719f8ce027fc9a0f0d2af94b12fd104b120f4b08e1e1e1e1e3fb",
+   "jp": "彼らのようにやってみよう。<F8>\nナベのまわりにバランス良くメンバーを立たせる[F9]って言ってたっけ・・・・。<FB>",
+   "ko": "저 애들처럼 해 보자.<F8>\n냄비 주위에 균형 있게 멤버를 세운다고[F9]했던가…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1162,
+   "src": "002bde144f05104e4b13102d021f0f013714e1e1e1e3f8719f8ce018f406fd4a2dfd6a01180514defa",
+   "jp": "あれ？なんかちょっとちがうみたいだな・・・。<F8>\nメンバーの位置が悪いのかな？<FA>",
+   "ko": "어라? 뭔가 좀 다른 것 같은데…….<F8>\n멤버 위치가 나쁜 걸까?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1163,
+   "src": "234b0fe0df9057281522648f2dfd2e10fd1630282b0f36dffa",
+   "jp": "やったー！ボクらにもナベが持ち上げられたぞ！<FA>",
+   "ko": "해냈다! 우리도 냄비를 들어 올렸어!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1164,
+   "src": "648f18fd382d194f3e4f151c4b0f36dff85a9f569de0e2fe6d1a60e070fdda054b0f25e3f9092b1428e290570f103a22fd2e10fd1630282b2a36e3fa",
+   "jp": "ナベの水がはんぶんにへったぞ！<F8>\nサンキュー、[FE6D1A]チーム助かったよ。[F9]これなら、ボクたちでも持ち上げられるぞ。<FA>",
+   "ko": "냄비 물이 절반으로 줄었어!<F8>\n고마워, [FE6D1A] 팀 덕분에 살았어.[F9]이거라면 우리도 들어 올릴 수 있겠다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1165,
+   "src": "83700528e661798c79e727fc5429223b0b0f28e2f852601879e087e015fd260d12234b1225dff90000fd26031222e2589b59520410094f3a012a4f37e1e1fb",
+   "jp": "ジムから「ツリバリ」を取りもどしたら、<F8>\nウチのリーダーに見せてやってよ！[F9]ああ見えても、ケッコウおちこんでいるんだ・・<FB>",
+   "ko": "짐한테서 「낚싯바늘」을 되찾으면,<F8>\n우리 리더한테 보여 줘![F9]저래 보여도 꽤 풀이 죽어 있거든……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1166,
+   "src": "4f4bdff8f0f0f0f06a97e09b63dfdfdffa",
+   "jp": "んっ！<F8>\n　　　　ヒィーット！！！<FA>",
+   "ko": "응!<F8>\n　　　　걸렸다ー!!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1167,
+   "src": "092b19e2fdcc060136df131222fd33fd3d334cfd54fcb337dff8fd5705e2014b0b4e151a4b414b12072be0dffa",
+   "jp": "これは、大きいぞ！とても一人じゃ無理だ！<F8>\n誰か、いっしょにひっぱってくれー！<FA>",
+   "ko": "이거 크다! 도저히 혼자선 무리야!<F8>\n누가 같이 당겨 줘ー!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1168,
+   "src": "051429fdc6010528e2fdccfd2f15fc14011401dfdff8371e4b12fd26120114013ae2fd1d07595915fd6812072be0dffb",
+   "jp": "かなり重いから、大物に違いない！！<F8>\nだまって見ていないで、早くココに来てくれー！<FB>",
+   "ko": "꽤 무거우니까, 대어가 틀림없어!!<F8>\n가만히 보고 있지 말고, 빨리 이리 와 줘ー!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1169,
+   "src": "fd1d07dffd1d07df8c780b104c0225e0dffb",
+   "jp": "早く！早く！バラしちゃうよー！<FB>",
+   "ko": "빨리! 빨리! 놓치겠어ー!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1170,
+   "src": "f8f0f0f0f0f0f0f0f0f0f0d5f5023bfa",
+   "jp": "<F8>\n　　　　　　　　　　１[F5023B]<FA>",
+   "ko": "<F8>\n　　　　　　　　　　1[F5023B]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1171,
+   "src": "f2fd38fd04717d6727fd0615fd072b0fdff8fe6d04905f9f3afd0d032a50575b9e9f5051627037e3f9092b1428e2fd38fd04222507fd26032a36e3fe69f6fe6ae1e1e160999be21e0f1c4f142218114b104c4b0f14e3f6094f3b19fdccfd2f3713fd3b4b0f181514e1e1e1e1e3f6e1e1e125080114091337083be1e1e1e1fe69f6fd38fd04717d6727fe6d04905f9f3afd0d02fd4f19f6b2b3a0b1b3905f9f3afd0f075a8efd21fd2b3a5051627027f6fd38fd04717d6715fd2e1005032a4f37e3f026052adefa",
+   "jp": "[F2]水中メガネを手に入れた！<F8>\n[FE6D04]ボタンで使えるアクションアイテムだ。[F9]これなら、水中もよく見えるぞ。[FE69][F6][FE6A]・・・チェッ、またへんなものつっちゃったな。[F6]こんどは大物だと思ったのにな・・・・。[F6]・・・よけいなことだけど・・・・[FE69][F6]水中メガネを[FE6D04]ボタンで使う時は[F6]ＳＴＡＲＴボタンで開くサブ画面でアイテムを[F6]水中メガネに持ちかえるんだ。　わかる？<FA>",
+   "ko": "[F2]물안경을 손에 넣었다!<F8>\n[FE6D04]버튼으로 쓰는 액션 아이템이다.[F9]이거라면 물속도 잘 보이겠어.[FE69][F6][FE6A]……쳇, 또 이상한 걸 낚아 버렸네.[F6]이번엔 대어라고 생각했는데…….[F6]……쓸데없는 참견이지만……[FE69][F6]물안경을 [FE6D04]버튼으로 쓸 때는[F6]스타트 버튼으로 여는 서브 화면에서 아이템을[F6]물안경으로 바꿔 드는 거야.　알겠어?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1172,
+   "src": "6b8181e28181f8fc1bfc1a004be290572815fc190f4b12228771e08319fd5401f9f0f00528fd41fde20b14013a17e3fb",
+   "jp": "フゴゴ、ゴゴ<F8>\n訳：あっ、ボクらに当たってもダメージは無い[F9]　　から心配しないでね。<FB>",
+   "ko": "푸고고, 고고<F8>\n번역: 앗, 우리랑 부딪쳐도 대미지는[F9]　　없으니까 걱정하지 마.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1173,
+   "src": "14151415dee6569c9f931809092c03e7e1e1e1dfdef9d511d511fe6d0c3afdc50b12e20507154f0b121f2502e3fb",
+   "jp": "なになに？「キャンプのこころえ」・・・！？[F9]１つ１つ[FE6D0C]で指して、かくにんしてみよう。<FB>",
+   "ko": "뭐지 뭐지? 「캠프 수칙」……!?[F9]하나하나 [FE6D0C]로 가리켜서 확인해 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "게시판 그림(scene_text camp_rules)과 문구 일치.",
+   "question": ""
+  },
+  {
+   "id": 1174,
+   "src": "f8f0f0f004234bde1304224b0f28fe6d02905f9ffe69f600230b011400e513fd3b4b0ffd2a19e2f613150507fe6d02905f9f27fd4c0b12f6012c012cfd9e0b121f2c4b12fd553714dffb",
+   "jp": "<F8>\n　　　おやっ？とおもったら[FE6D02]ボタン[FE69][F6]あやしいなあ～と思った所は、[F6]とにかく[FE6D02]ボタンを押して[F6]いろいろ探してみろって事だな！<FB>",
+   "ko": "<F8>\n　　　어? 싶으면 [FE6D02]버튼[FE69][F6]수상하다~ 싶은 곳은,[F6]일단 [FE6D02]버튼을 눌러서[F6]이것저것 찾아보라는 거구나!<FB>",
+   "state": "needs_human_review",
+   "note": "게시판 그림(scene_text camp_rules)과 문구 일치.",
+   "question": ""
+  },
+  {
+   "id": 1175,
+   "src": "f8f0f0f0f0fe6d36f02dfd310f28f0f0fe6d02905f9ffe69f60e0201033ce2fd2f23fd3d151b2b0ffd4f15f6fe6d362dfd312afd4f2d002a1400e1e1e1f60e4f14fd4f22fe6d02905f9f27fd4c0c4f3714dffb",
+   "jp": "<F8>\n　　　　[FE6D36]　が出たら　　[FE6D02]ボタン[FE69][F6]そういえば、物や人にふれた時に[F6][FE6D36]が出る時があるなあ・・・[F6]そんな時も[FE6D02]ボタンを押すんだな！<FB>",
+   "ko": "<F8>\n　　　　[FE6D36] 표시가 나오면　　[FE6D02]버튼[FE69][F6]그러고 보니, 물건이나 사람에 닿았을 때[F6][FE6D36] 표시가 나올 때가 있었지……[F6]그럴 때도 [FE6D02]버튼을 누르는 거구나!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1176,
+   "src": "f8f0f0f0f050575b9e9f19f0f0f0fe6d04905f9ffe69f65a8efd21fd2b3a5d9b630b12e2fe6d04905f9f3a50575b9e9ff63a062a505162702d002a4b12fdeb010f1400e1e1e1f60f210b121f250205e3fb",
+   "jp": "<F8>\n　　　　アクションは　　　[FE6D04]ボタン[FE69][F6]サブ画面でセットして、[FE6D04]ボタンでアクション[F6]できるアイテムがあるって聞いたなあ・・・[F6]ためしてみようか。<FB>",
+   "ko": "<F8>\n　　　　액션은　　　[FE6D04]버튼[FE69][F6]서브 화면에서 세팅해서, [FE6D04]버튼으로 액션[F6]할 수 있는 아이템이 있다고 들었지……[F6]시험해 볼까.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1177,
+   "src": "f8f0f0f0f0091e4b0ffd4f18f06d519b5c7adffe69f6fd09fd0a1319142b12091e4b0ffd4f19e2f6131505076d519b5c7a271b084b1209133714e1e1e1dff6fb",
+   "jp": "<F8>\n　　　　こまった時の　ホイッスル！[FE69][F6]仲間とはなれてこまった時は、[F6]とにかくホイッスルをふけってことだな・・・！[F6]<FB>",
+   "ko": "<F8>\n　　　　곤란할 땐　호루라기![FE69][F6]동료와 떨어져서 곤란할 때는,[F6]일단 호루라기를 불라는 거구나……![F6]<FB>",
+   "state": "needs_human_review",
+   "note": "게시판 그림(scene_text camp_rules)과 문구 일치.",
+   "question": ""
+  },
+  {
+   "id": 1178,
+   "src": "609de0e2609de0e2609d609d609de0dff8fc1bfc1a54517819515f8478fdccfde60667846f4b104de3f9f0f0e61a2101e727fdeb07182d54517818fd62062d010ae3fb",
+   "jp": "チュー、チュー、チュチュチュー！<F8>\n訳：オイラはイタズラ大好きネズミっちゅ。[F9]　　「ひめい」を聞くのがオイラの生きがいさ。<FB>",
+   "ko": "찍, 찍, 찍찍찍!<F8>\n번역: 나는 장난이 정말 좋은 쥐다찍.[F9]　　「비명」을 듣는 게 내 삶의 보람이지.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1179,
+   "src": "fe6a09092d67846f18fd0b29fd8015144b122a1f0f0137e3fb",
+   "jp": "[FE6A]ここがネズミの通り道になってるみたいだ。<FB>",
+   "ko": "[FE6A]여기가 쥐가 다니는 길인 것 같아.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1180,
+   "src": "fe6d1a60e070dfdfe1e1e104fc3901dff8144f1305e1e1e1e1144f13050b1249e0e0e0e0dfdffb",
+   "jp": "[FE6D1A]チーム！！・・・お願い！<F8>\nなんとか・・・・なんとかしてぇーーーー！！<FB>",
+   "ko": "[FE6D1A] 팀!! ……부탁해!<F8>\n어떻게…… 어떻게 좀 해 줘ー!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1181,
+   "src": "0918629f6318fd041867846f2dfd310e0214fdf427fd9e0b12f8144f130567846f27f40701fd310d1401050b28def9fe6d1a60e070e204fc390125e3fb",
+   "jp": "このテントの中のネズミが出そうな穴を探して<F8>\nなんとかネズミを追い出せないかしら？[F9][FE6D1A]チーム、お願いよ。<FB>",
+   "ko": "이 텐트 안에서 쥐가 나올 것 같은 구멍을<F8>\n찾아서 어떻게든 쥐를 쫓아낼 수 없을까?[F9][FE6D1A] 팀, 부탁해.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1182,
+   "src": "fe6a0918629f6318fd041867846f2dfd310e0214fdf427fd9e0b12f8d6fdf313e267846f2d515f84780b1401250215f9fd31fd681401050b28defe69f6fe6d1a60e070e204fc390125e3fb",
+   "jp": "[FE6A]このテントの中のネズミが出そうな穴を探して<F8>\n２度と、ネズミがイタズラしないように[F9]出来ないかしら？[FE69][F6][FE6D1A]チーム、お願いよ。<FB>",
+   "ko": "[FE6A]이 텐트 안에서 쥐가 나올 것 같은 구멍을<F8>\n찾아서 두 번 다시 쥐가 장난치지 못하게[F9]할 수 없을까?[FE69][F6][FE6D1A] 팀, 부탁해.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1183,
+   "src": "fe6afd4815629f6318fd0418fdf4271b0a01370528f867846f191530104c4b0f180514def9092b3a220267846f19fd3112091407142a180514defb",
+   "jp": "[FE6A]先にテントの中の穴をふさいだから<F8>\nネズミはにげちゃったのかな？[F9]これでもうネズミは出てこなくなるのかな？<FB>",
+   "ko": "[FE6A]먼저 텐트 안의 구멍을 막아서<F8>\n쥐가 도망쳐 버린 걸까?[F9]이제 쥐는 안 나오게 되는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1184,
+   "src": "60609d609de0df609de0e1e1e1609ddef8fc1bfc1a609b565b9ee0df05091e2b101e4b0f4b104de3f9f0f054517818557887150a264f1425dffb",
+   "jp": "チチュチュー！チュー・・・チュ？<F8>\n訳：チッキショー！かこまれちまったっちゅ。[F9]　　オイラのカラダにさわんなよ！<FB>",
+   "ko": "찌찍찍! 찍…… 찍?<F8>\n번역: 젠장! 포위당해 버렸다찍.[F9]　　내 몸에 손대지 마!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1185,
+   "src": "609de0e0e0e0df609de2609de0df609ddff8fc1bfc1a004be20e09192321121a4b412814013ae1e1e1dffa",
+   "jp": "チューーーー！チュ、チュー！チュ！<F8>\n訳：あっ、そこはやめてひっぱらないで・・・！<FA>",
+   "ko": "찌이이익! 찍, 찍! 찍!<F8>\n번역: 앗, 거기는 잡아당기지 마……!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1186,
+   "src": "fe6d1a60e0701504fda22d0b0f0118e3f8224b13fd48fd6218fd960715fd6812104e023701e3fb",
+   "jp": "[FE6D1A]チームにお礼がしたいの。<F8>\nもっと先生の近くに来てちょうだい。<FB>",
+   "ko": "[FE6D1A] 팀에게 답례를 하고 싶어.<F8>\n선생님 가까이 좀 더 와 줘.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1187,
+   "src": "f2fd48fd620528e2040e2c01185c55e06b2722284b0fe3f91d0518fd3d151964515b9e37083b17dffa",
+   "jp": "[F2]先生から、おそろいのスカーフをもらった。[F9]ほかの人にはナイショだけどね！<FA>",
+   "ko": "[F2]선생님에게서 똑같은 스카프를 받았다.[F9]다른 사람한텐 비밀이지만!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1188,
+   "src": "fd3d2d091e4b12010f28fdda081200302a1819f8fd48fd62134b1222010109133713fd3b011e0ce3092b052822f9091e4b122afd3d270f070a4ffdda081200301217e3fa",
+   "jp": "人がこまっていたら助けてあげるのは<F8>\n先生とってもいいことだと思います。これからも[F9]こまってる人をたくさん助けてあげてね。<FA>",
+   "ko": "사람이 곤란해하면 도와주는 건<F8>\n선생님은 아주 좋은 일이라고 생각해.[F9]앞으로도 곤란한 사람을 많이 도와주렴.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1189,
+   "src": "0e18fdddfc02155051627027fd072b2a4f3a0ce3f80e4f14fd08070528334c5051627019fd07291e0d4f25def9224b13fd960715fd51060f1e03e3fb",
+   "jp": "その木箱にアイテムを入れるんです。<F8>\nそんな遠くからじゃアイテムは入りませんよ？[F9]もっと近くに行きたまえ。<FB>",
+   "ko": "그 나무 상자에 아이템을 넣는 겁니다.<F8>\n그렇게 멀리서는 아이템이 안 들어갑니다.[F9]좀 더 가까이 가게나.<FB>",
+   "state": "needs_human_review",
+   "note": "공부벌레의 「～たまえ」를 「~하게나」로 옮김(아이가 쓰는 거드름 말투).",
+   "question": ""
+  },
+  {
+   "id": 1190,
+   "src": "0e02e30e18fc02155051627027fd072b2a4f3a0ce3f8e1e1e1fd41fde20b14071222505162702d1407142a250214f909131900291e0d4f25e3fb",
+   "jp": "そう。その箱にアイテムを入れるんです。<F8>\n・・・心配しなくてもアイテムがなくなるような[F9]ことはありませんよ。<FB>",
+   "ko": "그래요. 그 상자에 아이템을 넣는 겁니다.<F8>\n……걱정하지 않아도 아이템이 없어지는[F9]일은 없습니다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1191,
+   "src": "102d011e0cdf9057155051627027260f0c18334c1401f83a0b4e02def00e18fdddfc023a0ce3f92202d5fdf3fe6d463afdddfc022760999b570b0f1e03e3fb",
+   "jp": "ちがいます！ボクにアイテムをわたすのじゃない<F8>\nでしょう？　その木箱です。[F9]もう１度[FE6D46]で木箱をチェックしたまえ。<FB>",
+   "ko": "아닙니다! 나한테 아이템을 주는 게<F8>\n아니잖아요? 그 나무 상자입니다.[F9]다시 한번 [FE6D46]으로 나무 상자를 체크하게나.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1192,
+   "src": "3b022328505162702d1e102d4b122a25023a0c17e3f8fdff18505162703a220f210b121f12193b023a0c05def9104e4b133708010109132d00291e0c25e3fa",
+   "jp": "どうやらアイテムがまちがってるようですね。<F8>\n他のアイテムでもためしてみてはどうですか？[F9]ちょっとだけいいことがありますよ。<FA>",
+   "ko": "아무래도 아이템이 틀린 것 같군요.<F8>\n다른 아이템으로도 시험해 보는 게 어때요?[F9]조금 좋은 일이 있을 겁니다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1193,
+   "src": "0e2b3a0ce30918fc0219789b577c9b5715f408f4090c2af8250215fdba4b12002a183a0ce3f93b0236fc3708134b12fd0e0a01e3fa",
+   "jp": "それです。この箱はラックロックに反応する<F8>\nように作ってあるのです。[F9]どうぞ受けとって下さい。<FA>",
+   "ko": "그겁니다. 이 상자는 럭록에 반응하도록<F8>\n만들어져 있습니다.[F9]자, 받으세요.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1194,
+   "src": "fe6af50339d51118789b577c9b572dfe6d2811151b030fe3f8e65f64905fe74b12231137e3fa",
+   "jp": "[FE6A][F50339]１つのラックロックが[FE6D28]つにふえた。<F8>\n「タナボタ」ってやつだ。<FA>",
+   "ko": "[FE6A][F50339]럭록 1개가 [FE6D28]개로 늘었다.<F8>\n「굴러온 호박」이라는 거지.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1195,
+   "src": "092b3708232b3cfc67192202505162706e5c5fe03a0ce3f8092b052822d515fc44fdcbe2d615fc44fdcbe2d7e2d82d140712f9d915fc44fdcb3a0c25e3fa",
+   "jp": "これだけやれば君はもうアイテムマスターです。<F8>\nこれからも１に勉強、２に勉強、３、４がなくて[F9]５に勉強ですよ。<FA>",
+   "ko": "이 정도면 자네는 이제 아이템 마스터입니다.<F8>\n앞으로도 1에 공부, 2에 공부, 3, 4는[F9]건너뛰고 5에 공부입니다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1196,
+   "src": "fd1001fda52b121e0b0f2df82202789b577c9b5719fd311e0d4f25e3f9e1e1e1e1e1fd5f18fd040e4f1415001e071900291e0d4fe3fa",
+   "jp": "言い忘れてましたが<F8>\nもうラックロックは出ませんよ。[F9]・・・・・世の中そんなにあまくはありません。<FA>",
+   "ko": "깜빡하고 말 안 했는데<F8>\n이제 럭록은 안 나옵니다.[F9]……세상은 그렇게 만만하지 않습니다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1197,
+   "src": "fd960715fd514b12fd0615fd072b2502e3fb",
+   "jp": "近くに行って手に入れよう。<FB>",
+   "ko": "가까이 가서 손에 넣자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1198,
+   "src": "0401050812e2fd0615fd072b2502dffb",
+   "jp": "おいかけて、手に入れよう！<FB>",
+   "ko": "쫓아가서 손에 넣자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1199,
+   "src": "092b19fd3815222f28140113fc542b140114e3f8fd3815222f2a09132d3a062a1819e1e1e1e1e1e1e1e3fb",
+   "jp": "これは水にもぐらないと取れないな。<F8>\n水にもぐることができるのは・・・・・・・。<FB>",
+   "ko": "이건 물에 잠수하지 않으면 못 줍겠다.<F8>\n물에 잠수할 수 있는 건…………<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1200,
+   "src": "5776e0df094f140f4f334d4f14766415191e2a14f84f12dfe1e1e1e1140a081401e3f9848c7918fdee0327fd104b104c0225e3fe69f60918e6919b60e084e74b120102fd15fd7719f6fd010528d6e2d5e2d718fdc218fc12fcf7144f3725e3f60c4f31016a9f63df092b3a26052814064c6e6658fa",
+   "jp": "クワー！こんなたんじゅんなワナにはまるな<F8>\nんて！・・・・なさけない。[F9]ズバリの答えを言っちゃうよ。[FE69][F6]この「パッチーズ」っていう海賊は[F6]左から２、１、３の順の兄弟なんだよ。[F6]すんごいヒント！これでわからなきゃマヌケ<FA>",
+   "ko": "크와ー! 이런 단순한 함정에 걸리다니!<F8>\n……한심해.[F9]정답을 딱 말해 줄게.[FE69][F6]이 「패치즈」라는 해적은[F6]왼쪽부터 둘째, 첫째, 막내 순서야.[F6]엄청난 힌트! 이걸로 모르면 바보<FA>",
+   "state": "needs_human_review",
+   "note": "패치즈 위치 퀴즈(0899–0900, 1870/1872/1876)의 정답. 「2, 1, 3」은 형제 순번(둘째·첫째·셋째)으로 보임. 관련 메시지와 표현 통일 필요.",
+   "question": "",
+   "review": [
+    {
+     "kind": "suggestion",
+     "proposed": "크와ー! 이런 단순한 함정에 걸리다니!<F8>\n……한심해.[F9]정답을 딱 말해 줄게.[FE69][F6]이 「패치즈」라는 해적은[F6]왼쪽부터 둘째, 첫째, 막내 순서야.[F6]엄청난 힌트! 이걸로 모르면 바보<FA>",
+     "reason": "「2, 1, 3 순서의 형제」는 뜻이 모호함. 퀴즈 0899–0900(b03)이 「첫째 형/둘째 형/막내」로 옮겼으므로 같은 말로 풀어 줌(정답 순서 동일).",
+     "applied": "D9"
+    }
+   ],
+   "draft_ko": "크와ー! 이런 단순한 함정에 걸리다니!<F8>\n……한심해.[F9]정답을 딱 말해 줄게.[FE69][F6]이 「패치즈」라는 해적은[F6]왼쪽부터 2, 1, 3 순서의 형제야.[F6]엄청난 힌트! 이걸로 모르면 바보<FA>"
+  },
+  {
+   "id": 1201,
+   "src": "3b0207113a839c6e270b12012a919b60e08419e2f86d9f63e2839c6e372517e5e3f990e07a3a223e110812e2f4074b41284b0f28defa",
+   "jp": "どうくつでジャマをしているパッチーズは、<F8>\nホント、ジャマだよね～。[F9]ボールでもぶつけて、追っぱらったら？<FA>",
+   "ko": "동굴에서 방해하고 있는 패치즈는,<F8>\n정말 방해된단 말이야~.[F9]공이라도 맞혀서 쫓아내면?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1202,
+   "src": "fd17fd1818002afd0cfd2a19e213150507879b5b9d3af83e11054b1231284fe3f90e2b13e2fd17fd1819fe6d483afd2e10fd1630282b2a4f3725e3fa",
+   "jp": "丸太のある場所は、とにかくダッシュで<F8>\nぶつかってごらん。[F9]それと、丸太は[FE6D48]で持ち上げられるんだよ。<FA>",
+   "ko": "통나무가 있는 곳은, 일단 대시로<F8>\n부딪쳐 봐.[F9]그리고, 통나무는 [FE6D48]으로 들어 올릴 수 있어.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1203,
+   "src": "fd48fd6227fdda080f014f3a0b4edef8374b0f28e2fd1d07fdc7271f110814064cdff98e7a2d0f042b12012afd0cfd2a18fce4151608fd802d004b0f25fa",
+   "jp": "先生を助けたいんでしょ？<F8>\nだったら、早く玉をみつけなきゃ！[F9]ブルがたおれている場所の横にぬけ道があったよ<FA>",
+   "ko": "선생님을 구하고 싶지?<F8>\n그럼, 빨리 구슬을 찾아야지![F9]불이 쓰러져 있는 곳 옆에 샛길이 있었어.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1204,
+   "src": "092b05283b020b0f2801010526052814014b12def8e1e1e10018fda627fd9c050b12fd740528fd312a0b0514013af90b4e02defe69f6fda627fd9c050c1519fda618fd0418e6fd0f053418133d28e727f6fd0f0814064c142814014f37083bf6e6fd3efd3de713192202fd31ee4b0f0514defe69f61e371428fcec15002afd15fda03afd3efd3d27fdda0812f6133d2827fd0f08122228024f3717e3fa",
+   "jp": "これからどうしたらいいかわからないって？<F8>\n・・・あの船を動かして島から出るしかないで[F9]しょう？[FE69][F6]船を動かすには船の中の「開かずのとびら」を[F6]開けなきゃならないんだけど[F6]「小人」とはもう出会ったかな？[FE69][F6]まだなら北にある海岸で小人を助けて[F6]とびらを開けてもらうんだね。<FA>",
+   "ko": "앞으로 어떻게 하면 좋을지 모르겠다고?<F8>\n……저 배를 움직여서 섬을 나갈 수밖에[F9]없잖아?[FE69][F6]배를 움직이려면 배 안의 「열리지 않는 문」을[F6]열어야 하는데[F6]「소인」과는 벌써 만났어?[FE69][F6]아직이라면 북쪽 해안에서 소인을 구하고[F6]문을 열어 달라고 해.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1205,
+   "src": "fe6af50339789b577c9b5727fe6bfc93fd0615fd072b0fe3fa",
+   "jp": "[FE6A][F50339]ラックロックを[FE6B]個手に入れた。<FA>",
+   "ko": "[FE6A][F50339]럭록을 [FE6B]개 손에 넣었다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1206,
+   "src": "fd050b124f3725e3f8144f3725e3e1e1e1144f15220b14014b12e3f9fd960715fd680125e3fb",
+   "jp": "何してんだよ。<F8>\nなんだよ。・・・なんにもしないって。[F9]近くに来いよ。<FB>",
+   "ko": "뭐 하는 거야.<F8>\n뭐야. ……아무 짓도 안 한다니까.[F9]가까이 와 봐.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1207,
+   "src": "fc0218fd041f19144f372c02defb",
+   "jp": "箱の中みはなんだろう？<FB>",
+   "ko": "상자 안에는 뭐가 들어 있을까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1208,
+   "src": "809bdf547b18789b577c9b572dfe6d1e15144b101e4b0ff8f0f0f0f0f0e1e1e1104b060b4ee0e1e1e1f9e1e1e1144f3725e1e1e1fc89331e013725dffd31120825dffa",
+   "jp": "ゲッ！オレのラックロックが[FE6D1E]になっちまった<F8>\n　　　　　・・・ちっきしょー・・・[F9]・・・なんだよ・・・店じまいだよ！出てけよ！<FA>",
+   "ko": "켁! 내 럭록이 [FE6D1E]개가 돼 버렸어<F8>\n　　　　　……젠장……[F9]……뭐야…… 장사 끝이야! 나가!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1209,
+   "src": "e1e1e1e1e104fd9f28e20e4f1415789b577c9b57fde32112f83b020c4f37def904fd9f2818fde321122a1819e65f567ee7334c17e01805defb",
+   "jp": "・・・・・お前ら、そんなにラックロック集めて<F8>\nどうすんだ？[F9]お前らの集めてるのは「タキギ」じゃねーのか？<FB>",
+   "ko": "……너희, 그렇게 럭록을 모아서<F8>\n뭐 하려고?[F9]너희가 모으는 건 「땔감」 아니었냐?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1210,
+   "src": "04fd9f281d0515232a0913004f372cdef8e1e1e1e1e1fd1d07e2fd31120825dffb",
+   "jp": "お前らほかにやることあんだろ？<F8>\n・・・・・早く、出てけよ！<FB>",
+   "ko": "너희 다른 할 일 있잖아?<F8>\n……빨리, 나가!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1211,
+   "src": "83701519e2104e4b13fd6a054b0f0514defb",
+   "jp": "ジムには、ちょっと悪かったかな？<FB>",
+   "ko": "짐한테 좀 미안했나?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1212,
+   "src": "e1e1e1042cdee1e104fd9fe226054b124f1805def804fd9f18789b577c9b57192202fe6d1e3735e3f9fd502d110514054b0f1805defe69f6e1e1e1e10b4e022d17e0e28e5b18140a0837e3f6789b577c9b57fe6d20fc933708232a35e3f63a22e22202232113010f1d022d0101052214e3fa",
+   "jp": "・・・おろ？・・お前、わかってんのか？<F8>\nお前のラックロックはもう[FE6D1E]だぜ。[F9]気がつかなかったのか？[FE69][F6]・・・・しょうがねー、ブシのなさけだ。[F6]ラックロック[FE6D20]個だけやるぜ。[F6]でも、もうやめといたほうがいいかもな。<FA>",
+   "ko": "……어라? ……너, 알고 있냐?<F8>\n네 럭록은 이제 [FE6D1E]개라고.[F9]몰랐던 거냐?[FE69][F6]……어쩔 수 없지, 무사의 정이다.[F6]럭록 [FE6D20]개만 주마.[F6]그래도 이제 그만두는 게 좋을걸.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1213,
+   "src": "f50339789b577c9b5727fe6d20fc93e283701522284b0fe3f8e1e183704b12084b09020101736114180522e1e1e1e3fb",
+   "jp": "[F50339]ラックロックを[FE6D20]個、ジムにもらった。<F8>\n・・ジムってけっこういいヤツなのかも・・・。<FB>",
+   "ko": "[F50339]럭록을 [FE6D20]개, 짐에게 받았다.<F8>\n……짐은 의외로 좋은 녀석일지도…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1214,
+   "src": "547b0f102dfdecfc470b12fde3210f789b577c9b5737e3f80e02054f0f4f1519fc190f2919fd31140113fd3b02083b14e3f9559f15fdc9fc3a2d004b0f28234b121f14e3fb",
+   "jp": "オレたちが苦労して集めたラックロックだ。<F8>\nそうかんたんには当たりは出ないと思うけどな。[F9]カンに自信があったらやってみな。<FB>",
+   "ko": "우리가 고생해서 모은 럭록이다.<F8>\n그렇게 쉽게 당첨은 안 나올걸.[F9]감에 자신 있으면 해 봐.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1215,
+   "src": "e1e1e1e1e1104b060b4ee0e28370187361e3f8547b0f102dfdecfc470b12fde3210f789b577c9b5727e1e1e3fb",
+   "jp": "・・・・・ちっきしょー、ジムのヤツ。<F8>\nオレたちが苦労して集めたラックロックを・・。<FB>",
+   "ko": "……젠장, 짐 녀석.<F8>\n우리가 고생해서 모은 럭록을…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1216,
+   "src": "010118051446e5def0094f1409130b1212e3f8fd48fd6215fd2611054b0f28e21e0f547be20546e0104c4f15f9f40d0f0f06372c021446e5e3fb",
+   "jp": "いいのかなぁ～？　こんなことしてて。<F8>\n先生に見つかったら、またオレ、かぁーちゃんに[F9]百たたきだろうなぁ～。<FB>",
+   "ko": "괜찮으려나~? 이런 짓 하고 있어도.<F8>\n선생님한테 들키면, 또 나는 엄마한테[F9]볼기 백 대 맞겠지~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1217,
+   "src": "e1e1e1e1370528547b19232113010f1d022d01014b12f8fd104b0f1815254ae0e3f90b4e022d1749e01e0f789b577c9b57fd9e0c0517e3fb",
+   "jp": "・・・・だからオレはやめといたほうがいいって<F8>\n言ったのによぉー。[F9]しょうがねぇーまたラックロック探すかね。<FB>",
+   "ko": "……그러니까 내가 그만두는 게 좋다고<F8>\n했잖아~.[F9]어쩔 수 없지~ 또 럭록이나 찾아볼까.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1218,
+   "src": "224b13e2fd963901121f250205dffb",
+   "jp": "もっと、近づいてみようか！<FB>",
+   "ko": "좀 더 가까이 가 볼까!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1219,
+   "src": "fdbffdb127fe6d463a60999b570b0f28f8fdbffdb1155051627027fd0d02091315144b120b1e011e0c25f92202d5fdf3fe6d463afdddfc022760999b570b0f1e03e3fb",
+   "jp": "黒板を[FE6D46]でチェックしたら<F8>\n黒板にアイテムを使うことになってしまいますよ[F9]もう１度[FE6D46]で木箱をチェックしたまえ。<FB>",
+   "ko": "칠판을 [FE6D46]으로 체크하면<F8>\n칠판에 아이템을 쓰게 되어 버립니다.[F9]다시 한번 [FE6D46]으로 나무 상자를 체크하게나.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1220,
+   "src": "927c7c7c9bdf927c9b92e3f8fc1bfc1ae1e1e1e11d4f133725dffd3c2814014b123ce3f9f0f0fc3a3312072b25e5e3fb",
+   "jp": "ピロロロッ！ピロッピ。<F8>\n訳：・・・・ほんとだよ！知らないってば。[F9]　　信じてくれよ～。<FB>",
+   "ko": "삐로로롯! 삐롯삐.<F8>\n번역: ……정말이야! 모른다니까.[F9]　　믿어 줘~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1221,
+   "src": "fe6d04905f9f3a879b5b9d0b121f2502e3fb",
+   "jp": "[FE6D04]ボタンでダッシュしてみよう。<FB>",
+   "ko": "[FE6D04]버튼으로 대시해 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1222,
+   "src": "3b02234b12e2fd0615fd072b2502e1e1e1defb",
+   "jp": "どうやって、手に入れよう・・・？<FB>",
+   "ko": "어떻게 손에 넣지……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1223,
+   "src": "374b0f28e2fd1d0792789b5715fd260d12f8fd31fd2518334d4f3d270b140a0125e3e1e1e1fd1d070b12dffb",
+   "jp": "だったら、早くピラックに見せて<F8>\n出発のじゅんびをしなさいよ。・・・早くして！<FB>",
+   "ko": "그럼, 빨리 피락한테 보여 주고<F8>\n출발 준비나 해. ……빨리!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1224,
+   "src": "fd053ae2094f1413092c15fdf42dfd0f0112012a180514defb",
+   "jp": "何で、こんなところに穴が開いているのかな？<FB>",
+   "ko": "왜 이런 곳에 구멍이 뚫려 있는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1225,
+   "src": "fdb80be25b9e5280563a22000f03121f2adefb",
+   "jp": "少し、ショウゲキでもあたえてみる？<FB>",
+   "ko": "조금, 충격이라도 줘 볼까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1226,
+   "src": "37213725dff05f516f9f7f2d0026140125dff82202d5fdc30107052817e3f0d5e2d618fe6d243ae2f9fe6d02905f9f27fd4c0c4f3725e3f0010725dffa",
+   "jp": "だめだよ！　タイミングがあわないよ！<F8>\nもう１回いくからね。　１、２の[FE6D24]で、[F9][FE6D02]ボタンを押すんだよ。　いくよ！<FA>",
+   "ko": "안 돼! 타이밍이 안 맞아!<F8>\n한 번 더 간다. 1, 2, [FE6D24] 하면[F9][FE6D02]버튼을 누르는 거야. 간다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "suggestion",
+     "proposed": "안 돼! 타이밍이 안 맞아!<F8>\n한 번 더 간다. 1, 2, [FE6D24] 하면[F9][FE6D02]버튼을 누르는 거야. 간다!<FA>",
+     "reason": "[FE6D24]는 숫자 3 아이콘이라 「하나, 둘, 3에」가 섞여 어색함. 숫자로 맞추고 구호답게 「~하면」.",
+     "applied": "D9"
+    }
+   ],
+   "draft_ko": "안 돼! 타이밍이 안 맞아!<F8>\n한 번 더 간다. 하나, 둘, [FE6D24]에[F9][FE6D02]버튼을 누르는 거야. 간다!<FA>"
+  },
+  {
+   "id": 1227,
+   "src": "37213725dff0fe6d02905f9f27fd4c0c4f3725dff9010725dffa",
+   "jp": "だめだよ！　[FE6D02]ボタンを押すんだよ！[F9]いくよ！<FA>",
+   "ko": "안 돼! [FE6D02]버튼을 누르는 거야![F9]간다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1228,
+   "src": "144f3701e20918fc75fc6ce1e1e1defb",
+   "jp": "なんだい、この写真・・・？<FB>",
+   "ko": "뭐야, 이 사진……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1229,
+   "src": "0f0b05e20918fde5f8519f8a975413014b0b4e15010ffde537e3fb",
+   "jp": "たしか、この男<F8>\nインディオといっしょにいた男だ。<FB>",
+   "ko": "분명, 이 남자<F8>\n인디오랑 같이 있던 남자야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1230,
+   "src": "0918fd3d19e2fc0d0b12fd6a01fd3d334c14014f37dffb",
+   "jp": "この人は、決して悪い人じゃないんだ！<FB>",
+   "ko": "이 사람은 절대 나쁜 사람이 아니야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1231,
+   "src": "519f8a97542dfd2e4b12010f1400e1e1e1fb",
+   "jp": "インディオが持っていたなあ・・・<FB>",
+   "ko": "인디오가 가지고 있었지……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1232,
+   "src": "fda52b122a4f374b0fe2fd642dfd71031200302ae3f8fd1d07fd960715fd68140a0125e3fb",
+   "jp": "忘れてるんだった、私が教えてあげる。<F8>\n早く近くに来なさいよ。<FB>",
+   "ko": "잊어버렸다면, 내가 가르쳐 줄게.<F8>\n빨리 가까이 와.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1233,
+   "src": "1e0f000e3d15061425e3f883701823111e0ffd0505767a010913fc9d03122a1f0f01f937052825e3fb",
+   "jp": "またあそびにきなよ。<F8>\nジムのやつまた何かワルいこと考えてるみたい[F9]だからよ。<FB>",
+   "ko": "또 놀러 와.<F8>\n짐 녀석이 또 뭔가 나쁜 짓을 꾸미는[F9]것 같거든.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1234,
+   "src": "83704b120ae1e1e1e1e1e1354b0f0164515b9e3735e3f81d4f1319fd48fd62180913e1e1e1fde606144f3735e3fb",
+   "jp": "ジムってさ・・・・・・ぜったいナイショだぜ。<F8>\nほんとは先生のこと・・・好きなんだぜ。<FB>",
+   "ko": "짐 말이야…… 절대 비밀이다.<F8>\n사실은 선생님을…… 좋아한대.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1235,
+   "src": "fe79f0f0fd9c050cfd11fdbcdff0f0f00f0f0112fd4e27fd072b2502dff8f0f0f0fe6d42f0f0f0f0f0f0f0fe6d12fe7efa",
+   "jp": "[FE79]　　動かす方向！　　　たたいて力を入れよう！<F8>\n　　　[FE6D42]　　　　　　　[FE6D12][FE7E]<FA>",
+   "ko": "[FE79]　　이동 방향! 　　　두드려서 힘을 주자!<F8>\n　　　[FE6D42]　　　　　　　[FE6D12][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1236,
+   "src": "fe79f0f0f0f0fd9c050cfd11fdbc15fd4e27fd072b2502dff8f0f0f0f0f0f0f0f0fe6d42fe7efa",
+   "jp": "[FE79]　　　　動かす方向に力を入れよう！<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "ko": "[FE79]　　　　이동 방향으로 힘을 주자!<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1237,
+   "src": "fe79f0f0f0f0f00f0f0112fd4e27fd072b2502dff8f0f0f0f0f0f0f0f0fe6d12fe7efa",
+   "jp": "[FE79]　　　　　たたいて力を入れよう！<F8>\n　　　　　　　　[FE6D12][FE7E]<FA>",
+   "ko": "[FE79]　　　　　두드려서 힘을 주자!<F8>\n　　　　　　　　[FE6D12][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1238,
+   "src": "3b020b0f18def01e373725e21e371e37dfdffa",
+   "jp": "どうしたの？　まだだよ、まだまだ！！<FA>",
+   "ko": "왜 그래? 아직이야, 아직 멀었어!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1239,
+   "src": "7f79e09f1917e2fd48fd6218fdccfde60614fd5b1418e3f8789b577c9b571851537ce022fde60614fd5b18d5113726e3fb",
+   "jp": "グリーンはね、先生の大好きな色なの。<F8>\nラックロックのイエローも好きな色の１つだわ。<FB>",
+   "ko": "초록은 선생님이 제일 좋아하는 색이야.<F8>\n럭록의 노랑도 좋아하는 색 중 하나야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1240,
+   "src": "6b6b6b9be2070c2f4b0f0126e3fb",
+   "jp": "フフフッ、くすぐったいわ。<FB>",
+   "ko": "후후훗, 간지러워.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1241,
+   "src": "fc00015c55e06b19fd48fd6218637be08b6ee05725e3f80440031204011217e3fb",
+   "jp": "赤いスカーフは先生のトレードマークよ。<F8>\nおぼえておいてね。<FB>",
+   "ko": "빨간 스카프는 선생님의 트레이드마크야.<F8>\n기억해 둬.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1242,
+   "src": "95589b6318fd041519fd0522fd074b120114012625e3fb",
+   "jp": "ポケットの中には何も入っていないわよ。<FB>",
+   "ko": "주머니 속엔 아무것도 없어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1243,
+   "src": "fd49fc1915fd0522fd074b120114012625e3fb",
+   "jp": "本当に何も入っていないわよ。<FB>",
+   "ko": "정말 아무것도 없다니까.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1244,
+   "src": "3b020b12e20e4f1463593c0529fdc50c18dffb",
+   "jp": "どうして、そんなトコばかり指すの！<FB>",
+   "ko": "왜 그런 데만 가리키는 거야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1245,
+   "src": "f8f0f0f0f0f0010105304f150b140a01dfdffb",
+   "jp": "<F8>\n　　　　　いいかげんにしなさい！！<FB>",
+   "ko": "<F8>\n　　　　　적당히 좀 하렴!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1246,
+   "src": "0e181929fcb21519569c9f933afdccfde714f8e6f411fdbafd11fdf2e72dfd53052b12012a18f9fd960715fd514b120b4b0529fd2612fd514b1217e3fe69f60918fd21fd2b2723212afd4f19fe6d04905f9f27fd4c0c05f6fe6d443afe6d02905f9f27fd4c0c18f60e0b0f2801250125569c9f9318fdf51e2925e3fa",
+   "jp": "そのはり紙にはキャンプで大切な<F8>\n「操作方法」が書かれているの[F9]近くに行ってしっかり見て行ってね。[FE69][F6]この画面をやめる時は[FE6D04]ボタンを押すか[F6][FE6D44]で[FE6D02]ボタンを押すの[F6]そしたらいよいよキャンプの始まりよ。<FA>",
+   "ko": "그 벽보에는 캠프에서 중요한<F8>\n「조작 방법」이 적혀 있어.[F9]가까이 가서 잘 보고 가렴.[FE69][F6]이 화면을 그만둘 때는 [FE6D04]버튼을 누르거나[F6][FE6D44]에서 [FE6D02]버튼을 누르면 돼.[F6]그러면 드디어 캠프 시작이야.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1247,
+   "src": "1c4b1ce0df826ee01f2cdfdff804131301e206232d2bdfdfdffa",
+   "jp": "へっへー！ザマーみろ！！<F8>\nおととい、きやがれ！！！<FA>",
+   "ko": "헤헤ー! 꼴좋다!!<F8>\n두 번 다시 오지 마라!!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1248,
+   "src": "52565697e0f052565697e0f8fc1bfc1a2507fd680fe252979f56e0e3f9fe69f6fda3fd3719e204fd9f18d5dafd93180f4f334e02fd37334ce3f6004f1415fd3e0a054b0f04fd9f2de2f6094f1415fdcc0607142a1319e1e1e1fe69f6fcc2fd37180f111819fd1d01224f334c1802e3f6fa",
+   "jp": "ウキキィー　ウキキィー<F8>\n訳：よく来た、ウィンキー。[F9][FE69][F6]今日は、お前の１６才のたんじょう日じゃ。[F6]あんなに小さかったお前が、[F6]こんなに大きくなるとは・・・[FE69][F6]月日のたつのは早いもんじゃのう。[F6]<FA>",
+   "ko": "우끼끼ー　우끼끼ー<F8>\n번역: 잘 왔다, 윙키.[F9][FE69][F6]오늘은 너의 16번째 생일이니라.[F6]그렇게 작았던 네가,[F6]이렇게 크다니……[FE69][F6]세월 참 빠르기도 하구나.[F6]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1249,
+   "src": "f8250105e252979f56e0e22507fdeb0718334cdffa",
+   "jp": "<F8>\nよいか、ウィンキー、よく聞くのじゃ！<FA>",
+   "ko": "<F8>\n알겠느냐, 윙키. 잘 듣거라!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "suggestion",
+     "proposed": "<F8>\n알겠느냐, 윙키. 잘 듣거라!<FA>",
+     "reason": "「よいか」는 '알겠느냐/됐느냐'라는 다짐. 초벌은 '듣다'가 두 번 반복됨.",
+     "applied": "D9"
+    }
+   ],
+   "draft_ko": "<F8>\n잘 듣거라, 윙키. 똑똑히 들어야 하느니라!<FA>"
+  },
+  {
+   "id": 1250,
+   "src": "595915fd53052b0ffdacfc983a2605281401182d004b0f28f8fe6d0c3afdc50b1204072bdffb",
+   "jp": "ココに書かれた内容でわからないのがあったら<F8>\n[FE6D0C]で指しておくれ！<FB>",
+   "ko": "여기 적힌 내용 중에 모르는 게 있으면<F8>\n[FE6D0C]로 가리켜 주렴!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1251,
+   "src": "fd1618fe6d2211186e8b271b011204072bdff8fd64334c00fd062d133b0514010be2509f5f0f101428f9fd051305142a372ce3fb",
+   "jp": "上の[FE6D22]つのマドをふいておくれ！<F8>\n私じゃあ手がとどかないし、アンタたちなら[F9]何とかなるだろ。<FB>",
+   "ko": "위쪽의 창문 [FE6D22]개를 닦아 주렴!<F8>\n나는 손이 안 닿지만, 너희라면[F9]어떻게든 되겠지.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1252,
+   "src": "745515fdf42d000112012a4f37083be2003e14010528f8577e1811010ffdb13a1b0a013a1d0b014f37dff9104c4f13577e22024b1204072b25dffb",
+   "jp": "ユカに穴があいているんだけど、あぶないから<F8>\nクギのついた板でふさいでほしいんだ！[F9]ちゃんとクギもうっておくれよ！<FB>",
+   "ko": "바닥에 구멍이 뚫려 있는데, 위험하니까<F8>\n못이 달린 판자로 막아 줬으면 좋겠구나![F9]못도 제대로 박아 주렴!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1253,
+   "src": "fd0015002a62e08e7a27fd0118558f15fd2e4b12014b12f81d0b014f37dff9fd693efd4f15e2190a1e2b1401250215fc7cfc580b1204072bdffb",
+   "jp": "右にあるテーブルを左のカベに持っていって<F8>\nほしいんだ！[F9]運ぶ時に、はさまれないように注意しておくれ！<FB>",
+   "ko": "오른쪽에 있는 테이블을 왼쪽 벽으로 옮겨<F8>\n줬으면 좋겠구나![F9]옮길 때, 끼이지 않게 조심하렴!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1254,
+   "src": "00292d130225df597b19e2509f5f0f10180405303af8144f1305144b0f25dff90c1e14012de2fd872918fdca220f182025e1e1e1fb",
+   "jp": "ありがとうよ！コレは、アンタたちのおかげで<F8>\nなんとかなったよ！[F9]すまないが、残りの分もたのむよ・・・<FB>",
+   "ko": "고맙구나! 이건 너희 덕분에<F8>\n어떻게든 됐어![F9]미안하지만, 나머지도 부탁하마……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1255,
+   "src": "1d0518fdae22254f3a04013a25dffb",
+   "jp": "ほかの子もよんでおいでよ！<FB>",
+   "ko": "다른 애들도 불러오렴!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1256,
+   "src": "fd6d27132a13e2fdcc0614fd5c27fd310c18221128014f3725e3f82202fdb80be2fd96071504013a25e3fb",
+   "jp": "年をとると、大きな声を出すのもつらいんだよ。<F8>\nもう少し、近くにおいでよ。<FB>",
+   "ko": "나이를 먹으니, 큰 소리 내기도 힘들단다.<F8>\n조금 더 가까이 오렴.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1257,
+   "src": "02e54ff08d5713220b1401dffb",
+   "jp": "う～ん　ビクともしない！<FB>",
+   "ko": "으~음 꿈쩍도 안 해!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1258,
+   "src": "230b0618fd0419fd4ffdb22f28010b05fd5401082b3be2f80e2b3a2225082b3ce2fda61872585118fd0e15557e2df9040112002a25dffb",
+   "jp": "やしきの中は時計ぐらいしか無いけれど、<F8>\nそれでもよければ、船のモケイの下にカギが[F9]おいてあるよ！<FB>",
+   "ko": "저택 안엔 시계 정도밖에 없지만,<F8>\n그래도 괜찮다면, 배 모형 밑에 열쇠가[F9]놓여 있단다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1259,
+   "src": "f500d30918fd0e15230b0618557e2d002a1805144bdefb",
+   "jp": "[F500D3]この下にやしきのカギがあるのかなっ？<FB>",
+   "ko": "[F500D3]이 밑에 저택 열쇠가 있는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1260,
+   "src": "0f1e1519e2ebfda4182225022d03220101224f37e3fb",
+   "jp": "たまには、部屋のもようがえもいいもんだ。<FB>",
+   "ko": "가끔은 방 배치를 바꾸는 것도 좋구나.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1261,
+   "src": "fd262a052815fdc60e0237e3fb",
+   "jp": "見るからに重そうだ。<FB>",
+   "ko": "보기만 해도 무거워 보여.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1262,
+   "src": "74552d104c4f13f014044b1214010528e2f8fd9c050c091319fd54fcb3371400e5dffb",
+   "jp": "ユカがちゃんと　なおってないから、<F8>\n動かすことは無理だなあ～！<FB>",
+   "ko": "바닥이 제대로 안 고쳐져서,<F8>\n움직이는 건 무리겠다~!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1263,
+   "src": "043c000a4f2d0918fdf415fc4c1012e2587d0b14082b3cf80101082b3be1e1e1fb",
+   "jp": "おばあさんがこの穴に落ちて、ケガしなければ<F8>\nいいけれど・・・<FB>",
+   "ko": "할머니가 이 구멍에 빠져서 다치지 않으면<F8>\n좋을 텐데……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1264,
+   "src": "fdf42705070c1519e2104e023b01014f37083b17dffb",
+   "jp": "穴をかくすには、ちょうどいいんだけどね！<FB>",
+   "ko": "구멍을 숨기기엔 딱 좋은데!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1265,
+   "src": "6be5f0fd051305fd2e10fd16300f36dffe69f6fe6d0856e03afd9c050b12e2fe6d02905f9f3a042c0d2a25e3fa",
+   "jp": "フ～　何とか持ち上げたぞ！[FE69][F6][FE6D08]キーで動かして、[FE6D02]ボタンでおろせるよ。<FA>",
+   "ko": "후~ 겨우 들어 올렸다![FE69][F6][FE6D08]키로 옮기고, [FE6D02]버튼으로 내려놓으면 돼.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1266,
+   "src": "224b13e2fd960715252814011326052814011400e5dffb",
+   "jp": "もっと、近くによらないとわからないなあ～！<FB>",
+   "ko": "좀 더 가까이 가지 않으면 모르겠어~!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1267,
+   "src": "02e54ffd062d133b060e0222fd54011400dffb",
+   "jp": "う～ん手がとどきそうも無いなあ！<FB>",
+   "ko": "으~음 손이 닿을 것 같지 않아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1268,
+   "src": "6d59792d053e4b120112f0060f14011400dffb",
+   "jp": "ホコリがかぶっていて　きたないなあ！<FB>",
+   "ko": "먼지를 뒤집어써서 지저분해!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1269,
+   "src": "fd37320b2d1e3e0be0dffb",
+   "jp": "日ざしがまぶしー！<FB>",
+   "ko": "햇살이 눈부셔ー!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1270,
+   "src": "fe79f0f0fd9c050cfd11fdbcdff0f0f00f0f01126e8b271b0902dff8f0f0f0fe6d42f0f0f0f0f0f0f0fe6d12fe7efa",
+   "jp": "[FE79]　　動かす方向！　　　たたいてマドをふこう！<F8>\n　　　[FE6D42]　　　　　　　[FE6D12][FE7E]<FA>",
+   "ko": "[FE79]　　이동 방향! 　　　두드려서 창문 닦자!<F8>\n　　　[FE6D42]　　　　　　　[FE6D12][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1271,
+   "src": "fd954b1207370a01dffd954b1207370a01dffb",
+   "jp": "帰ってください！帰ってください！<FB>",
+   "ko": "돌아가 주세요! 돌아가 주세요!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1272,
+   "src": "fe796d9b945f271a4b414b121f2502dffe6d043a569c9f5d7af8f0f0f0f0f0f0f0f0fe6d42fe7efa",
+   "jp": "[FE79]ホッペタをひっぱってみよう！[FE6D04]でキャンセル<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "ko": "[FE79]볼을 잡아당겨 보자!　　　　[FE6D04]로 취소<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1273,
+   "src": "fe79696427fd4c0b121f2502dff0f0f0f0fe6d043a569c9f5d7af8f0f0f0f0f0f0f0f0fe6d12fe7efa",
+   "jp": "[FE79]ハナを押してみよう！　　　　[FE6D04]でキャンセル<F8>\n　　　　　　　　[FE6D12][FE7E]<FA>",
+   "ko": "[FE79]코를 눌러 보자!　　　　[FE6D04]로 취소<F8>\n　　　　　　　　[FE6D12][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1274,
+   "src": "fe79010f34280b121f2502dff0f0f0f0fe6d043a569c9f5d7af8f0f0f0f0f0f0f0f0fe6d42fe7efa",
+   "jp": "[FE79]いたずらしてみよう！　　　　[FE6D04]でキャンセル<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "ko": "[FE79]장난을 쳐 보자!　　　　[FE6D04]로 취소<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1275,
+   "src": "e1e1e1609c9b57defa",
+   "jp": "・・・チャック？<FA>",
+   "ko": "……지퍼?<FA>",
+   "state": "needs_human_review",
+   "note": "「チャック」=지퍼로 해석(1271–1274 누군가를 건드리는 장면). 사람 이름일 가능성도 있음.",
+   "question": ""
+  },
+  {
+   "id": 1276,
+   "src": "fd51081e0d4fdff0fd51081e0de1e1e1e1e14f4bdfdffa",
+   "jp": "行けません！　行けませ・・・・・んっ！！<FA>",
+   "ko": "못 가요! 못 가……요!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1277,
+   "src": "fda3fd371909182f28013a054f3f4f0b122328e0dff804400312232d2bdfdffa",
+   "jp": "今日はこのぐらいでかんべんしてやらー！<F8>\nおぼえてやがれ！！<FA>",
+   "ko": "오늘은 이쯤에서 봐주마!<F8>\n두고 보자!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1278,
+   "src": "334c00e2fc91fcb32dfd31fd682a1e3afcbf3a22fcbf0402dff9fda318fd50fd2e1027fcbf011e0ce3fa",
+   "jp": "じゃあ、料理が出来るまで歌でも歌おう！[F9]今の気持ちを歌います。<FA>",
+   "ko": "그럼, 요리가 다 될 때까지 노래나 부르자![F9]지금 기분을 노래하겠습니다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1279,
+   "src": "515fe051dff0f014150c4f18dfdffa",
+   "jp": "イターイ！　　なにすんの！！<FA>",
+   "ko": "아야ー!　　무슨 짓이야!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1280,
+   "src": "8e57e28e57e1e1e1e18e579be1e1e1e3f8fc1bfc1a905718fd9f15535a27fd8f301222e2fd923f140125e0e3f9f0f0e1e1e1e1fda3e2041405014b410114180ae3fb",
+   "jp": "ブク、ブク・・・・ブクッ・・・。<F8>\n訳：ボクの前にエサを投げても、食べないよー。[F9]　　・・・・今、おなかいっぱいなのさ。<FB>",
+   "ko": "뽀글, 뽀글…… 뽀글…….<F8>\n번역: 내 앞에 먹이를 던져도 안 먹어ー.[F9]　　……지금, 배가 부르거든.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1281,
+   "src": "e1e1e18e579be28e57e1e18e579bdef8fc1bfc1ae1e1e13b020dfd3e0a14fde9144f370528f9f0f0fcfb013afd1c013a22fc58fd291401334c4fe1e13a0b4edefb",
+   "jp": "・・・ブクッ、ブク・・ブクッ？<F8>\n訳：・・・どうせ小さな池なんだから[F9]　　急いで泳いでも意味ないじゃん・・でしょ？<FB>",
+   "ko": "……뽀글, 뽀글…… 뽀글?<F8>\n번역: ……어차피 작은 연못이니까[F9]　　급하게 헤엄쳐 봤자 소용없잖아…… 그치?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1282,
+   "src": "e1e1e1e1e1090111e2fda31522589f55fc084b12060e0214f8fd140b122a36e3fb",
+   "jp": "・・・・・こいつ、今にもケンカ売ってきそうな<F8>\n顔してるぞ。<FB>",
+   "ko": "……이 녀석, 당장이라도 싸움을 걸 것 같은<F8>\n얼굴을 하고 있어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1283,
+   "src": "8e57e28e57df8e579bdff8fc1bfc1a220b050b12e2547b27112c02144f12fd3b4b122adef9f0f004220b2b49e0df234b121f14e3fe69f6f0f0547b2d535a15fd920111011205282dfc7ffcc53735e3f6f0f0fdce06250d2a5c92e08b2dfd1d0c2e0f28f6f0f0547b19fdccfdb7fd0f0812fcb730101e02052814dffb",
+   "jp": "ブク、ブク！ブクッ！<F8>\n訳：もしかして、オレをつろうなんて思ってる？[F9]　　おもしれぇー！やってみな。[FE69][F6]　　オレがエサに食いついてからが勝負だぜ。[F6]　　引きよせるスピードが早すぎたら[F6]　　オレは大口開けて逃げちまうからな！<FB>",
+   "ko": "뽀글, 뽀글! 뽀글!<F8>\n번역: 혹시, 나를 낚을 생각이야?[F9]　　재밌는데ー! 해 봐.[FE69][F6]　　내가 먹이를 물고 나서부터가 승부다.[F6]　　끌어당기는 속도가 너무 빠르면[F6]　　입을 크게 벌리고 도망칠 테니까!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1284,
+   "src": "8e57e28e57e28e579bdef8fc1bfc1a547b1809185b9b9518fd4e1519f9f0f0fd05fd3d22186179fd3d2dfd89050a2b122a4f37e3fe69f6f0f00e220e22e2547b2d535a15fd920111010f28f6f0f0fe6d0856e0e6fd4c0b4b41140be73afdce06250d250213f6f0f00c2a182d1e102d01144f37e326052a05defb",
+   "jp": "ブク、ブク、ブクッ？<F8>\n訳：オレのこのシッポの力には[F9]　　何人ものツリ人が泣かされてるんだ。[FE69][F6]　　そもそも、オレがエサに食いついたら[F6]　　[FE6D08]キー「押しっぱなし」で引きよせようと[F6]　　するのがまちがいなんだ。わかるか？<FB>",
+   "ko": "뽀글, 뽀글, 뽀글?<F8>\n번역: 내 이 꼬리 힘에는[F9]　　수많은 낚시꾼이 울었다고.[FE69][F6]　　애초에, 내가 먹이를 물었을 때[F6]　　[FE6D08]키를 「계속 눌러서」 끌어당기려고[F6]　　하는 게 잘못이야. 알겠어?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1285,
+   "src": "fe6afd0d01fd1127fd3c290f01905f9f18fd1615f8fe6d0c6ee05727fd9c050be2fe6d02905f9f27fd4c0b12f907260b07fc8e3f121f2502e3fb",
+   "jp": "[FE6A]使い方を知りたいボタンの上に<F8>\n[FE6D0C]マークを動かし、[FE6D02]ボタンを押して[F9]くわしく調べてみよう。<FB>",
+   "ko": "[FE6A]사용법을 알고 싶은 버튼 위로<F8>\n[FE6D0C]마크를 움직이고, [FE6D02]버튼을 눌러서[F9]자세히 조사해 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1286,
+   "src": "fe6d02905f9f19e2fc8e3f0f29e1fd3d13fd030b0f29e1f8596e9f8b18fc0dfcd715fd0d021f0f0137e3fa",
+   "jp": "[FE6D02]ボタンは、調べたり・人と話したり・<F8>\nコマンドの決定に使うみたいだ。<FA>",
+   "ko": "[FE6D02]버튼은 조사하거나·사람과 이야기하거나·<F8>\n커맨드를 결정할 때 쓰는 것 같다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1287,
+   "src": "fe6d04905f9f19e25a8efd21fd2b3a5d9b630b0f5051627027f8fd0d02fd4f15fd4c0c1f0f0137e3fa",
+   "jp": "[FE6D04]ボタンは、サブ画面でセットしたアイテムを<F8>\n使う時に押すみたいだ。<FA>",
+   "ko": "[FE6D04]버튼은 서브 화면에서 세팅한 아이템을<F8>\n쓸 때 누르는 것 같다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1288,
+   "src": "fe6d06905f9f19e2e65c5fe063e7905f9f13fd4733250215f85a8efd21fd2b27fd0f07fd4f15fd0d02250237e3f91e0fe209185a8efd21fd2b3a505162702705032a09132dfe69f63a062a1f0f0137e3fa",
+   "jp": "[FE6D06]ボタンは、「スタート」ボタンと同じように<F8>\nサブ画面を開く時に使うようだ。[F9]また、このサブ画面でアイテムをかえることが[FE69][F6]できるみたいだ。<FA>",
+   "ko": "[FE6D06]버튼은 「스타트」 버튼과 마찬가지로<F8>\n서브 화면을 열 때 쓰는 것 같다.[F9]또, 이 서브 화면에서 아이템을 바꿀 수[FE69][F6]있는 것 같다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1289,
+   "src": "fe6d00905f9f19e26d519b5c7a27f412280b12e2f819142b0f719f8ce027fd973efd4f15fd0d021f0f0137e3fa",
+   "jp": "[FE6D00]ボタンは、ホイッスルを鳴らして、<F8>\nはなれたメンバーを呼ぶ時に使うみたいだ。<FA>",
+   "ko": "[FE6D00]버튼은 호루라기를 불어서,<F8>\n떨어진 멤버를 부를 때 쓰는 것 같다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1290,
+   "src": "fe6d14905f9f19e290572818fda318fc45fd4e13f8fda3e2fe6d04905f9f3afd0d4b12012a505162702df9fd262b2a250237e3fa",
+   "jp": "[FE6D14]ボタンは、ボクらの今の体力と<F8>\n今、[FE6D04]ボタンで使っているアイテムが[F9]見れるようだ。<FA>",
+   "ko": "[FE6D14]버튼은 우리의 지금 체력과<F8>\n지금 [FE6D04]버튼으로 쓰고 있는 아이템을[F9]볼 수 있는 것 같다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1291,
+   "src": "fe6d0a905f9f19e280e070fd04235051627027fd2c3efd4f15f8fd0d0213e279e087e02705032afd552dfd31fd682a4f37e3fa",
+   "jp": "[FE6D0A]ボタンは、ゲーム中やアイテムを選ぶ時に<F8>\n使うと、リーダーをかえる事が出来るんだ。<FA>",
+   "ko": "[FE6D0A]버튼은 게임 중이나 아이템을 고를 때<F8>\n쓰면, 리더를 바꿀 수 있다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1292,
+   "src": "e65c5fe063e7905f9f19e2fe6d06905f9f13fd4733250215f85a8efd21fd2b27fd0f07fd4f15fd0d02250237e3f91e0fe209185a8efd21fd2b3a505162702705032a09132dfe69f63a062a1f0f0137e3fa",
+   "jp": "「スタート」ボタンは、[FE6D06]ボタンと同じように<F8>\nサブ画面を開く時に使うようだ。[F9]また、このサブ画面でアイテムをかえることが[FE69][F6]できるみたいだ。<FA>",
+   "ko": "「스타트」 버튼은 [FE6D06]버튼과 마찬가지로<F8>\n서브 화면을 열 때 쓰는 것 같다.[F9]또, 이 서브 화면에서 아이템을 바꿀 수[FE69][F6]있는 것 같다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1293,
+   "src": "e65d7b5763e7905f9f19e2fd37fd39155de08e0c2afd4f15e2f8fd0d02250237e3f9091e21155de08e0b2502e3fa",
+   "jp": "「セレクト」ボタンは、日記にセーブする時に、<F8>\n使うようだ。[F9]こまめにセーブしよう。<FA>",
+   "ko": "「셀렉트」 버튼은 일기에 저장할 때<F8>\n쓰는 것 같다.[F9]자주자주 저장하자.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1294,
+   "src": "fe6d0856e019e2fd5efd9c23596e9f8b91677a27fd2c3efd4f15f8fd0d02250237e3fa",
+   "jp": "[FE6D08]キーは、移動やコマンドパネルを選ぶ時に<F8>\n使うようだ。<FA>",
+   "ko": "[FE6D08]키는 이동하거나 커맨드 패널을 고를 때<F8>\n쓰는 것 같다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1295,
+   "src": "224b13fd963901121f2502dffb",
+   "jp": "もっと近づいてみよう！<FB>",
+   "ko": "좀 더 가까이 가 보자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1296,
+   "src": "3b022402516f144f372c02e1e1e1defb",
+   "jp": "どうゆうイミなんだろう・・・？<FB>",
+   "ko": "무슨 뜻일까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1297,
+   "src": "0918fdbdfd1f15646505e2516f2d002a1805144bdefb",
+   "jp": "この数字にナニか、イミがあるのかなっ？<FB>",
+   "ko": "이 숫자에 뭔가 의미가 있는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1298,
+   "src": "0a0537100b0f28e226052a0514defb",
+   "jp": "さかだちしたら、わかるかな？<FB>",
+   "ko": "물구나무서면 알 수 있을까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1299,
+   "src": "fdee0319e2559f5f9f144f37083be1e1e1fb",
+   "jp": "答えは、カンタンなんだけど・・・<FB>",
+   "ko": "답은 간단한데……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1300,
+   "src": "fe79fd9c050cfd11fdbc15fd4e27fd072b2502dffe6d043a569c9f5d7af8f0f0f0f0f0f0f0f0fe6d42fe7efa",
+   "jp": "[FE79]動かす方向に力を入れよう！[FE6D04]でキャンセル<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "ko": "[FE79]이동 방향으로 힘을 주자![FE6D04]로 취소<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1301,
+   "src": "5c9be1e1e15c55dedffb",
+   "jp": "スッ・・・スカ？！<FB>",
+   "ko": "꽈…… 꽝?!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1302,
+   "src": "fe6d023afdbdfd1f18905f9f27fd4c0b12f8fc2ffc2815e6aeaae718905f9f27fd4c0b121f2502dffb",
+   "jp": "[FE6D02]で数字のボタンを押して<F8>\n最後に「ＯＫ」のボタンを押してみよう！<FB>",
+   "ko": "[FE6D02]로 숫자 버튼을 누르고<F8>\n마지막에 「OK」 버튼을 눌러 보자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1303,
+   "src": "4f4bdfdef0f0144f05e2fc14021f0f01e1e1e1fb",
+   "jp": "んっ！？　　なんか、違うみたい・・・<FB>",
+   "ko": "응!?　　뭔가, 다른 것 같아……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1304,
+   "src": "3b090515e25c519b602d002a193437dffb",
+   "jp": "どこかに、スイッチがあるはずだ！<FB>",
+   "ko": "어딘가에 스위치가 있을 거야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1305,
+   "src": "92e0f092e0f8fc1bfc1a334c1e3725df334c1ee2334c1edff9f0f0637c637c0b122a13e260577913010725dffb",
+   "jp": "ピー　ピー<F8>\n訳：じゃまだよ！じゃま、じゃま！[F9]　　トロトロしてると、チクリといくよ！<FB>",
+   "ko": "삐ー　삐ー<F8>\n번역: 방해야! 방해, 방해![F9]　　꾸물거리면 콕 찌를 거야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1306,
+   "src": "fe79f0f0f0fd9c050cfd11fdbcf0f0f0f0fe6d043a569c9f5d7af8f0f0f0f0f0f0f0f0fe6d42fe7efa",
+   "jp": "[FE79]　　　動かす方向　　　　[FE6D04]でキャンセル<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "ko": "[FE79]　　　이동 방향　　　　[FE6D04]로 취소<F8>\n　　　　　　　　[FE6D42][FE7E]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1307,
+   "src": "0e0919569d525b9e144f3a104ddff82202d6fdf313515f84780b14014b104ddff9242a0b1207370a01e3fa",
+   "jp": "そこはキュウショなんでちゅ！<F8>\nもう２度とイタズラしないっちゅ！[F9]ゆるしてください。<FA>",
+   "ko": "거기는 급소란 말이다찍!<F8>\n두 번 다시 장난 안 칠게찍![F9]용서해 주세요.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1308,
+   "src": "609de0f0609de0dff8fc1bfc1a54517818331e4f180b4b453701dff9f0f00e4f1463590a264b12221c01063725e5dffb",
+   "jp": "チュー　チュー！<F8>\n訳：オイラのじまんのしっぽだい！[F9]　　そんなトコさわってもへいきだよ～！<FB>",
+   "ko": "찍　찍!<F8>\n번역: 내 자랑인 꼬리다![F9]　　그런 데 만져도 끄떡없어~!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1309,
+   "src": "609de0f0609de0dff8fc1bfc1a070c2f4b0f011400e20a264f1425dffb",
+   "jp": "チュー　チュー！<F8>\n訳：くすぐったいなあ、さわんなよ！<FB>",
+   "ko": "찍　찍!<F8>\n번역: 간지럽잖아, 만지지 마!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1310,
+   "src": "094f14fdcc06147268e2fd2e10fd16302a2608151901051401f80be1e1e1e1e1f91f4f143afd4e27fd9b260d0f28fd4c0d2a0514defb",
+   "jp": "こんな大きなモノ、持ち上げるわけにはいかない<F8>\nし・・・・・[F9]みんなで力を合わせたら押せるかな？<FB>",
+   "ko": "이렇게 큰 걸 들어 올릴 수는 없고<F8>\n……[F9]다 같이 힘을 합치면 밀 수 있을까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1311,
+   "src": "fd0615fd072b0f01083be2133b060e022214010be1e1e1f8144f13050b12e2fc4c130c09132d3a061401051400defb",
+   "jp": "手に入れたいけど、とどきそうもないし・・・<F8>\nなんとかして、落とすことができないかなあ？<FB>",
+   "ko": "손에 넣고 싶지만, 닿을 것 같지 않고……<F8>\n어떻게든 떨어뜨릴 수 없을까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1312,
+   "src": "23211207370a01df23211207370a01dff86f6f270a262a1819e1e1e1fb",
+   "jp": "やめてください！やめてください！<F8>\nミミをさわるのは・・・<FB>",
+   "ko": "그만하세요! 그만하세요!<F8>\n귀를 만지는 건……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1313,
+   "src": "092b334c00e254605460fc9a10fde11e4b1201282b1401f81400e1e1e1fb",
+   "jp": "これじゃあ、オチオチ立ち止まっていられない<F8>\nなあ・・・<FB>",
+   "ko": "이래서는 마음 놓고 멈춰 서 있을 수도 없겠어<F8>\n……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1314,
+   "src": "094f141815000f4b0f28e1e1e1e1e1f9fc9d0312012afd0a1515302502e3fb",
+   "jp": "こんなのにあたったら・・・・・[F9]考えている間ににげよう。<FB>",
+   "ko": "이런 거에 맞으면……[F9]생각하는 사이에 도망치자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1315,
+   "src": "535175521e4f124fdff8fc45fd4e05011b071519e20101280b01e3f90f370be2fc45fd4e2d1c28140113fd923f2b1401083b17dffb",
+   "jp": "エイヨウまんてん！<F8>\n体力かいふくには、いいらしい。[F9]ただし、体力がへらないと食べれないけどね！<FB>",
+   "ko": "영양 만점!<F8>\n체력 회복에 좋은 것 같다.[F9]단, 체력이 줄지 않으면 못 먹지만!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1316,
+   "src": "0f3e4fe1e1e109092dfda39057282d012a13092c37dffb",
+   "jp": "たぶん・・・ここが今ボクらがいるところだ！<FB>",
+   "ko": "아마…… 여기가 지금 우리가 있는 곳이야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1317,
+   "src": "fd960715014b12e2fd0615fd072b0f01083be1e1e1e1fb",
+   "jp": "近くにいって、手に入れたいけど・・・・<FB>",
+   "ko": "가까이 가서 손에 넣고 싶은데……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1318,
+   "src": "fd48fd62270a284b0f73612813fc2afc2b2d002a4f372c0205def8f913150507736128271f110812fdeb06370e02dfdffb",
+   "jp": "先生をさらったヤツらと関係があるんだろうか？<F8>\n[F9]とにかくヤツらをみつけて聞きだそう！！<FB>",
+   "ko": "선생님을 납치한 녀석들과 관계가 있는 걸까?<F8>\n[F9]아무튼 녀석들을 찾아서 캐물어 보자!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1319,
+   "src": "557efd264b08dffa",
+   "jp": "カギ見っけ！<FA>",
+   "ko": "열쇠 찾았다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1320,
+   "src": "e6fd15fd77fda678515a9f87e0fc71e74b12fd530112002ae3f8609f581426291519799b9114fcb4fd9f2df9110112012a1400e3fb",
+   "jp": "「海賊船ライサンダー号」って書いてある。<F8>\nチンケなわりにはリッパな名前が[F9]ついているなあ。<FB>",
+   "ko": "「해적선 라이샌더호」라고 적혀 있다.<F8>\n볼품없는 것치고는 훌륭한 이름이[F9]붙어 있네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1321,
+   "src": "f0f0f0f0f0e6fc3cfdae8e7a138e7a18fc13e7f8e1e1e14b12fd530112002ae3fb",
+   "jp": "　　　　　「息子ブルとブルの母」<F8>\n・・・って書いてある。<FB>",
+   "ko": "　　　　　「아들 불과 불의 엄마」<F8>\n……라고 적혀 있다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1322,
+   "src": "f0f0f0f0f0f0f0fd15fd7718fd5a2df448052b122ae3fb",
+   "jp": "　　　　　　　海賊の絵が描かれてる。<FB>",
+   "ko": "　　　　　　　해적 그림이 그려져 있다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1323,
+   "src": "fccf023f0605e215302a3f0605e1e1e1e1f8f9f0f0f0f0f0e1e1e1e1e1e1e1e1e1e115302a3f0637dffb",
+   "jp": "戦うべきか、にげるべきか・・・・<F8>\n[F9]　　　　　・・・・・・・・・・にげるべきだ！<FB>",
+   "ko": "싸워야 하나, 도망쳐야 하나……<F8>\n[F9]　　　　　…………도망쳐야 한다!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1324,
+   "src": "04fd9f28e2220b050b1283e064fd48fd6227fdda082502144f12f8fd3b4b122adee1e1e1001e0114f904fd9f288771e083144f12fc37080f09131749e0372ce3fe69f6fe6d14905f9f3afd312a78516bf40af40b144f12fd260f091322f614014f334c1749e01805def0002b2dd415144b0f28f604fd9f2818fd3dfd62e280e07054e08ce0144f3736dffe69f6094f14fd4f19fc0c1895795c15fc21fcd60c2a182dd5fc530ae3f6fd5f18fd04e20e4f1415b3b580e0701f0f0115f6001e051749e04f37e3f0f0f0334ce014e3fa",
+   "jp": "お前ら、もしかしてジーナ先生を助けようなんて<F8>\n思ってる？・・・あまいな[F9]お前らダメージなんて受けたことねぇーだろ。[FE69][F6][FE6D14]ボタンで出るライフ表示なんて見たことも[F6]ないんじゃねぇーのか？　あれが０になったら[F6]お前らの人生、ゲームオーバーなんだぞ！[FE69][F6]こんな時は町のポリスに連絡するのが１番さ。[F6]世の中、そんなにＴＶゲームみたいに[F6]あまかねぇーんだ。　　　じゃーな。<FA>",
+   "ko": "너희, 혹시 지나 선생님을 구하려고<F8>\n생각하는 거냐? ……어림없지.[F9]너희 대미지 같은 거 받아 본 적 없지?[FE69][F6][FE6D14]버튼으로 나오는 체력 표시 같은 건 본 적도[F6]없는 거 아냐? 그게 0이 되면[F6]너희 인생, 게임 오버라고![FE69][F6]이럴 땐 마을 경찰에 연락하는 게 최고야.[F6]세상은 그렇게 TV 게임처럼[F6]만만하지 않다고.　　　그럼 간다.<FA>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 짐(먼저 배로 돌아가기 전). 짐의 친구일 수도 있음.",
+   "question": ""
+  },
+  {
+   "id": 1325,
+   "src": "f8f0f0f0f0f0f0f0f0f0f0d6f5023bfa",
+   "jp": "<F8>\n　　　　　　　　　　２[F5023B]<FA>",
+   "ko": "<F8>\n　　　　　　　　　　2[F5023B]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1326,
+   "src": "f8f0f0f0f0f0f0f0f0f0f0fe6d24f5032dfa",
+   "jp": "<F8>\n　　　　　　　　　　[FE6D24][F5032D]<FA>",
+   "ko": "<F8>\n　　　　　　　　　　[FE6D24][F5032D]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1327,
+   "src": "f8f2f0f0f0f0f0f0250be2557e2dfd0f010f36dffa",
+   "jp": "<F8>\n[F2]　　　　　　よし、カギが開いたぞ！<FA>",
+   "ko": "<F8>\n[F2]　　　　　　좋아, 자물쇠가 열렸다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1328,
+   "src": "0918e6fc9a10fd0729fc5ffde16ee057e7e23b09053afd260ff809132d002ae1e1e1fb",
+   "jp": "この「立ち入り禁止マーク」、どこかで見た<F8>\nことがある・・・<FB>",
+   "ko": "이 「출입 금지 마크」, 어디선가<F8>\n본 적이 있어……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1329,
+   "src": "3b022328e29057282d012a629f6318250237e1e1e1e3fb",
+   "jp": "どうやら、ボクらがいるテントのようだ・・・。<FB>",
+   "ko": "아무래도, 우리가 있는 텐트인 것 같아…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1330,
+   "src": "3b022328e2fcec15fdcc06143b0207112d004b12e2f8595915fd48fd622d012a1f0f0137e3fb",
+   "jp": "どうやら、北に大きなどうくつがあって、<F8>\nココに先生がいるみたいだ。<FB>",
+   "ko": "아무래도, 북쪽에 큰 동굴이 있고,<F8>\n여기에 선생님이 있는 것 같아.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1331,
+   "src": "fdcc06143b02071118fce41519fde92d002a1805e1e1def8250be2597b27fd6f332a0b150b2502e3fb",
+   "jp": "大きなどうくつの横には池があるのか・・？<F8>\nよし、コレを目じるしにしよう。<FB>",
+   "ko": "큰 동굴 옆에는 연못이 있는 건가……?<F8>\n좋아, 이걸 표시로 삼자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1332,
+   "src": "6c9b5f575e14fd5adff890572818fd48fd6219e2094f144f334c140136e0dfdffb",
+   "jp": "ヘッタクソな絵！<F8>\nボクらの先生は、こんなんじゃないぞー！！<FB>",
+   "ko": "엉터리 그림!<F8>\n우리 선생님은 이렇지 않다고ー!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1333,
+   "src": "fd01fd0015d6fd3de2fd16fd0e3b10280515d5fd3d040112f8fd2e10fd16302a4b12010218193b020514defb",
+   "jp": "左右に２人、上下どちらかに１人おいて<F8>\n持ち上げるっていうのはどうかな？<FB>",
+   "ko": "좌우에 두 명, 위아래 중 한쪽에 한 명을 두고<F8>\n들어 올리는 건 어떨까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1334,
+   "src": "fd15fd77187361282de2e67ce093e727fd2e4b12fcb73012f8014b0f25e33b0915fcb7300f05fd3c281401082b3be2f9fd23fd2b15fdb400132dfd874b12012a19340ae3fa",
+   "jp": "海賊のヤツらが、「ロープ」を持って逃げて<F8>\nいったよ。どこに逃げたか知らないけれど、[F9]地面に足あとが残っているはずさ。<FA>",
+   "ko": "해적 녀석들이 「밧줄」을 가지고<F8>\n도망쳤어. 어디로 갔는지는 모르지만,[F9]땅에 발자국이 남아 있을 거야.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1335,
+   "src": "2202e2fc1018fd0415002afc01fc0219fd0f08121f0fdef8130715fc00fd5b18fc01fc0219e201010913002a052217dffa",
+   "jp": "もう、森の中にある宝箱は開けてみた？<F8>\nとくに赤色の宝箱は、いいことあるかもね！<FA>",
+   "ko": "벌써, 숲속에 있는 보물상자는 열어 봤어?<F8>\n특히 빨간 보물상자는, 좋은 일이 있을지도!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1336,
+   "src": "fddd18fd0e3a1d0312012a51662d012a4f37083be2f8767a0a3c05290b12012a2311370528e290e07a27f93e110812f009280b2112234b1225dffa",
+   "jp": "木の下でほえているイヌがいるんだけど、<F8>\nワルさばかりしているやつだから、ボールを[F9]ぶつけて　こらしめてやってよ！<FA>",
+   "ko": "나무 밑에서 짖고 있는 개가 있는데,<F8>\n못된 짓만 하는 녀석이니까, 공을[F9]맞혀서 혼내 줘!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "나무 밑에서 짖고 있는 개가 있는데,<F8>\n못된 짓만 하는 녀석이니까, 공을[F9]맞혀서 혼내 줘!<FA>",
+     "reason": "style §2: 전각 공백은 들여쓰기·정렬에만. 문장 중간 띄어쓰기는 반각 공백."
+    }
+   ],
+   "draft_ko": "나무 밑에서 짖고 있는 개가 있는데,<F8>\n못된 짓만 하는 녀석이니까, 공을[F9]맞혀서　혼내 줘!<FA>"
+  },
+  {
+   "id": 1337,
+   "src": "fdd62d140712e2091e4b121401def8fdd018fd960715002a699b9119e2fd3827232a13f95c8157fdcc0607142a4f37dffa",
+   "jp": "橋がなくて、こまってない？<F8>\n川の近くにあるハッパは、水をやると[F9]スゴク大きくなるんだ！<FA>",
+   "ko": "다리가 없어서 곤란하지 않아?<F8>\n강 근처에 있는 잎사귀는, 물을 주면[F9]엄청 커진다고!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1338,
+   "src": "52979f56e015fdda081222284b0ffd0cfd2a18fc00fd5b18fc01fc0219f8fd0f08121f0fdee1e1e1e1e1224b0f0114011400e3fa",
+   "jp": "ウィンキーに助けてもらった場所の赤色の宝箱は<F8>\n開けてみた？・・・・・もったいないなあ。<FA>",
+   "ko": "윙키가 도와준 곳의 빨간 보물상자는<F8>\n열어 봤어? ……아깝다~.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1339,
+   "src": "e6699f6ee0e7fd0d4b122adef8fd5dfde018fd9f15002a575119e2699f6ee03a0f0f082a25dff90e020e02e2fd5dfde019fe6d483afd9c050c09132dfd31fd682a0528fe69f62d4f3c4b1217e5dffa",
+   "jp": "「ハンマー」使ってる？<F8>\n土管の前にあるクイは、ハンマーでたたけるよ！[F9]そうそう、土管は[FE6D48]で動かすことが出来るから[FE69][F6]がんばってね～！<FA>",
+   "ko": "「망치」 쓰고 있어?<F8>\n토관 앞의 말뚝은 망치로 때릴 수 있어![F9]맞다, 토관은 [FE6D48]으로 움직일 수 있으니까[FE69][F6]힘내~!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "draft_ko": "「망치」 쓰고 있어?<F8>\n토관 앞의 말뚝은 망치로 때릴 수 있어![F9]맞다 맞다, 토관은 [FE6D48]으로 움직일 수 있으니까[FE69][F6]힘내~!<FA>",
+   "review": [
+    {
+     "kind": "layout",
+     "proposed": "",
+     "reason": "삽입 정렬 패딩으로 22칸 초과 → 반복어 축약"
+    }
+   ]
+  },
+  {
+   "id": 1340,
+   "src": "f8f0f0f0f0f0f0250be2557e2dfd0f010f36dffa",
+   "jp": "<F8>\n　　　　　　よし、カギが開いたぞ！<FA>",
+   "ko": "<F8>\n　　　　　　좋아, 자물쇠가 열렸다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1341,
+   "src": "fe6af50339789b577c9b5727fd0615fd072b0fe3f8092b3ae2fe6cfc93fd6f37dffa",
+   "jp": "[FE6A][F50339]ラックロックを手に入れた。<F8>\nこれで、[FE6C]個目だ！<FA>",
+   "ko": "[FE6A][F50339]럭록을 손에 넣었다.<F8>\n이걸로 [FE6C]개째다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1342,
+   "src": "f0e00918fd4856589fdfdff08771e0830029dfdfe0f8f94b12fd530112002ae3e1e1e1e13b020b2502e3fb",
+   "jp": "　ーこの先キケン！！　ダメージあり！！ー<F8>\n[F9]って書いてある。・・・・どうしよう。<FB>",
+   "ko": "　ー이 앞 위험!!　대미지 있음!!ー<F8>\n[F9]이라고 적혀 있다. ……어쩌지.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1343,
+   "src": "044bdf0e2b19fdccf45118e6fd0bfd51f45de7334c140105e3f8fd42072228030f14e3e1e1e1e1e1fd49fd2f14180546def91e00e20101372c02e3334ce2fd0b4b1222010136e3fa",
+   "jp": "おっ！それは大佐の「通行証」じゃないか。<F8>\n良くもらえたな。・・・・・本物なのかぁ？[F9]まあ、いいだろう。じゃ、通ってもいいぞ。<FA>",
+   "ko": "오! 그건 대령의 「통행증」 아니냐.<F8>\n용케 받아 냈구나. ……진짜인가?[F9]뭐, 됐다. 그럼, 지나가도 좋다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1344,
+   "src": "547b224b13e2043b2c01120101051400defb",
+   "jp": "オレもっと、おどろいていいかなあ？<FB>",
+   "ko": "나 좀 더 놀라도 될까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1345,
+   "src": "54629f8c3afdb718fd6a01fdae374b0f083be1e1e1e1e1e1e1f8011407144b104c0213e2104e4b130a1f0b0114e3fa",
+   "jp": "オテンバで口の悪い子だったけど・・・・・・・<F8>\nいなくなっちゃうと、ちょっとさみしいな。<FA>",
+   "ko": "말괄량이에 입버릇 나쁜 애였지만…………<F8>\n없어지니까, 조금 쓸쓸하네.<FA>",
+   "state": "needs_human_review",
+   "note": "화자 추정: 맥스(폴리가 깅엄국에 남은 뒤).",
+   "question": ""
+  },
+  {
+   "id": 1346,
+   "src": "8e57e28e57dff8fc1bfc1a004be2547b18fd55191d4b13011207370a01e3f9f0f0fc283a104c4f13fde915fd95291e0c0528e3fb",
+   "jp": "ブク、ブク！<F8>\n訳：あっ、オレの事はほっといてください。[F9]　　後でちゃんと池に帰りますから。<FB>",
+   "ko": "뽀글, 뽀글!<F8>\n번역: 앗, 저는 내버려 두세요.[F9]　　나중에 알아서 연못으로 돌아갈 테니까요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1347,
+   "src": "fd1d07e2e661798c79e72752601879e087e015fd260d12f8234b1225dffb",
+   "jp": "早く、「ツリバリ」をウチのリーダーに見せて<F8>\nやってよ！<FB>",
+   "ko": "빨리 「낚싯바늘」을<F8>\n우리 리더한테 보여 줘!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1348,
+   "src": "234b4129e20e0205e1e1e1fd3b4b0f13042937dff8e1e181719fe26d9f631914152226054b1214014f37dffb",
+   "jp": "やっぱり、そうか・・・思ったとおりだ！<F8>\n・・ゴメン、ホントはなにもわかってないんだ！<FB>",
+   "ko": "역시, 그랬구나…… 생각했던 대로야!<F8>\n……미안, 사실은 아무것도 모르겠어!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1349,
+   "src": "fd1d07fce41891677a18fe6d4a3ae661798c79e727fd2c4f3ae2f8fe6d02905f9f27fd4c0b121f1225e3fb",
+   "jp": "早く横のパネルの[FE6D4A]で「ツリバリ」を選んで、<F8>\n[FE6D02]ボタンを押してみてよ。<FB>",
+   "ko": "빨리 옆 패널 [FE6D4A]에서 「낚싯바늘」을 골라서,<F8>\n[FE6D02]버튼을 눌러 봐.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1350,
+   "src": "0e2b2529fd1d07e2fc0c15fc21fcd60b1295795c27fd97400235e3f8547b0f1022e2094f14569c9f932321101e4b12e2f91923011309fc0c15fd952c02e314de0e020b250235e3fb",
+   "jp": "それより早く、町に連絡してポリスを呼ぼうぜ。<F8>\nオレたちも、こんなキャンプやめちまって、[F9]はやいとこ町に帰ろう。な？そうしようぜ。<FB>",
+   "ko": "그보다 빨리, 마을에 연락해서 경찰 부르자.<F8>\n우리도 이런 캠프 그만두고,[F9]얼른 마을로 돌아가자. 응? 그러자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1351,
+   "src": "04fd9f0f10e21f14040b0f35dff80e2b151a060503e2e6fdc7e727fc304f371819e2f93b09188c55144f37dffb",
+   "jp": "お前たち、みなおしたぜ！<F8>\nそれにひきかえ、「玉」を盗んだのは、[F9]どこのバカなんだ！<FB>",
+   "ko": "너희, 다시 봤다!<F8>\n그에 비해, 「구슬」을 훔친 건[F9]대체 어떤 바보야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1352,
+   "src": "014b0f01e23b4f14fc91fcb32d3a062a180514e1e1e1def8f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f9e1e1144f12fd104b122afd0cfd9b334c140136dffb",
+   "jp": "いったい、どんな料理ができるのかな・・・？<F8>\n　　　　　　　　　　　　　　　　　　　　　　[F9]・・なんて言ってる場合じゃないぞ！<FB>",
+   "ko": "대체 무슨 요리가 만들어질까……?<F8>\n　　　　　　　　　　　　　　　　　　　　　　[F9]……같은 말 할 때가 아니야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1353,
+   "src": "557efdf419e2fc0001fd3e0a14557e1428f0fd07290e0237dffb",
+   "jp": "カギ穴は、赤い小さなカギなら　入りそうだ！<FB>",
+   "ko": "열쇠 구멍은, 빨간 작은 열쇠라면<F8>\n들어갈 것 같아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1354,
+   "src": "557efdf419e2fdb001689b9514557e1428f0fd07290e0237dffb",
+   "jp": "カギ穴は、青いノッポなカギなら　入りそうだ！<FB>",
+   "ko": "열쇠 구멍은, 파란 키다리 열쇠라면<F8>\n들어갈 것 같아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1355,
+   "src": "557efdf419e2fdaf18fdcc0614557e1428f0fd07290e0237dffb",
+   "jp": "カギ穴は、緑の大きなカギなら　入りそうだ！<FB>",
+   "ko": "열쇠 구멍은, 초록 큰 열쇠라면<F8>\n들어갈 것 같아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1356,
+   "src": "557efdf419f0fc00e2fdb0e2fdaf183b18557e3a22f8fd07290e0237dffb",
+   "jp": "カギ穴は　赤、青、緑のどのカギでも<F8>\n入りそうだ！<FB>",
+   "ko": "열쇠 구멍은 빨강, 파랑, 초록 어느 열쇠든<F8>\n들어갈 것 같아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "열쇠 구멍은 빨강, 파랑, 초록 어느 열쇠든<F8>\n들어갈 것 같아!<FB>",
+     "reason": "style §2: 문장 중간 전각 공백을 반각 공백으로."
+    }
+   ],
+   "draft_ko": "열쇠 구멍은　빨강, 파랑, 초록 어느 열쇠든<F8>\n들어갈 것 같아!<FB>"
+  },
+  {
+   "id": 1357,
+   "src": "f28b7c5be02d5f567e27fd0615fd072b0fdff94b12e2034bdededefa",
+   "jp": "[F2]ドロシーがタキギを手に入れた！[F9]って、えっ？？？<FA>",
+   "ko": "[F2]도로시가 땔감을 손에 넣었다![F9]……라니, 엥???<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1358,
+   "src": "004bdf04fd9f28dffe6d1a60e070334c1749e005dff8fd620612232d4b0fe2fd620612232d4b0f14dffa",
+   "jp": "あっ！お前ら！[FE6D1A]チームじゃねぇーか！<F8>\n生きてやがった、生きてやがったな！<FA>",
+   "ko": "앗! 너희! [FE6D1A] 팀 아니냐!<F8>\n살아 있었냐, 살아 있었구먼!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1359,
+   "src": "2507fd262a13fd473322182dd711002a1446e1e1e1fb",
+   "jp": "よく見ると同じものが３つあるなぁ・・・<FB>",
+   "ko": "잘 보니 같은 게 3개 있네……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1360,
+   "src": "f8f0f0f0f0f0f0f0f0fd0f0514011446defb",
+   "jp": "<F8>\n　　　　　　　　開かないなぁ？<FB>",
+   "ko": "<F8>\n　　　　　　　　안 열리네?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1361,
+   "src": "144f05104e4b13102d021f0f01e3f8fda818d7fd11fdbc15104c4f13074b110112e2f9fe6d4837dff0092b0b05140114e3fa",
+   "jp": "なんかちょっとちがうみたい。<F8>\n岩の３方向にちゃんとくっついて、[F9][FE6D48]だ！　これしかないな。<FA>",
+   "ko": "뭔가 좀 다른 것 같아.<F8>\n바위의 세 방향에 제대로 붙어서,[F9][FE6D48]이다! 이것밖에 없어.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1362,
+   "src": "144f05104e4b13102d021f0f01e3f8fd1615d5fd3d3ae2fd0e15d6fd3de3104c4f13f9074b11010f28fe6d4837df092b0b05140114e3fa",
+   "jp": "なんかちょっとちがうみたい。<F8>\n上に１人で、下に２人。ちゃんと[F9]くっついたら[FE6D48]だ！これしかないな。<FA>",
+   "ko": "뭔가 좀 다른 것 같아.<F8>\n위에 한 명, 아래에 두 명. 제대로[F9]붙으면 [FE6D48]이다! 이것밖에 없어.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1363,
+   "src": "60e07076e05719e2fd960715254b12d7fd3d188c789f5cf827fc9d031217dffa",
+   "jp": "チームワークは、近くによって３人のバランス<F8>\nを考えてね！<FA>",
+   "ko": "팀워크는 가까이 다가가서<F8>\n세 사람의 균형을 생각해 봐!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1364,
+   "src": "fdeb074f1428e2fe6d4a3a789b577c9b5727fd2c4f3adffb",
+   "jp": "聞くんなら、[FE6D4A]でラックロックを選んで！<FB>",
+   "ko": "물어보려면, [FE6D4A]에서 럭록을 골라!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1365,
+   "src": "fd1d07fda615223b291425dff83a22e2789b577c9b572d1d0b01181428e2fc0c183b0905f918fc0715fd074b1231284fdff0334c00e22d4f3c4b1217e5fa",
+   "jp": "早く船にもどりなよ！<F8>\nでも、ラックロックがほしいのなら、町のどこか[F9]の家に入ってごらん！　じゃあ、がんばってね～<FA>",
+   "ko": "빨리 배로 돌아가!<F8>\n그래도, 럭록이 갖고 싶으면, 마을 어딘가의[F9]집에 들어가 봐! 그럼, 힘내~<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1366,
+   "src": "629f63fd2611080fdef8140515012afdccfd3d18fd0319fdeb0113010ffd112d010125dffa",
+   "jp": "テント見つけた？<F8>\nなかにいる大人の話は聞いといた方がいいよ！<FA>",
+   "ko": "텐트 찾았어?<F8>\n안에 있는 어른 얘기는 들어 두는 게 좋아!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1367,
+   "src": "fd23fd0e183b02071127fd56201519e2fd5705d5fd3d2d56555127f8fd9c050b12e2fdff18fd09fd0a3afd562013010125e3f95b9c9b5fe018fce4155c519b602d002a0528e2fe69f61f182d0a14013a17e5fa",
+   "jp": "地下のどうくつを進むには、誰か１人がキカイを<F8>\n動かして、他の仲間で進むといいよ。[F9]シャッターの横にスイッチがあるから、[FE69][F6]みのがさないでね～<FA>",
+   "ko": "지하 동굴을 지나가려면, 누군가 한 명이<F8>\n기계를 움직이고, 나머지가 나아가면 돼.[F9]셔터 옆에 스위치가 있으니까,[FE69][F6]놓치지 마~<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1368,
+   "src": "5183767a145a7a18905c19817978144f3725e3f80e020e02e20e1881797815715c81797818fd5c27fd52fdeaf90b12fdeb050d0f28e2064b13252c093e25dffa",
+   "jp": "イジワルなサルのボスはゴリラなんだよ。<F8>\nそうそう、そのゴリラにメスゴリラの声を録音[F9]して聞かせたら、きっとよろこぶよ！<FA>",
+   "ko": "심술궂은 원숭이 두목은 고릴라야.<F8>\n맞다 맞다, 그 고릴라한테 암컷 고릴라<F8>\n목소리를 녹음해서 들려주면[F9]분명 좋아할 거야!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1369,
+   "src": "1e013b0029e54be3f8789b577c9b57fe6bfc93010f370725dffa",
+   "jp": "まいどあり～っ。<F8>\nラックロック[FE6B]個いただくよ！<FA>",
+   "ko": "고맙습니다~.<F8>\n럭록 [FE6B]개 받아 갈게!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1370,
+   "src": "f8014b0f01e2fd57144f37dffb",
+   "jp": "<F8>\nいったい、誰なんだ！<FB>",
+   "ko": "<F8>\n대체, 누구야!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1371,
+   "src": "56589f370528234b4129e2fd510514011d022d010137dffb",
+   "jp": "キケンだからやっぱり、行かないほうがいいだ！<FB>",
+   "ko": "위험하니까 역시, 안 가는 게 좋겠구먼!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1372,
+   "src": "0918fd11fdbc159057282d010f569c9f93fd742df8002a193437dff9e1e1e1e1e183e064fd48fd62dfdffb",
+   "jp": "この方向にボクらがいたキャンプ島が<F8>\nあるはずだ！[F9]・・・・・ジーナ先生！！<FB>",
+   "ko": "이 방향에 우리가 있던 캠프섬이<F8>\n있을 거야![F9]……지나 선생님!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1373,
+   "src": "e1e1e113092c3ae262e0937b59e087e019f8fd572dfd2e4b12012a18def9fd6a014f37083be2fd7b0b12072b1401defb",
+   "jp": "・・・ところで、テープレコーダーは<F8>\n誰が持っているの？[F9]悪いんだけど、返してくれない？<FB>",
+   "ko": "……그런데, 테이프 레코더는<F8>\n누가 가지고 있어?[F9]미안하지만, 돌려주지 않을래?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1374,
+   "src": "fc0c18fd5519fc2cfd40fc2d15fdeb01121f0f28defa",
+   "jp": "町の事は保安官に聞いてみたら？<FA>",
+   "ko": "마을 일은 보안관에게 물어보면 어때?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1375,
+   "src": "e6fd3018fde9e715012a04fd0208fcd019e2fd9c0112012afdde4b09f827569b570b12e2fcd02dfd0f010f13061590e07a27f93e11082a130f040d2a25e5dffa",
+   "jp": "「死の池」にいるお化け花は、動いている根っこ<F8>\nをキックして、花が開いたときにボールを[F9]ぶつけるとたおせるよ～！<FA>",
+   "ko": "「죽음의 연못」에 있는 괴물 꽃은,<F8>\n움직이는 뿌리를 차고, 꽃이 피었을 때[F9]공을 맞히면 쓰러뜨릴 수 있어~!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1376,
+   "src": "fce915012a519f8a975418fdf6180f181f27fdeb0112f800300fdef0fdcd4b12012afd3d2d010f28fdda0812003012f9174b12e2fc670f1018fd48fd622d014b120f181564e5dffa",
+   "jp": "東にいるインディオの娘のたのみを聞いて<F8>\nあげた？　困っている人がいたら助けてあげて[F9]ねって、君たちの先生がいってたのにナ～！<FA>",
+   "ko": "동쪽에 사는 인디오 딸의 부탁은<F8>\n들어줬어? 곤란한 사람이 있으면 도와주라고[F9]너희 선생님이 그랬잖아~!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1377,
+   "src": "fc0c15fd38fd80fda40a4f2d012a193437dff80e18fd3d15e2fc75fc6c27fd260d1231284fe3f9064b13e2043b2c0713fd3b0225e5dffa",
+   "jp": "町に水道屋さんがいるはずだ！<F8>\nその人に、写真を見せてごらん。[F9]きっと、おどろくと思うよ～！<FA>",
+   "ko": "마을에 수도 아저씨가 있을 거야!<F8>\n그 사람한테, 사진을 보여 줘 봐.[F9]분명, 깜짝 놀랄 거야~!<FA>",
+   "state": "needs_human_review",
+   "note": "「水道屋」(0981–0987의 연못 남자, 발명가)를 「수도 아저씨」로 옮김. 1382와 통일.",
+   "question": ""
+  },
+  {
+   "id": 1378,
+   "src": "fdcc0614230b061813142915fc114f3a012a043c000a4ff82dfdcd4b120f25e3f9fdda081200301425dffa",
+   "jp": "大きなやしきのとなりに住んでいるおばあさん<F8>\nが困ってたよ。[F9]助けてあげなよ！<FA>",
+   "ko": "큰 저택 옆에 사는 할머니가<F8>\n곤란해하던데.[F9]도와드려!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1379,
+   "src": "fcff1e4b0f519f8a97542dfd0505fd10010f0e02374b0f25dff8e1e1e1fdeb0112003012dffa",
+   "jp": "捕まったインディオが何か言いたそうだったよ！<F8>\n・・・聞いてあげて！<FA>",
+   "ko": "붙잡힌 인디오가 뭔가 말하고 싶어 하던데!<F8>\n……들어 줘!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1380,
+   "src": "519f8a975418fd104b12010ffde519e2f8fce918fde93afd2605080f25e3fa",
+   "jp": "インディオの言っていた男は、<F8>\n東の池で見かけたよ。<FA>",
+   "ko": "인디오가 말한 남자는,<F8>\n동쪽 연못에서 봤어.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1381,
+   "src": "949f7e9f3a22fd3dfd0a3a22e2fcfc0f22183b020b4b12f8084b0902fd502d00024f372517e3f9fd4733fd9c0618949f7e9f27fd9e0b121f12e2fe69f6064b13e2fcfcfd9b0118559b937a15142a13fd3b0225e3fa",
+   "jp": "ペンギンでも人間でも、似たものどうしって<F8>\nけっこう気があうんだよね。[F9]同じ動きのペンギンを探してみて、[FE69][F6]きっと、似合いのカップルになると思うよ。<FA>",
+   "ko": "펭귄이든 인간이든, 닮은 사람끼리<F8>\n의외로 잘 맞는단 말이야.[F9]똑같이 움직이는 펭귄을 찾아봐,[FE69][F6]분명, 잘 어울리는 커플이 될 거야.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1382,
+   "src": "e6fdf4fcdd296e5be09fe718ebfdfa4b12e2014b0f4b12f81d4f13197d78575f3afd31fd682a4f37083b17dff9fd38fd80fda418fc073afd26050814054b0f4b08defa",
+   "jp": "「穴掘りマシーン」の部品って、いったって<F8>\nほんとはガラクタで出来るんだけどね！[F9]水道屋の家で見かけなかったっけ？<FA>",
+   "ko": "「구멍파기 머신」의 부품이라고 해도<F8>\n사실은 잡동사니로 만들 수 있지만![F9]수도 아저씨 집에서 못 봤어?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1383,
+   "src": "d705fd2afdf427fd9d4b121f0fdef8d505fd2a19e2f45f2d839c6e0b12012a083be2696427f9070c2f4b0f283b0112072b2a25e3fa",
+   "jp": "３か所穴を掘ってみた？<F8>\n１か所は、牛がジャマしているけど、ハナを[F9]くすぐったらどいてくれるよ。<FA>",
+   "ko": "세 군데 구멍을 파 봤어?<F8>\n한 군데는 소가 방해하고 있지만, 코를[F9]간질이면 비켜 줄 거야.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1384,
+   "src": "fc2cfd40fc2d27f40701fd310c151955537a2dfcacfcad144f37dff855537a19617982543afcff1e030f2801014f37083bf90f37e2fd8f302a3708334c37213725dffe69f6699b9118fd161561798c7927180d12e2104e4b13f6fdfc4b12e255537a18f408f409271f2a4f37e3f6fd3c4b120f28e231214f17e5dffa",
+   "jp": "保安官を追い出すにはカエルが必要なんだ！<F8>\nカエルはツリザオで捕まえたらいいんだけど[F9]ただ、投げるだけじゃだめだよ！[FE69][F6]ハッパの上にツリバリをのせて、ちょっと[F6]待って、カエルの反応をみるんだ。[F6]知ってたら、ごめんね～！<FA>",
+   "ko": "보안관을 쫓아내려면 개구리가 필요해!<F8>\n개구리는 낚싯대로 잡으면 되는데[F9]그냥 던지기만 해서는 안 돼![FE69][F6]잎사귀 위에 낚싯바늘을 올려놓고, 잠깐[F6]기다려서, 개구리의 반응을 보는 거야.[F6]알고 있었다면, 미안해~!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1385,
+   "src": "8f9f5e9f19e2fd5722011401fc071505072b12012a25e3f837083b0e18fc0719e20f122afd9f158b5027fdba28140113f9fd0415fd072b14014f37e3fa",
+   "jp": "ベンソンは、誰もいない家にかくれているよ。<F8>\nだけどその家は、たてる前にドアを作らないと[F9]中に入れないんだ。<FA>",
+   "ko": "벤슨은 아무도 없는 집에 숨어 있어.<F8>\n그런데 그 집은 짓기 전에 문을 안 만들면[F9]안에 못 들어가.<FA>",
+   "state": "needs_human_review",
+   "note": "1008–1014 집 설계 선택(문 있는 집)과 연결.",
+   "question": ""
+  },
+  {
+   "id": 1386,
+   "src": "f8f0f0f0f0f0f0f00e2b0b05140114dffb",
+   "jp": "<F8>\n　　　　　　　それしかないな！<FB>",
+   "ko": "<F8>\n　　　　　　　그것밖에 없어!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1387,
+   "src": "104c4f13fe6d02905f9f3a012c012c14fd2f2760999b57f80b122adefa",
+   "jp": "ちゃんと[FE6D02]ボタンでいろいろな物をチェック<F8>\nしてる？<FA>",
+   "ko": "[FE6D02]버튼으로 여러 물건을 제대로<F8>\n체크하고 있어?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1388,
+   "src": "1329000334e25f517076e0930c2afd553717dffa",
+   "jp": "とりあえず、タイムワープする事だね！<FA>",
+   "ko": "일단, 타임워프하는 거지!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1389,
+   "src": "0a012601e2fdb119fd1618fd1137081b0a013a004b12e2f8fd0e18fd1119000112012a1400e1e1e1fb",
+   "jp": "さいわい、板は上の方だけふさいであって、<F8>\n下の方はあいているなあ・・・<FB>",
+   "ko": "다행히, 판자는 위쪽만 막혀 있고,<F8>\n아래쪽은 뚫려 있네……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1390,
+   "src": "e1e1e1234b121f2adefb",
+   "jp": "・・・やってみる？<FB>",
+   "ko": "……해 볼까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1391,
+   "src": "fd960715014b12fd26121f250205e3fb",
+   "jp": "近くにいって見てみようか。<FB>",
+   "ko": "가까이 가서 볼까.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1392,
+   "src": "37083be2fda319937be0fd04370528092bfd7dfd16f8789b577c9b5719fd072814012517e3fb",
+   "jp": "だけど、今はプレー中だからこれ以上<F8>\nラックロックは入らないよね。<FB>",
+   "ko": "그런데, 지금은 플레이 중이니까 더 이상<F8>\n럭록은 안 들어오겠지.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1393,
+   "src": "fd3e0a0712fc972114011400e2224b13fd963901121f2a05e3fb",
+   "jp": "小さくて読めないなあ、もっと近づいてみるか。<FB>",
+   "ko": "작아서 못 읽겠어, 좀 더 가까이 가 볼까.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  }
+ ]
+}

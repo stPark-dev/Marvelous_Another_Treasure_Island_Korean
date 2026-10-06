@@ -1,0 +1,3591 @@
+[
+ {
+  "id": "T001",
+  "jp": "インディオ",
+  "kind": "character",
+  "ko": "인디오",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장. 시간을 다루는 술법의 일족. 도둑 누명(0858). 시스코의 아버지. 고유명이 아니라 호칭이지만 고유명처럼 쓰임.",
+  "example_ids": [
+   825,
+   844,
+   854,
+   857,
+   858,
+   859
+  ]
+ },
+ {
+  "id": "T002",
+  "jp": "ポリー",
+  "kind": "character",
+  "ko": "폴리",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "소인 공주(0075). ギンガム국 왕녀. 私, 제멋대로 여성어, 맥스를 「ダーリン」(0340). 「ポリー様」「姫」.",
+  "example_ids": [
+   75,
+   83,
+   340,
+   374,
+   375,
+   380
+  ]
+ },
+ {
+  "id": "T003",
+  "jp": "クリストファー・ベンソン",
+  "kind": "character",
+  "ko": "크리스토퍼 벤슨",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장. 대해적, 킹 불의 아버지. 과거에선 젊은 オレ(0966), 「ベンソン様」로 불림.",
+  "example_ids": [
+   498,
+   841,
+   853,
+   855,
+   857,
+   858
+  ]
+ },
+ {
+  "id": "T004",
+  "jp": "ジム",
+  "kind": "character",
+  "ko": "짐",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "골키퍼 불량 학생. オレ/ジム様, ～ぜ/～ねぇ. PK전·럭록 도박(2332). 다른 세계에 닮은꼴(ジャム, 거미) 존재.",
+  "example_ids": [
+   29,
+   76,
+   183,
+   188,
+   666,
+   668
+  ]
+ },
+ {
+  "id": "T005",
+  "jp": "ハザン",
+  "kind": "character",
+  "ko": "하잔",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 깅엄국 현자. ワシ, ～じゃ/お主. 앤트버스터·버스터포 발명.",
+  "example_ids": [
+   134,
+   374,
+   375,
+   378,
+   456,
+   528
+  ]
+ },
+ {
+  "id": "T006",
+  "jp": "シスコ",
+  "kind": "character",
+  "ko": "시스코",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장. 인디오의 딸, 훗날 「シスコ先生」(1103). 1인칭 私, 차분한 여성어.",
+  "example_ids": [
+   794,
+   833,
+   838,
+   844,
+   878,
+   1103
+  ]
+ },
+ {
+  "id": "T007",
+  "jp": "ジーナ先生",
+  "kind": "character",
+  "ko": "지나 선생님",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "담임. 해적에게 납치됨(2240). 1인칭 私/先生. 쥐를 싫어함(2503). 빨간 스카프가 트레이드마크(1241).",
+  "example_ids": [
+   29,
+   751,
+   752,
+   754,
+   761,
+   1109
+  ]
+ },
+ {
+  "id": "T008",
+  "jp": "マックス",
+  "kind": "character",
+  "ko": "맥스",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "주인공 3인조. 덩치(ふとっちょ/大きな)·힘센 역, 초록 옷(0416). 엑스레이에 거의 위(0329). 폴리가 좋아함.",
+  "example_ids": [
+   329,
+   430,
+   622,
+   624,
+   625,
+   660
+  ]
+ },
+ {
+  "id": "T009",
+  "jp": "ジャック",
+  "kind": "character",
+  "ko": "잭",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "주인공 3인조. 키다리(ノッポ)·안경, 머리 좋은 역(1455). 파란색 담당.",
+  "example_ids": [
+   328,
+   622,
+   623,
+   625,
+   912,
+   992
+  ]
+ },
+ {
+  "id": "T010",
+  "jp": "マンマート３兄弟",
+  "kind": "character",
+  "ko": "만마트 3형제",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "제2장 산적. 가면(1026). 「まんまと」와 말장난(2409, 2900).",
+  "example_ids": [
+   948,
+   1026,
+   1037,
+   1038,
+   1043,
+   1851
+  ]
+ },
+ {
+  "id": "T011",
+  "jp": "スミス",
+  "kind": "character",
+  "ko": "스미스",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 마을 책임자(0411). 식물에게 모습을 빼앗김. 애견 ソックス.",
+  "example_ids": [
+   99,
+   335,
+   337,
+   396,
+   411,
+   427
+  ]
+ },
+ {
+  "id": "T012",
+  "jp": "ウィンキー",
+  "kind": "character",
+  "ko": "윙키",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "섬의 원숭이. 16세 생일에 장로에게 「３つのカギ」를 받음(1248, 1572). 번역 대사는 단어 나열식 전보체(0044, 1666).",
+  "example_ids": [
+   9,
+   1248,
+   1249,
+   1338,
+   1512,
+   1572
+  ]
+ },
+ {
+  "id": "T013",
+  "jp": "サルモ",
+  "kind": "character",
+  "ko": "살모",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장. 남자인데 여성어(퀴즈 0532의 정답, 0444). 옛 국가 최고의 전사.",
+  "example_ids": [
+   373,
+   375,
+   443,
+   444,
+   460,
+   461
+  ]
+ },
+ {
+  "id": "T014",
+  "jp": "ディオン",
+  "kind": "character",
+  "ko": "디온",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "주인공 3인조. 처음 리더(2203). 빨간색 담당(0622). 엑스레이에 심장이 두근두근(0327, 겁쟁이). 선택지 이름으로도 나옴.",
+  "example_ids": [
+   327,
+   622,
+   623,
+   624,
+   910,
+   911
+  ]
+ },
+ {
+  "id": "T015",
+  "jp": "ブル",
+  "kind": "character",
+  "ko": "불",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "킹 불의 본명. 벤슨 부인의 외아들(0831). 「息子ブルとブルの母」(1321).",
+  "example_ids": [
+   92,
+   250,
+   755,
+   831,
+   957,
+   1203
+  ]
+ },
+ {
+  "id": "T016",
+  "jp": "ジャン",
+  "kind": "character",
+  "ko": "가위",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D10",
+  "note": "제3장 쌍둥이 형. ジャン+ケン=ジャンケン 말장난(0231). オイラ. 울타리 열쇠를 가짐.",
+  "example_ids": [
+   231,
+   321,
+   338,
+   341,
+   343,
+   344
+  ]
+ },
+ {
+  "id": "T017",
+  "jp": "ザーマス婦人",
+  "kind": "character",
+  "ko": "~하와요/~사와요 (사모님 말투) — D7",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D7",
+  "note": "제2장. 아이를 잃은 부인. 말끝 ～ザーマス(0825, 2288). 상류 부인 말투 과장.",
+  "example_ids": [
+   825,
+   837,
+   872,
+   873,
+   874,
+   875
+  ]
+ },
+ {
+  "id": "T018",
+  "jp": "セザール・オ・エナイ",
+  "kind": "character",
+  "ko": "세자르 오에나이",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "제4장 궁정 화가. 말끝 ～ザンス, 「チミ」. 세잔+「描けない(못 그린다)」 말장난(0461, 2174).",
+  "example_ids": [
+   461,
+   618,
+   653,
+   1623,
+   1639,
+   1644
+  ]
+ },
+ {
+  "id": "T019",
+  "jp": "ピラック",
+  "kind": "character",
+  "ko": "피락",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "「トラブルシューター、ピラック鳥」(2322). 새. ピロロ 대사, 訳： 붙음. ボク, 럭록을 받고 힌트 판매(2592). 1335–1388, 1765–1860 힌트 메시지 화자(추정).",
+  "example_ids": [
+   30,
+   1223,
+   1575,
+   1576,
+   1579,
+   1664
+  ]
+ },
+ {
+  "id": "T020",
+  "jp": "パッチーズ",
+  "kind": "character",
+  "ko": "패치즈",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "킹 불의 부하 3형제(세쌍둥이, 1080). 오레타치, 끊어 말하기(「お前けっこうマヌケ」2316). 형제 순서 퀴즈(0899).",
+  "example_ids": [
+   906,
+   1080,
+   1200,
+   1201,
+   2256,
+   2316
+  ]
+ },
+ {
+  "id": "T021",
+  "jp": "大佐",
+  "kind": "character",
+  "ko": "대령",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제5장 캠프섬에 온 해군 대령. 「大佐の通行証」(1757).",
+  "example_ids": [
+   1343,
+   1739,
+   1753,
+   1755,
+   1757,
+   2567
+  ]
+ },
+ {
+  "id": "T022",
+  "jp": "ドロシー",
+  "kind": "character",
+  "ko": "도로시",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "「ワガママＧＡＬチーム」(2474). 3호 텐트 요리 담당. 1인칭 私, 고압적 여성어.",
+  "example_ids": [
+   32,
+   131,
+   685,
+   903,
+   1357,
+   1899
+  ]
+ },
+ {
+  "id": "T023",
+  "jp": "フィリップ・マーロー",
+  "kind": "character",
+  "ko": "필립 말로",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 생물학자 「マーロー博士」(2001). ワシ, ～じゃ. 말버릇 「ワシ・・・いい男じゃろ！」. 탐정 필립 말로 패러디.",
+  "example_ids": [
+   243,
+   285,
+   1454,
+   1772,
+   2000,
+   2001
+  ]
+ },
+ {
+  "id": "T024",
+  "jp": "キャプテン・マーヴェリック",
+  "kind": "character",
+  "ko": "캡틴 매버릭",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "전설의 해적·발명가. 배·던전·기구의 주인(1149, 1762). 「マーヴェリックの財宝」.",
+  "example_ids": [
+   777,
+   855,
+   1053,
+   1149,
+   1669,
+   1762
+  ]
+ },
+ {
+  "id": "T025",
+  "jp": "保安官",
+  "kind": "character",
+  "ko": "보안관",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 마을 보안관. 개구리를 무서워함(0997). 「タイホする！」(0972).",
+  "example_ids": [
+   59,
+   819,
+   997,
+   1374,
+   1384,
+   2285
+  ]
+ },
+ {
+  "id": "T026",
+  "jp": "アーノルド先生",
+  "kind": "character",
+  "ko": "아널드 선생님",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "체육 교사(1418). 지나 선생님을 좋아함(1806). 표기법상 아널드, 관용 아놀드.",
+  "example_ids": [
+   906,
+   1418,
+   1755,
+   1806,
+   2813,
+   2859
+  ]
+ },
+ {
+  "id": "T027",
+  "jp": "長老",
+  "kind": "character",
+  "ko": "장로",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "원숭이 장로. ワシ, ～じゃ. 3개의 열쇠·섬의 비밀(1571–1579, 1798–1808, 2533).",
+  "example_ids": [
+   121,
+   1572,
+   1577,
+   1578,
+   1800,
+   1802
+  ]
+ },
+ {
+  "id": "T028",
+  "jp": "マイク",
+  "kind": "character",
+  "ko": "마이크",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 마을 사람 수를 아는 남자. 쥐를 무서워함(0414). 「マイク様」로 허세(2074).",
+  "example_ids": [
+   414,
+   415,
+   1775,
+   2074,
+   2075,
+   2159
+  ]
+ },
+ {
+  "id": "T029",
+  "jp": "ギンガム３世",
+  "kind": "character",
+  "ko": "깅엄 3세",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 국왕. 가운 아래 줄무늬 팬티(0529, 0580). わし/私, ～じゃ.",
+  "example_ids": [
+   526,
+   1825,
+   2174,
+   2619,
+   2854
+  ]
+ },
+ {
+  "id": "T030",
+  "jp": "クモ４きょうだい（バン・ブン・ベン・ボン）",
+  "kind": "character",
+  "ko": "반·분·벤·본",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 숲의 거미 형제. バン=첫째(2145), ブン=둘째(1952), ベン=셋째(1965), ボン=막내(1969). 말 フゴ, 訳： 붙음. オレ様/ボク様.",
+  "example_ids": [
+   200,
+   1952,
+   1965,
+   1969,
+   2145
+  ]
+ },
+ {
+  "id": "T031",
+  "jp": "ヤンス鳥（ワタリ鳥）",
+  "kind": "character",
+  "ko": "철새",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "배 항해 중 만나는 철새. 말끝 ～でやんす/～やす, アッシ(1713, 2773, 2804). 이름 없음.",
+  "example_ids": [
+   1145,
+   1713,
+   1716,
+   2773,
+   2804
+  ]
+ },
+ {
+  "id": "T032",
+  "jp": "キングブル",
+  "kind": "character",
+  "ko": "킹 불",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "「天下の大海賊　キングブル」(0250). オレ様, 막말 ～でい/～やがれ. 본명 ブル, 벤슨의 아들(0831). キ～ング・ブル로 늘여 말하기도(1809, 2249).",
+  "example_ids": [
+   250,
+   755,
+   1809,
+   2249
+  ]
+ },
+ {
+  "id": "T033",
+  "jp": "クラッシャー・ボブ",
+  "kind": "character",
+  "ko": "크래셔 밥",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 권투 선수. オレ様(1908). 은퇴 후 아이돌 지망(0562).",
+  "example_ids": [
+   235,
+   1908,
+   2056,
+   2084
+  ]
+ },
+ {
+  "id": "T034",
+  "jp": "ガリベン君",
+  "kind": "character",
+  "ko": "공부벌레",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "본명 없이 별명(ガリ勉=공부벌레)으로만 등장. 임시 리더(0752). ボク, ～です/～たまえ, 「もっと勉強してね」(0076). 아이템 상자 발명(2511), 트랜시버 줌(1507).",
+  "example_ids": [
+   751,
+   752,
+   1505
+  ]
+ },
+ {
+  "id": "T035",
+  "jp": "ケン",
+  "kind": "character",
+  "ko": "바위",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D10",
+  "note": "제3장 쌍둥이 동생. ジャンケン 말장난(0231, 0386, 2059).",
+  "example_ids": [
+   231,
+   386,
+   2059
+  ]
+ },
+ {
+  "id": "T036",
+  "jp": "ジャム",
+  "kind": "character",
+  "ko": "잼",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "깅엄국의 짐 닮은꼴. 킥 게임 운영(2683). ジム/ジャム 말장난(1652).",
+  "example_ids": [
+   1652,
+   2683
+  ]
+ },
+ {
+  "id": "T037",
+  "jp": "ジャッキー",
+  "kind": "character",
+  "ko": "재키",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 권투 심판, 여성(2056). 동전을 좋아함(0418).",
+  "example_ids": [
+   418,
+   2056
+  ]
+ },
+ {
+  "id": "T038",
+  "jp": "ツリ当番のリーダー",
+  "kind": "character",
+  "ko": "낚시 당번 리더",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "캠프의 다른 팀 리더, 「ツリマニア」(0013). 낚시를 해 본 적 없음(0687).",
+  "example_ids": [
+   13,
+   15
+  ]
+ },
+ {
+  "id": "T039",
+  "jp": "ジェニファー",
+  "kind": "character",
+  "ko": "제니퍼",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 사진가(0247). 私, 「ボ・ウ・ヤ」(0244).",
+  "example_ids": [
+   247
+  ]
+ },
+ {
+  "id": "T040",
+  "jp": "アレン",
+  "kind": "character",
+  "ko": "앨런",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 동물 소리 녹음 담당(0247, 1996). 테이프 레코더 주인.",
+  "example_ids": [
+   247
+  ]
+ },
+ {
+  "id": "T041",
+  "jp": "どうくつ",
+  "kind": "place",
+  "ko": "동굴",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "각 장. 히라가나 표기.",
+  "example_ids": [
+   94,
+   297,
+   396,
+   409,
+   479,
+   916
+  ]
+ },
+ {
+  "id": "T042",
+  "jp": "やしき",
+  "kind": "place",
+  "ko": "저택",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 벤슨의 저택(「時計のある家」). 「やしき」のカギ.",
+  "example_ids": [
+   845,
+   869,
+   888,
+   889,
+   893,
+   894
+  ]
+ },
+ {
+  "id": "T043",
+  "jp": "ギンガム国",
+  "kind": "place",
+  "ko": "깅엄국",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 폴리의 나라. 장 제목은 「リリパット王国」.",
+  "example_ids": [
+   525,
+   526,
+   527,
+   528,
+   529,
+   530
+  ]
+ },
+ {
+  "id": "T044",
+  "jp": "死の池",
+  "kind": "place",
+  "ko": "죽음의 연못",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장. 괴물 꽃이 있는 곳(0849).",
+  "example_ids": [
+   822,
+   824,
+   825,
+   849,
+   870,
+   1375
+  ]
+ },
+ {
+  "id": "T045",
+  "jp": "バオバブの木",
+  "kind": "place",
+  "ko": "바오바브나무",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 제목. 오일을 얻는 거목(0335).",
+  "example_ids": [
+   335,
+   411,
+   590,
+   1451,
+   1452,
+   1900
+  ]
+ },
+ {
+  "id": "T046",
+  "jp": "地下ロウ",
+  "kind": "place",
+  "ko": "지하 감옥",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장. 「ロウヤ」=감옥.",
+  "example_ids": [
+   115,
+   452,
+   453,
+   800,
+   1984,
+   2094
+  ]
+ },
+ {
+  "id": "T047",
+  "jp": "マーヴェリックの船",
+  "kind": "place",
+  "ko": "매버릭의 배",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "섬에 있는 옛 배. 럭록을 연료로 움직임(1672, 2753).",
+  "example_ids": [
+   438,
+   1204,
+   1661,
+   1676,
+   1803,
+   2753
+  ]
+ },
+ {
+  "id": "T048",
+  "jp": "キャンプ島",
+  "kind": "place",
+  "ko": "캠프섬",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제1·5장 무대. 「キャンプ島の夏」=제1장 제목.",
+  "example_ids": [
+   7,
+   1372,
+   1728,
+   2972,
+   2976,
+   2977
+  ]
+ },
+ {
+  "id": "T049",
+  "jp": "管理事ム所",
+  "kind": "place",
+  "ko": "관리사무소",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 마을 관리사무소(0289). 「事ム」 가타카나 표기 주의.",
+  "example_ids": [
+   289,
+   323,
+   353,
+   1768,
+   2032,
+   2070
+  ]
+ },
+ {
+  "id": "T050",
+  "jp": "資料室",
+  "kind": "place",
+  "ko": "자료실",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 성 자료실(병사 번호 퀴즈와 연결).",
+  "example_ids": [
+   265,
+   266,
+   546,
+   1644,
+   2118,
+   2475
+  ]
+ },
+ {
+  "id": "T051",
+  "jp": "タイム部屋",
+  "kind": "place",
+  "ko": "타임 룸",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 저택 안 시간 이동 방(0888).",
+  "example_ids": [
+   888,
+   894,
+   930,
+   1847,
+   2312
+  ]
+ },
+ {
+  "id": "T052",
+  "jp": "城下町",
+  "kind": "place",
+  "ko": "성 아랫마을",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장.",
+  "example_ids": [
+   461,
+   464,
+   2107,
+   2980,
+   2986
+  ]
+ },
+ {
+  "id": "T053",
+  "jp": "リリパット王国",
+  "kind": "place",
+  "ko": "릴리퍼트 왕국",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 제목(2976–2987, 2972). 걸리버 여행기의 소인국.",
+  "example_ids": [
+   2972,
+   2976,
+   2980,
+   2986
+  ]
+ },
+ {
+  "id": "T054",
+  "jp": "青き者の巣",
+  "kind": "place",
+  "ko": "푸른 자의 둥지",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 거대 개미 소굴.",
+  "example_ids": [
+   612,
+   1789,
+   1864,
+   2171
+  ]
+ },
+ {
+  "id": "T055",
+  "jp": "城の裏庭",
+  "kind": "place",
+  "ko": "성 뒤뜰",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장. 동양식 석정(1621).",
+  "example_ids": [
+   1620,
+   1794,
+   2476,
+   2728
+  ]
+ },
+ {
+  "id": "T056",
+  "jp": "ペンギン池",
+  "kind": "place",
+  "ko": "펭귄 연못",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장.",
+  "example_ids": [
+   1060,
+   2366
+  ]
+ },
+ {
+  "id": "T057",
+  "jp": "山賊のトリデ",
+  "kind": "place",
+  "ko": "산적의 요새",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장.",
+  "example_ids": [
+   1852,
+   1853
+  ]
+ },
+ {
+  "id": "T058",
+  "jp": "ダンジョン",
+  "kind": "place",
+  "ko": "던전",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제5장 매버릭의 던전(1149, 2840).",
+  "example_ids": [
+   1149,
+   2840
+  ]
+ },
+ {
+  "id": "T059",
+  "jp": "２号テント / ３号テント",
+  "kind": "place",
+  "ko": "2호 텐트",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "캠프. 지나 선생님 2호(2578), 도로시 3호(0032).",
+  "example_ids": [
+   32
+  ]
+ },
+ {
+  "id": "T060",
+  "jp": "海賊船ライサンダー号",
+  "kind": "place",
+  "ko": "해적선 라이샌더호",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "킹 불의 배(1320).",
+  "example_ids": [
+   1320
+  ]
+ },
+ {
+  "id": "T061",
+  "jp": "ヤパン",
+  "kind": "place",
+  "ko": "야판",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "가짜 골동품 설명의 「일본」 비틀기(0497).",
+  "example_ids": [
+   497
+  ]
+ },
+ {
+  "id": "T062",
+  "jp": "ネズミ",
+  "kind": "creature",
+  "ko": "쥐",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "캠프·제3장. チュウ, ～っちゅ/～でちゅ(1178, 1307).",
+  "example_ids": [
+   414,
+   415,
+   417,
+   422,
+   424,
+   430
+  ]
+ },
+ {
+  "id": "T063",
+  "jp": "青き者",
+  "kind": "creature",
+  "ko": "푸른 자",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 거대 개미 집단의 호칭(2097).",
+  "example_ids": [
+   379,
+   448,
+   458,
+   459,
+   612,
+   655
+  ]
+ },
+ {
+  "id": "T064",
+  "jp": "アリ",
+  "kind": "creature",
+  "ko": "개미",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장. 「青き者」=거대 개미. シャカ.",
+  "example_ids": [
+   102,
+   103,
+   108,
+   118,
+   119,
+   449
+  ]
+ },
+ {
+  "id": "T065",
+  "jp": "ペンギン",
+  "kind": "creature",
+  "ko": "펭귄",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장. ペギ. 짝짓기 「オセワ」(0160).",
+  "example_ids": [
+   159,
+   256,
+   981,
+   982,
+   997,
+   999
+  ]
+ },
+ {
+  "id": "T066",
+  "jp": "クモ",
+  "kind": "creature",
+  "ko": "거미",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 숲. フゴ.",
+  "example_ids": [
+   153,
+   170,
+   187,
+   191,
+   294,
+   615
+  ]
+ },
+ {
+  "id": "T067",
+  "jp": "カエル",
+  "kind": "creature",
+  "ko": "개구리",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 ゲコー(1000), 제4장 ゲロ/ケロ(0466).",
+  "example_ids": [
+   108,
+   469,
+   515,
+   941,
+   997,
+   1001
+  ]
+ },
+ {
+  "id": "T068",
+  "jp": "ワシ（鳥）",
+  "kind": "creature",
+  "ko": "독수리",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장. 공주를 공격한 큰 새(2053). 1인칭 ワシ(儂)와 동형이의어 주의. 鳴き声 クエー.",
+  "example_ids": [
+   1594,
+   1596,
+   1601,
+   1630,
+   1633,
+   1634
+  ]
+ },
+ {
+  "id": "T069",
+  "jp": "女王",
+  "kind": "creature",
+  "ko": "여왕",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 보스(1535).",
+  "example_ids": [
+   586,
+   1535,
+   1543,
+   1557,
+   1558,
+   1570
+  ]
+ },
+ {
+  "id": "T070",
+  "jp": "サル",
+  "kind": "creature",
+  "ko": "원숭이",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "섬의 원숭이족. ウキキ, 訳： 전보체.",
+  "example_ids": [
+   42,
+   45,
+   1368,
+   1571,
+   1769,
+   1874
+  ]
+ },
+ {
+  "id": "T071",
+  "jp": "カラス",
+  "kind": "creature",
+  "ko": "까마귀",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 묘지 지킴이. カアー.",
+  "example_ids": [
+   834,
+   840,
+   923,
+   961,
+   2294,
+   2296
+  ]
+ },
+ {
+  "id": "T072",
+  "jp": "サボテン",
+  "kind": "creature",
+  "ko": "선인장",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 하이쿠 읊는 선인장. 「ｂｙサボテン」.",
+  "example_ids": [
+   473,
+   476,
+   479,
+   539,
+   598,
+   1778
+  ]
+ },
+ {
+  "id": "T073",
+  "jp": "うんちくマル虫",
+  "kind": "creature",
+  "ko": "박식한 공벌레",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 퀴즈 내는 벌레(2117). 축구공 대신 차임(0184).",
+  "example_ids": [
+   184,
+   513,
+   537,
+   1784,
+   1968,
+   2117
+  ]
+ },
+ {
+  "id": "T074",
+  "jp": "寄生植物",
+  "kind": "creature",
+  "ko": "기생식물",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장. 사람으로 변신하는 식물.",
+  "example_ids": [
+   411,
+   1453,
+   1779,
+   1900,
+   2627,
+   2630
+  ]
+ },
+ {
+  "id": "T075",
+  "jp": "ハチ",
+  "kind": "creature",
+  "ko": "벌",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장. ビー/ブー. 겁쟁이 벌(0634).",
+  "example_ids": [
+   280,
+   634,
+   1785,
+   2021,
+   2875
+  ]
+ },
+ {
+  "id": "T076",
+  "jp": "ゴリラ",
+  "kind": "creature",
+  "ko": "고릴라",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 원숭이 두목. ウホ. 암컷 マリー(0366).",
+  "example_ids": [
+   230,
+   1368,
+   1856,
+   2049
+  ]
+ },
+ {
+  "id": "T077",
+  "jp": "ミノムシ",
+  "kind": "creature",
+  "ko": "도롱이벌레",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장. ミノ, 여자아이 말투.",
+  "example_ids": [
+   649,
+   1785,
+   2184,
+   3032
+  ]
+ },
+ {
+  "id": "T078",
+  "jp": "ラッコ",
+  "kind": "creature",
+  "ko": "해달",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장. 「ラックロック持ったラッコ」 발음 놀이(2407).",
+  "example_ids": [
+   1035,
+   1036,
+   2407,
+   2408
+  ]
+ },
+ {
+  "id": "T079",
+  "jp": "お化け花",
+  "kind": "creature",
+  "ko": "괴물 꽃",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 죽음의 연못 보스(1375).",
+  "example_ids": [
+   1375,
+   2292,
+   2372,
+   2373
+  ]
+ },
+ {
+  "id": "T080",
+  "jp": "ウシ",
+  "kind": "creature",
+  "ko": "소",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장. モー.",
+  "example_ids": [
+   1383,
+   2384,
+   2385
+  ]
+ },
+ {
+  "id": "T081",
+  "jp": "ソックス",
+  "kind": "creature",
+  "ko": "삭스",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 스미스의 애견(1451). 가짜 개가 나옴(0435).",
+  "example_ids": [
+   435,
+   594,
+   1451
+  ]
+ },
+ {
+  "id": "T082",
+  "jp": "カタツムリ",
+  "kind": "creature",
+  "ko": "달팽이",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장. マイマイ.",
+  "example_ids": [
+   492,
+   1784
+  ]
+ },
+ {
+  "id": "T083",
+  "jp": "羽アリ軍 / 軍隊アリ",
+  "kind": "creature",
+  "ko": "날개개미군",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2530, 2676.",
+  "example_ids": [
+   2530,
+   2676
+  ]
+ },
+ {
+  "id": "T084",
+  "jp": "コウモリ",
+  "kind": "creature",
+  "ko": "박쥐",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2643.",
+  "example_ids": [
+   2643,
+   2644
+  ]
+ },
+ {
+  "id": "T085",
+  "jp": "マリー",
+  "kind": "creature",
+  "ko": "마리",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장 암컷 고릴라 가수(0366). ウホッ～ン.",
+  "example_ids": [
+   366
+  ]
+ },
+ {
+  "id": "T086",
+  "jp": "ストッパーグモ",
+  "kind": "creature",
+  "ko": "스토퍼 거미",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1967.",
+  "example_ids": [
+   1967
+  ]
+ },
+ {
+  "id": "T087",
+  "jp": "タマゴころがし",
+  "kind": "creature",
+  "ko": "알굴리기",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1597. 「フンころがし」 비틀기.",
+  "example_ids": [
+   1597
+  ]
+ },
+ {
+  "id": "T088",
+  "jp": "サソリ",
+  "kind": "creature",
+  "ko": "전갈",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2565.",
+  "example_ids": [
+   2565
+  ]
+ },
+ {
+  "id": "T089",
+  "jp": "ラックロック",
+  "kind": "item",
+  "ko": "럭록",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "노란 수집 돌. 배 연료·화폐·도박 판돈. Luck+Rock(추정).",
+  "example_ids": [
+   12,
+   32,
+   33,
+   100,
+   135,
+   178
+  ]
+ },
+ {
+  "id": "T090",
+  "jp": "写真（謎の写真）",
+  "kind": "item",
+  "ko": "사진",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 핵심 아이템(2280, 3017). count는 「写真」 전체 언급. 「謎の植物の写真」(0242)과 구분.",
+  "example_ids": [
+   242,
+   243,
+   245,
+   246,
+   566,
+   852
+  ]
+ },
+ {
+  "id": "T091",
+  "jp": "クリスタルボール",
+  "kind": "item",
+  "ko": "크리스털 볼",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "4개를 모아야 매버릭의 문이 열림(1669). 「玉」「フシギな玉」으로도 불림.",
+  "example_ids": [
+   34,
+   777,
+   948,
+   1053,
+   1451,
+   1669
+  ]
+ },
+ {
+  "id": "T092",
+  "jp": "タキギ",
+  "kind": "item",
+  "ko": "땔감",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제1장 6개 모으기 과제(0032).",
+  "example_ids": [
+   32,
+   33,
+   1142,
+   1209,
+   1357,
+   1892
+  ]
+ },
+ {
+  "id": "T093",
+  "jp": "赤いカギ / 青いカギ / 緑のカギ",
+  "kind": "item",
+  "ko": "빨간 열쇠 / 파란 열쇠 / 초록 열쇠",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "원숭이가 준 열쇠(0045). 1~4로 변화(0206). 크기: 빨강=작은, 파랑=키다리, 초록=큰(1353–1355)=세 소년과 대응.",
+  "example_ids": [
+   206,
+   227,
+   236,
+   237,
+   252,
+   267
+  ]
+ },
+ {
+  "id": "T094",
+  "jp": "アントバスター",
+  "kind": "item",
+  "ko": "앤트버스터",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 개미 퇴치약(0449). 재료 5종.",
+  "example_ids": [
+   103,
+   124,
+   449,
+   521,
+   540,
+   609
+  ]
+ },
+ {
+  "id": "T095",
+  "jp": "絵の具（赤・緑・青）",
+  "kind": "item",
+  "ko": "물감",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "거미에게 받음. 색 칠 순서 퍼즐(0619).",
+  "example_ids": [
+   170,
+   187,
+   294,
+   615,
+   618,
+   619
+  ]
+ },
+ {
+  "id": "T096",
+  "jp": "トマト",
+  "kind": "item",
+  "ko": "토마토",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "체력 회복(1315). 캠프 점심 메뉴(0908).",
+  "example_ids": [
+   249,
+   657,
+   908,
+   1734,
+   1833,
+   2258
+  ]
+ },
+ {
+  "id": "T097",
+  "jp": "ロープ",
+  "kind": "item",
+  "ko": "밧줄",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2829, 3007.",
+  "example_ids": [
+   47,
+   319,
+   608,
+   609,
+   1334,
+   1439
+  ]
+ },
+ {
+  "id": "T098",
+  "jp": "ツリバリ",
+  "kind": "item",
+  "ko": "낚싯바늘",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0679, 3011.",
+  "example_ids": [
+   679,
+   683,
+   685,
+   687,
+   1165,
+   1347
+  ]
+ },
+ {
+  "id": "T099",
+  "jp": "穴掘りマシーン（もぐら君）",
+  "kind": "item",
+  "ko": "구멍파기 머신",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0984, 2899, 3019.",
+  "example_ids": [
+   984,
+   985,
+   986,
+   989,
+   1382,
+   2382
+  ]
+ },
+ {
+  "id": "T100",
+  "jp": "サッカーシューズ",
+  "kind": "item",
+  "ko": "축구화",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0668, 3050.",
+  "example_ids": [
+   668,
+   683,
+   928,
+   1153,
+   1154,
+   2489
+  ]
+ },
+ {
+  "id": "T101",
+  "jp": "トウガラシ弁当",
+  "kind": "item",
+  "ko": "고추 도시락",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0393, 3023.",
+  "example_ids": [
+   173,
+   393,
+   395,
+   398,
+   403,
+   558
+  ]
+ },
+ {
+  "id": "T102",
+  "jp": "シスコの花",
+  "kind": "item",
+  "ko": "시스코의 꽃",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2311, 3044.",
+  "example_ids": [
+   834,
+   844,
+   923,
+   2292,
+   2294,
+   2296
+  ]
+ },
+ {
+  "id": "T103",
+  "jp": "バスター砲",
+  "kind": "item",
+  "ko": "버스터포",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "하잔의 발명(1534, 3056).",
+  "example_ids": [
+   741,
+   756,
+   816,
+   1534,
+   1557,
+   1558
+  ]
+ },
+ {
+  "id": "T104",
+  "jp": "シオ水のスプレー",
+  "kind": "item",
+  "ko": "소금물 스프레이",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1454, 3006.",
+  "example_ids": [
+   1453,
+   1454,
+   1465,
+   1779,
+   2630,
+   2852
+  ]
+ },
+ {
+  "id": "T105",
+  "jp": "ダイナマイト",
+  "kind": "item",
+  "ko": "다이너마이트",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "「ウ～ン、ダイナマイト」(1019, 3048).",
+  "example_ids": [
+   1019,
+   1022,
+   1024,
+   1025,
+   2396,
+   2399
+  ]
+ },
+ {
+  "id": "T106",
+  "jp": "テープレコーダー",
+  "kind": "item",
+  "ko": "테이프 레코더",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0281, 3016.",
+  "example_ids": [
+   281,
+   1373,
+   1537,
+   1775,
+   1996,
+   2477
+  ]
+ },
+ {
+  "id": "T107",
+  "jp": "ブルークリスタル",
+  "kind": "item",
+  "ko": "블루 크리스털",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장, 「町の宝物」(0948, 2744).",
+  "example_ids": [
+   948,
+   1053,
+   2416,
+   2417,
+   2744,
+   2989
+  ]
+ },
+ {
+  "id": "T108",
+  "jp": "ソルジャーブルー",
+  "kind": "item",
+  "ko": "솔저 블루",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "병사 전용 약(0711, 3021). 「ソルジャー・ブルー」 표기 흔들림(2179).",
+  "example_ids": [
+   134,
+   711,
+   2179,
+   2718,
+   2879,
+   3021
+  ]
+ },
+ {
+  "id": "T109",
+  "jp": "森のカイガラ",
+  "kind": "item",
+  "ko": "숲의 조개껍데기",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "앤트버스터 재료1=달팽이 집(0102, 1784).",
+  "example_ids": [
+   102,
+   492,
+   516,
+   1783,
+   1784,
+   3028
+  ]
+ },
+ {
+  "id": "T110",
+  "jp": "金のしずく",
+  "kind": "item",
+  "ko": "금빛 이슬",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "재료2=벌꿀(0103, 1785).",
+  "example_ids": [
+   103,
+   518,
+   1783,
+   1785,
+   2876,
+   3033
+  ]
+ },
+ {
+  "id": "T111",
+  "jp": "銀の糸（糸まき）",
+  "kind": "item",
+  "ko": "은실",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "재료4. 0118은 「銀の糸」, 0519·3034는 「銀の糸まき」.",
+  "example_ids": [
+   118,
+   519,
+   1783,
+   1786,
+   2871,
+   3034
+  ]
+ },
+ {
+  "id": "T112",
+  "jp": "森のコート",
+  "kind": "item",
+  "ko": "숲의 코트",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "재료5=도롱이(0119, 1785).",
+  "example_ids": [
+   119,
+   517,
+   649,
+   1783,
+   1785,
+   3032
+  ]
+ },
+ {
+  "id": "T113",
+  "jp": "ツリザオ",
+  "kind": "item",
+  "ko": "낚싯대",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0687, 3012.",
+  "example_ids": [
+   686,
+   687,
+   689,
+   1384,
+   1858,
+   3012
+  ]
+ },
+ {
+  "id": "T114",
+  "jp": "水中メガネ",
+  "kind": "item",
+  "ko": "물안경",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1171, 3051.",
+  "example_ids": [
+   1171,
+   1488,
+   1489,
+   1490,
+   2657,
+   3051
+  ]
+ },
+ {
+  "id": "T115",
+  "jp": "パンチグローブ",
+  "kind": "item",
+  "ko": "펀치 글러브",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0603, 3001.",
+  "example_ids": [
+   382,
+   602,
+   603,
+   1779,
+   2085,
+   3001
+  ]
+ },
+ {
+  "id": "T116",
+  "jp": "村のコイン",
+  "kind": "item",
+  "ko": "마을 동전",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0418, 3013.",
+  "example_ids": [
+   235,
+   382,
+   418,
+   420,
+   2549,
+   3013
+  ]
+ },
+ {
+  "id": "T117",
+  "jp": "人形",
+  "kind": "item",
+  "ko": "인형",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2850, 3018.",
+  "example_ids": [
+   175,
+   204,
+   390,
+   392,
+   2850,
+   3018
+  ]
+ },
+ {
+  "id": "T118",
+  "jp": "ワシのタマゴ",
+  "kind": "item",
+  "ko": "독수리 알",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1601, 3009. 무늬=물방울(1705).",
+  "example_ids": [
+   1594,
+   1601,
+   1794,
+   2708,
+   2737,
+   3009
+  ]
+ },
+ {
+  "id": "T119",
+  "jp": "カエルのシッポ",
+  "kind": "item",
+  "ko": "개구리 꼬리",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "재료3(0108).",
+  "example_ids": [
+   108,
+   469,
+   515,
+   1783,
+   3030
+  ]
+ },
+ {
+  "id": "T120",
+  "jp": "大佐の通行証",
+  "kind": "item",
+  "ko": "대령의 통행증",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1757, 3057.",
+  "example_ids": [
+   1343,
+   1755,
+   1757,
+   2567,
+   3057
+  ]
+ },
+ {
+  "id": "T121",
+  "jp": "グレートメカ",
+  "kind": "item",
+  "ko": "그레이트 메카",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 장난감 로봇(0662). 거대화하여 보스로(1791).",
+  "example_ids": [
+   662,
+   664,
+   2199,
+   2201,
+   2481
+  ]
+ },
+ {
+  "id": "T122",
+  "jp": "スカーフ",
+  "kind": "item",
+  "ko": "스카프",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "선생님과 같은 빨간 스카프(2509, 3053).",
+  "example_ids": [
+   1187,
+   1241,
+   2509,
+   3053
+  ]
+ },
+ {
+  "id": "T123",
+  "jp": "カラの水トウ",
+  "kind": "item",
+  "ko": "빈 물통",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0399, 3024.",
+  "example_ids": [
+   399,
+   1465,
+   3024,
+   3055
+  ]
+ },
+ {
+  "id": "T124",
+  "jp": "マル虫のヌケガラ",
+  "kind": "item",
+  "ko": "공벌레 허물",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0513, 0537, 3029.",
+  "example_ids": [
+   511,
+   513,
+   537,
+   3029
+  ]
+ },
+ {
+  "id": "T125",
+  "jp": "ミットとボール",
+  "kind": "item",
+  "ko": "미트와 공",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2828, 3015.",
+  "example_ids": [
+   919,
+   2828,
+   3015
+  ]
+ },
+ {
+  "id": "T126",
+  "jp": "ハンマー",
+  "kind": "item",
+  "ko": "망치",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2832, 3000.",
+  "example_ids": [
+   1339,
+   2832,
+   3000
+  ]
+ },
+ {
+  "id": "T127",
+  "jp": "穴あきチーズ",
+  "kind": "item",
+  "ko": "구멍 난 치즈",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0430, 3005.",
+  "example_ids": [
+   424,
+   430,
+   3005
+  ]
+ },
+ {
+  "id": "T128",
+  "jp": "骨「犬のエサ」",
+  "kind": "item",
+  "ko": "뼈 「개 먹이」",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0819, 3045.",
+  "example_ids": [
+   819,
+   823,
+   3045
+  ]
+ },
+ {
+  "id": "T129",
+  "jp": "ナポレオンのナベ",
+  "kind": "item",
+  "ko": "나폴레옹의 냄비",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "가짜 골동품(0495, 3025).",
+  "example_ids": [
+   495,
+   507,
+   3025
+  ]
+ },
+ {
+  "id": "T130",
+  "jp": "ショウグンのツボ",
+  "kind": "item",
+  "ko": "쇼군의 항아리",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0497, 3026.",
+  "example_ids": [
+   497,
+   508,
+   3026
+  ]
+ },
+ {
+  "id": "T131",
+  "jp": "シェフ長の帽子",
+  "kind": "item",
+  "ko": "주방장 모자",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0499, 3027.",
+  "example_ids": [
+   499,
+   509,
+   3027
+  ]
+ },
+ {
+  "id": "T132",
+  "jp": "犬小屋",
+  "kind": "item",
+  "ko": "개집",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0510, 3031.",
+  "example_ids": [
+   510,
+   2165,
+   3031
+  ]
+ },
+ {
+  "id": "T133",
+  "jp": "かこいのカギ",
+  "kind": "item",
+  "ko": "울타리 열쇠",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0344, 2998.",
+  "example_ids": [
+   321,
+   344,
+   2998
+  ]
+ },
+ {
+  "id": "T134",
+  "jp": "板キレ",
+  "kind": "item",
+  "ko": "판자 조각",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0117, 3004.",
+  "example_ids": [
+   117,
+   1878,
+   3004
+  ]
+ },
+ {
+  "id": "T135",
+  "jp": "レッドクリスタル",
+  "kind": "item",
+  "ko": "레드 크리스털",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0034, 2988.",
+  "example_ids": [
+   34,
+   2988
+  ]
+ },
+ {
+  "id": "T136",
+  "jp": "イエロークリスタル",
+  "kind": "item",
+  "ko": "옐로 크리스털",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제3장(2745).",
+  "example_ids": [
+   2745,
+   2990
+  ]
+ },
+ {
+  "id": "T137",
+  "jp": "グリーンクリスタル",
+  "kind": "item",
+  "ko": "그린 크리스털",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장(2746).",
+  "example_ids": [
+   2746,
+   2991
+  ]
+ },
+ {
+  "id": "T138",
+  "jp": "トランシーバー",
+  "kind": "item",
+  "ko": "무전기",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1507, 3003.",
+  "example_ids": [
+   1507,
+   3003
+  ]
+ },
+ {
+  "id": "T139",
+  "jp": "ダッシュシューズ",
+  "kind": "item",
+  "ko": "대시 슈즈",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2825, 3014.",
+  "example_ids": [
+   2825,
+   3014
+  ]
+ },
+ {
+  "id": "T140",
+  "jp": "ジャンプブーツ",
+  "kind": "item",
+  "ko": "점프 부츠",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2826, 2999.",
+  "example_ids": [
+   2826,
+   2999
+  ]
+ },
+ {
+  "id": "T141",
+  "jp": "ジシャク",
+  "kind": "item",
+  "ko": "자석",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "마로 박사가 줌(0285, 3002).",
+  "example_ids": [
+   285,
+   3002
+  ]
+ },
+ {
+  "id": "T142",
+  "jp": "ボンバーボール",
+  "kind": "item",
+  "ko": "봄버 볼",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0635, 2277.",
+  "example_ids": [
+   635,
+   2277
+  ]
+ },
+ {
+  "id": "T143",
+  "jp": "ロウヤのカギ",
+  "kind": "item",
+  "ko": "감옥 열쇠",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2835, 3020.",
+  "example_ids": [
+   2835,
+   3020
+  ]
+ },
+ {
+  "id": "T144",
+  "jp": "クサリのカギ",
+  "kind": "item",
+  "ko": "쇠사슬 열쇠",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2911, 3054.",
+  "example_ids": [
+   2911,
+   3054
+  ]
+ },
+ {
+  "id": "T145",
+  "jp": "コントローラー",
+  "kind": "item",
+  "ko": "컨트롤러",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2831, 3008.",
+  "example_ids": [
+   2831,
+   3008
+  ]
+ },
+ {
+  "id": "T146",
+  "jp": "ストライプパンツ",
+  "kind": "item",
+  "ko": "줄무늬 팬티",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "왕의 팬티(0580).",
+  "example_ids": [
+   580
+  ]
+ },
+ {
+  "id": "T147",
+  "jp": "こってりドリンク",
+  "kind": "item",
+  "ko": "진한 드링크",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1473.",
+  "example_ids": [
+   1473
+  ]
+ },
+ {
+  "id": "T148",
+  "jp": "訳：",
+  "kind": "system",
+  "ko": "번역:",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D7",
+  "note": "동물 대사의 「번역」 표시. 290개 메시지. 형식 통일 필요.",
+  "example_ids": [
+   7,
+   9,
+   17,
+   22,
+   30,
+   34
+  ]
+ },
+ {
+  "id": "T149",
+  "jp": "チーム",
+  "kind": "system",
+  "ko": "팀",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "[FE6D1A]=플레이어가 입력한 팀명 변수 + 「チーム」(0029 등). 「[FE6D1A]軍」(1615)도 있음.",
+  "example_ids": [
+   29,
+   32,
+   76,
+   133,
+   137,
+   262
+  ]
+ },
+ {
+  "id": "T150",
+  "jp": "ボタン",
+  "kind": "system",
+  "ko": "버튼",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "[FE6D02]=A, [FE6D04]=B, [FE6D06]=X, [FE6D00]=Y(호루라기), [FE6D0A]=L/R, [FE6D14]=체력 표시 버튼 (모두 추정). 아이콘 뒤에 「ボタン」이 붙음.",
+  "example_ids": [
+   31,
+   32,
+   33,
+   38,
+   48,
+   310
+  ]
+ },
+ {
+  "id": "T151",
+  "jp": "[FE6D1A]チーム",
+  "kind": "system",
+  "ko": "[팀명]팀",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "팀명 변수. 한국어는 「[팀명] 팀」 형태 권장. 조사 처리 주의(받침 불명).",
+  "example_ids": [
+   29,
+   32,
+   76,
+   133,
+   291,
+   570
+  ]
+ },
+ {
+  "id": "T152",
+  "jp": "アイテム",
+  "kind": "system",
+  "ko": "아이템",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "",
+  "example_ids": [
+   495,
+   497,
+   499,
+   501,
+   511,
+   668
+  ]
+ },
+ {
+  "id": "T153",
+  "jp": "チームワーク",
+  "kind": "system",
+  "ko": "팀워크",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "3인 협동 동작 명령. [FE6D48] 아이콘이 팀워크 패널로 추정(1158, 1361).",
+  "example_ids": [
+   743,
+   746,
+   747,
+   768,
+   1029,
+   1158
+  ]
+ },
+ {
+  "id": "T154",
+  "jp": "リーダー",
+  "kind": "system",
+  "ko": "리더",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "조작 캐릭터. [FE6D0A]버튼으로 교대(1291). 리더 모자(2203).",
+  "example_ids": [
+   13,
+   15,
+   684,
+   751,
+   1039,
+   1139
+  ]
+ },
+ {
+  "id": "T155",
+  "jp": "パネル（コマンドパネル）",
+  "kind": "system",
+  "ko": "패널",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "[FE6D46]=조사, [FE6D4A]=아이템 사용, [FE6D44]=그만두기 아이콘(추정). 「横のパネル」.",
+  "example_ids": [
+   31,
+   32,
+   33,
+   288,
+   495,
+   497
+  ]
+ },
+ {
+  "id": "T156",
+  "jp": "キー",
+  "kind": "system",
+  "ko": "키",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "[FE6D08]キー=십자키(추정).",
+  "example_ids": [
+   38,
+   688,
+   731,
+   750,
+   1265,
+   1284
+  ]
+ },
+ {
+  "id": "T157",
+  "jp": "～からスタートする / ～から再開する",
+  "kind": "system",
+  "ko": "~에서 시작한다",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "챕터 선택(2977–2987). 고정폭 필드.",
+  "example_ids": [
+   2977,
+   2978,
+   2979,
+   2980,
+   2981,
+   2983
+  ]
+ },
+ {
+  "id": "T158",
+  "jp": "ＳＡＶＥして終わる",
+  "kind": "system",
+  "ko": "저장하고 끝내기",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2977–2987. 원문은 「終わ」+「る」가 분리 배치됨.",
+  "example_ids": [
+   2977,
+   2978,
+   2979,
+   2980,
+   2981,
+   2983
+  ]
+ },
+ {
+  "id": "T159",
+  "jp": "ホイッスル",
+  "kind": "system",
+  "ko": "호루라기",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "떨어진 동료 호출(1289).",
+  "example_ids": [
+   1177,
+   1289,
+   1508,
+   2205,
+   2322,
+   2935
+  ]
+ },
+ {
+  "id": "T160",
+  "jp": "サブ画面",
+  "kind": "system",
+  "ko": "서브 화면",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "START로 여는 아이템 설정 화면(1288).",
+  "example_ids": [
+   748,
+   1171,
+   1176,
+   1287,
+   1288,
+   1292
+  ]
+ },
+ {
+  "id": "T161",
+  "jp": "「スタート」ボタン / ＳＴＡＲＴ",
+  "kind": "system",
+  "ko": "스타트 버튼",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1292.",
+  "example_ids": [
+   687,
+   1171,
+   1288,
+   1292,
+   2972
+  ]
+ },
+ {
+  "id": "T162",
+  "jp": "日記",
+  "kind": "system",
+  "ko": "일기",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "SELECT로 「日記」에 세이브(1293, 1515).",
+  "example_ids": [
+   1293,
+   1515,
+   2076,
+   2271
+  ]
+ },
+ {
+  "id": "T163",
+  "jp": "体力 / ライフ表示",
+  "kind": "system",
+  "ko": "체력",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1290, 1324.",
+  "example_ids": [
+   136,
+   1290,
+   1315,
+   1324
+  ]
+ },
+ {
+  "id": "T164",
+  "jp": "第１章 キャンプ島の夏",
+  "kind": "system",
+  "ko": "제1장 캠프섬의 여름",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2977.",
+  "example_ids": [
+   2972,
+   2976,
+   2977,
+   2983
+  ]
+ },
+ {
+  "id": "T165",
+  "jp": "第２章 海賊 ベンソン",
+  "kind": "system",
+  "ko": "제2장 해적 벤슨",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2978.",
+  "example_ids": [
+   2972,
+   2976,
+   2978,
+   2984
+  ]
+ },
+ {
+  "id": "T166",
+  "jp": "もどる / すすむ / 消す / 決定",
+  "kind": "system",
+  "ko": "돌아가기 / 다음 / 지우기 / 결정",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "이름 입력 화면(2972).",
+  "example_ids": [
+   110,
+   717,
+   1593,
+   2972
+  ]
+ },
+ {
+  "id": "T167",
+  "jp": "リーダーハット",
+  "kind": "system",
+  "ko": "리더 모자",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2203, 1139.",
+  "example_ids": [
+   1139,
+   2203
+  ]
+ },
+ {
+  "id": "T168",
+  "jp": "アクションアイテム",
+  "kind": "system",
+  "ko": "액션 아이템",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "B버튼으로 쓰는 아이템(0687).",
+  "example_ids": [
+   687,
+   1171
+  ]
+ },
+ {
+  "id": "T169",
+  "jp": "第３章 バオバブの木",
+  "kind": "system",
+  "ko": "제3장 바오바브나무",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2979.",
+  "example_ids": [
+   2979,
+   2985
+  ]
+ },
+ {
+  "id": "T170",
+  "jp": "第４章 リリパット王国",
+  "kind": "system",
+  "ko": "제4장 릴리퍼트 왕국",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2980.",
+  "example_ids": [
+   2980,
+   2986
+  ]
+ },
+ {
+  "id": "T171",
+  "jp": "第５章 ジーナ先生・・・",
+  "kind": "system",
+  "ko": "제5장 지나 선생님…",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2981.",
+  "example_ids": [
+   2981,
+   2987
+  ]
+ },
+ {
+  "id": "T172",
+  "jp": "「セレクト」ボタン",
+  "kind": "system",
+  "ko": "셀렉트 버튼",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1293.",
+  "example_ids": [
+   1293
+  ]
+ },
+ {
+  "id": "T173",
+  "jp": "記録",
+  "kind": "system",
+  "ko": "기록",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2972 글리프 풀.",
+  "example_ids": [
+   2972
+  ]
+ },
+ {
+  "id": "T174",
+  "jp": "Ｙｅｓ / Ｎｏ",
+  "kind": "system",
+  "ko": "예 / 아니오",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "2972.",
+  "example_ids": [
+   2972
+  ]
+ },
+ {
+  "id": "T175",
+  "jp": "フゴ",
+  "kind": "other",
+  "ko": "푸고",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "거미 울음(63건). 본문은 訳：로 제공.",
+  "example_ids": [
+   69,
+   70,
+   144,
+   150,
+   151,
+   152
+  ]
+ },
+ {
+  "id": "T176",
+  "jp": "ウキキ / ウッキー",
+  "kind": "other",
+  "ko": "우끼끼",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "원숭이.",
+  "example_ids": [
+   17,
+   22,
+   30,
+   44,
+   62,
+   66
+  ]
+ },
+ {
+  "id": "T177",
+  "jp": "ピロロ",
+  "kind": "other",
+  "ko": "삐로로",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "피락 새의 울음.",
+  "example_ids": [
+   7,
+   9,
+   34,
+   48,
+   80,
+   96
+  ]
+ },
+ {
+  "id": "T178",
+  "jp": "ウホ",
+  "kind": "other",
+  "ko": "우호",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "고릴라.",
+  "example_ids": [
+   130,
+   135,
+   201,
+   270,
+   324,
+   363
+  ]
+ },
+ {
+  "id": "T179",
+  "jp": "ザンス",
+  "kind": "other",
+  "ko": "~라구/~다구 (가끔 ~라니깐) — D7",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D7",
+  "note": "세자르 말끝(0615 등 19건). 독특한 말끝 유지 권장.",
+  "example_ids": [
+   615,
+   619,
+   620,
+   621,
+   622,
+   623
+  ]
+ },
+ {
+  "id": "T180",
+  "jp": "ユーレイ",
+  "kind": "other",
+  "ko": "유령",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 유령 소동(2350–2357).",
+  "example_ids": [
+   546,
+   936,
+   937,
+   940,
+   941,
+   1890
+  ]
+ },
+ {
+  "id": "T181",
+  "jp": "ペギ",
+  "kind": "other",
+  "ko": "펭",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "펭귄.",
+  "example_ids": [
+   157,
+   158,
+   159,
+   160,
+   163,
+   164
+  ]
+ },
+ {
+  "id": "T182",
+  "jp": "マイマイ",
+  "kind": "other",
+  "ko": "마이마이",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "달팽이. 「マイマイホーム」「アイマイミー」(2114) 말장난.",
+  "example_ids": [
+   480,
+   481,
+   482,
+   483,
+   484,
+   485
+  ]
+ },
+ {
+  "id": "T183",
+  "jp": "ミノ",
+  "kind": "other",
+  "ko": "미노",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "도롱이벌레.",
+  "example_ids": [
+   645,
+   646,
+   647,
+   648,
+   650,
+   651
+  ]
+ },
+ {
+  "id": "T184",
+  "jp": "町の宝物",
+  "kind": "other",
+  "ko": "마을의 보물",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장 블루 크리스털의 마을 측 호칭.",
+  "example_ids": [
+   853,
+   855,
+   857,
+   858,
+   862,
+   863
+  ]
+ },
+ {
+  "id": "T185",
+  "jp": "クエー / クェッ",
+  "kind": "other",
+  "ko": "꾸에-",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "독수리·철새·까마귀류.",
+  "example_ids": [
+   371,
+   797,
+   1646,
+   1647,
+   1688,
+   1690
+  ]
+ },
+ {
+  "id": "T186",
+  "jp": "ザーマス",
+  "kind": "other",
+  "ko": "~하와요/~사와요 (사모님 말투) — D7",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D7",
+  "note": "제2장 부인 말끝(12건).",
+  "example_ids": [
+   825,
+   837,
+   872,
+   873,
+   874,
+   875
+  ]
+ },
+ {
+  "id": "T187",
+  "jp": "ゲロ / ケロ",
+  "kind": "other",
+  "ko": "개굴",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제4장 개구리 말끝(0466). 訳： 문장 끝에도 붙음.",
+  "example_ids": [
+   466,
+   467,
+   468,
+   470,
+   471,
+   472
+  ]
+ },
+ {
+  "id": "T188",
+  "jp": "ワシ・・・いい男じゃろ！",
+  "kind": "other",
+  "ko": "나…… 멋진 남자지!",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft; style.md §7",
+  "note": "마로 박사 말버릇(0331, 0248, 0569, 1766).",
+  "example_ids": [
+   240,
+   248,
+   331,
+   569,
+   873,
+   874
+  ]
+ },
+ {
+  "id": "T189",
+  "jp": "お　し　ま　い　！",
+  "kind": "other",
+  "ko": "끝　!",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "엔딩 평가 문구 마무리. 「君たちは「～マーヴェラスな」チームね」(0137, 0776, 0804–0812).",
+  "example_ids": [
+   137,
+   776,
+   804,
+   805,
+   807,
+   808
+  ]
+ },
+ {
+  "id": "T190",
+  "jp": "時の神",
+  "kind": "other",
+  "ko": "시간의 신",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장.",
+  "example_ids": [
+   863,
+   882,
+   1004,
+   1006,
+   1007,
+   1061
+  ]
+ },
+ {
+  "id": "T191",
+  "jp": "時をあやつる術",
+  "kind": "other",
+  "ko": "시간을 다루는 술법",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장.",
+  "example_ids": [
+   857,
+   858,
+   862,
+   881,
+   882,
+   883
+  ]
+ },
+ {
+  "id": "T192",
+  "jp": "マーヴェラス",
+  "kind": "other",
+  "ko": "마벨러스",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "타이틀 단어. 엔딩 평가 등급 문구와 세자르의 감탄(0630).",
+  "example_ids": [
+   137,
+   630,
+   776,
+   804,
+   805,
+   807
+  ]
+ },
+ {
+  "id": "T193",
+  "jp": "グループはいつも３人いっしょ",
+  "kind": "other",
+  "ko": "그룹은 언제나 셋이 함께",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "지나 선생님의 교훈. 3인 미집합 시 경고(2205, 1822, 2569).",
+  "example_ids": [
+   57,
+   737,
+   1687,
+   1822,
+   1906,
+   2205
+  ]
+ },
+ {
+  "id": "T194",
+  "jp": "オセワ",
+  "kind": "other",
+  "ko": "짝지어 주기",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "펭귄 짝짓기 주선(0158, 1960, 1722 「セワしてやろうか」 말장난).",
+  "example_ids": [
+   158,
+   160,
+   1722,
+   1960,
+   1962,
+   1975
+  ]
+ },
+ {
+  "id": "T195",
+  "jp": "シャカ",
+  "kind": "other",
+  "ko": "샤카",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "개미·알굴리기.",
+  "example_ids": [
+   1527,
+   1536,
+   1596,
+   1597,
+   2530,
+   2676
+  ]
+ },
+ {
+  "id": "T196",
+  "jp": "ポリス",
+  "kind": "other",
+  "ko": "경찰",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1324, 2807.",
+  "example_ids": [
+   29,
+   76,
+   1324,
+   1350,
+   2807,
+   2937
+  ]
+ },
+ {
+  "id": "T197",
+  "jp": "顔をあらって出なおしてきな",
+  "kind": "other",
+  "ko": "세수하고 다시 와라",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "패배 시 조롱 고정구(0342, 1435, 1443, 1154, 2085).",
+  "example_ids": [
+   342,
+   1154,
+   1435,
+   1443,
+   2085
+  ]
+ },
+ {
+  "id": "T198",
+  "jp": "ｂｙサボテン",
+  "kind": "other",
+  "ko": "by 선인장",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "선인장 하이쿠 서명(0473, 0476, 0479, 0539, 0598).",
+  "example_ids": [
+   473,
+   476,
+   479,
+   539,
+   598
+  ]
+ },
+ {
+  "id": "T199",
+  "jp": "まいどあり",
+  "kind": "other",
+  "ko": "고맙습니다~",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "상인·피락·고릴라(0270, 1369, 2324).",
+  "example_ids": [
+   270,
+   382,
+   1369,
+   1404,
+   2324
+  ]
+ },
+ {
+  "id": "T200",
+  "jp": "はらへった～　メシ食わせ～",
+  "kind": "other",
+  "ko": "배고파~ 밥 줘~",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "캠프 아이들 구호(1492, 1493, 2659, 2662).",
+  "example_ids": [
+   554,
+   1492,
+   1493,
+   2659,
+   2662
+  ]
+ },
+ {
+  "id": "T201",
+  "jp": "マイマイホーム",
+  "kind": "other",
+  "ko": "달팽이 마이홈",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "달팽이 부동산(0480, 2115). 마이홈 말장난.",
+  "example_ids": [
+   480,
+   482,
+   483,
+   493,
+   2115
+  ]
+ },
+ {
+  "id": "T202",
+  "jp": "タイムワープ",
+  "kind": "other",
+  "ko": "타임워프",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제2장.",
+  "example_ids": [
+   966,
+   1076,
+   1388,
+   1847,
+   2375
+  ]
+ },
+ {
+  "id": "T203",
+  "jp": "ビー / ブー",
+  "kind": "other",
+  "ko": "비- / 부-",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "벌.",
+  "example_ids": [
+   634,
+   636,
+   2178,
+   2180
+  ]
+ },
+ {
+  "id": "T204",
+  "jp": "グレートメカ３号",
+  "kind": "other",
+  "ko": "그레이트 메카 3호",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "장난감 이름(2200, 2479).",
+  "example_ids": [
+   2200,
+   2201,
+   2479,
+   2481
+  ]
+ },
+ {
+  "id": "T205",
+  "jp": "男に２言はねー",
+  "kind": "other",
+  "ko": "사나이 두말 안 한다",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "「２言」「２ゴン」 표기 차이(0317, 1653, 2214).",
+  "example_ids": [
+   317,
+   1653,
+   2214
+  ]
+ },
+ {
+  "id": "T206",
+  "jp": "っちゅ / でちゅ",
+  "kind": "other",
+  "ko": "~찍",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "쥐 말끝(1178, 1307).",
+  "example_ids": [
+   1178,
+   1184,
+   1307
+  ]
+ },
+ {
+  "id": "T207",
+  "jp": "運が悪けりゃ無いちモン",
+  "kind": "other",
+  "ko": "운 나쁘면 빈털터리",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "짐의 도박 게임명. 無一文 말장난(2332).",
+  "example_ids": [
+   2332,
+   2515,
+   2517
+  ]
+ },
+ {
+  "id": "T208",
+  "jp": "タナボタ",
+  "kind": "other",
+  "ko": "굴러온 호박",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "럭록 획득 시 문구(0300, 1194).",
+  "example_ids": [
+   300,
+   1194
+  ]
+ },
+ {
+  "id": "T209",
+  "jp": "もってけドロボー",
+  "kind": "other",
+  "ko": "가져가라 도둑놈아",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "흥정 문구(0478, 1399).",
+  "example_ids": [
+   478,
+   1399
+  ]
+ },
+ {
+  "id": "T210",
+  "jp": "ブシのなさけ",
+  "kind": "other",
+  "ko": "무사의 정",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "1212, 1651.",
+  "example_ids": [
+   1212,
+   1651
+  ]
+ },
+ {
+  "id": "T211",
+  "jp": "エネルギーギレ・・・ムッ・・ムネン！！",
+  "kind": "other",
+  "ko": "에너지 부족… 부, 분하다!!",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "로봇 쓰러질 때(0766, 2892).",
+  "example_ids": [
+   766,
+   2892
+  ]
+ },
+ {
+  "id": "T212",
+  "jp": "ワガ　セイシュンニ　クイナシ！",
+  "kind": "other",
+  "ko": "내 청춘에 후회 없다!",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "로봇 대사, 가타카나(0105, 2893).",
+  "example_ids": [
+   105,
+   2893
+  ]
+ },
+ {
+  "id": "T213",
+  "jp": "なんでも屋",
+  "kind": "other",
+  "ko": "만물상",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "물물교환 가게(2116).",
+  "example_ids": [
+   482,
+   2116
+  ]
+ },
+ {
+  "id": "T214",
+  "jp": "マーヴェリックの財宝",
+  "kind": "other",
+  "ko": "매버릭의 보물",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "0777, 0855, 1053.",
+  "example_ids": [
+   777,
+   1053
+  ]
+ },
+ {
+  "id": "T215",
+  "jp": "ジゲンソウチ",
+  "kind": "other",
+  "ko": "차원장치",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "제5장 붕괴 카운트다운(1144, 2840).",
+  "example_ids": [
+   1144,
+   2840
+  ]
+ },
+ {
+  "id": "T216",
+  "jp": "キャラメートル",
+  "kind": "other",
+  "ko": "캬라미터",
+  "state": "approved",
+  "scope": "see note",
+  "evidence": "D6 (2026-10-06), glossary_draft; D9 검수 추천안 채택",
+  "note": "깅엄국 길이 단위 말장난(0528).",
+  "example_ids": [
+   528
+  ]
+ },
+ {
+  "id": "T217",
+  "jp": "アイテムでポン！ボックス",
+  "kind": "other",
+  "ko": "아이템 퐁! 박스",
+  "state": "approved",
+  "scope": "title-wide",
+  "evidence": "D6 (2026-10-06), glossary_draft",
+  "note": "가리벤의 발명품(2511).",
+  "example_ids": [
+   2511
+  ]
+ }
+]

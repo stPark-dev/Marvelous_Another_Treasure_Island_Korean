@@ -1,0 +1,2906 @@
+{
+ "batch": "b01",
+ "source_sha256": "555d78c9e4667bee7fb503efd87ed9fc82c55b0e8bde034a10aa2a53967762c5",
+ "entries": [
+  {
+   "id": 0,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 1,
+   "src": "f8f0f0f0f0f0fd051809132328dedffb",
+   "jp": "<F8>\n　　　　　何のことやら？！<FB>",
+   "ko": "<F8>\n　　　　　무슨 소리야?!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 2,
+   "src": "f8224b13fd960715fde31e2814064c372187dfdffb",
+   "jp": "<F8>\nもっと近くに集まらなきゃだめダ！！<FB>",
+   "ko": "<F8>\n더 가까이 모이지 않으면 안 돼!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3,
+   "src": "0b4b4101f0719b5de083fb",
+   "jp": "しっぱい　メッセージ<FB>",
+   "ko": "실패　메시지<FB>",
+   "state": "needs_human_review",
+   "note": "디버그용 문구로 보임.",
+   "question": ""
+  },
+  {
+   "id": 4,
+   "src": "e1e1e1e1002b4bdef8fd48fd6218fd5c2d09093a22fdeb09032a144f12e1e1e1e1e1e1f9e1e1fd48fd622dd6fd3d012adee1e1e1e1e13b0201020913defa",
+   "jp": "・・・・あれっ？<F8>\n先生の声がここでも聞こえるなんて・・・・・・[F9]・・先生が２人いる？・・・・・どういうこと？<FA>",
+   "ko": "……어라?<F8>\n선생님 목소리가 여기서도 들리다니……[F9]…선생님이 두 명 있어? ……어떻게 된 거지?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 5,
+   "src": "fcab18fd0415002afd2f27fd0615fd072b0f0514defa",
+   "jp": "墓の中にある物を手に入れたかな？<FA>",
+   "ko": "무덤 속에 있는 물건은 손에 넣었니?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 6,
+   "src": "f8f0f0f0f0f00e02334c140712dfdffb",
+   "jp": "<F8>\n　　　　　そうじゃなくて！！<FB>",
+   "ko": "<F8>\n　　　　　그게 아니라!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 7,
+   "src": "927c9b9297e0e2927c7cf8fc1bfc1a0a004be21411050b18569c9f93fd7415fdfd010f25e3f9f0f0334d4f3d1901010501defa",
+   "jp": "ピロッピィー、ピロロ<F8>\n訳：さあっ、なつかしのキャンプ島に着いたよ。[F9]　　じゅんびはいいかい？<FA>",
+   "ko": "삐롯삐이ー, 삐로로<F8>\n번역: 자, 그리운 캠프섬에 도착했어.[F9]　　준비는 됐어?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 8,
+   "src": "52707070e3759be2699bdff0639a799ce0e0e0dff8fd03050814013a072bdff08c780b104c02372cdff97f9a545454df70e2090111198a555105220b2b1401e3fb",
+   "jp": "ウムムム。ヨッ、ハッ！　トォリャーーー！<F8>\n話かけないでくれ！　バラしちゃうだろ！[F9]グォオオオ！ム、こいつはデカイかもしれない。<FB>",
+   "ko": "으으음. 영차, 핫! 이야아아앗!<F8>\n말 걸지 마! 놓치잖아![F9]크아아아! 음, 이 녀석은 클지도 몰라.<FB>",
+   "state": "needs_human_review",
+   "note": "낚시 장면. バラす=낚싯바늘에서 물고기를 놓치다.",
+   "question": ""
+  },
+  {
+   "id": 9,
+   "src": "927c9b92e2927c7c7cf8fc1bfc1afd4815fd514b12e60018fd0cfd2ae73afdfc4b122a052817e3f9f0f0e1e1e152979f5697e0dffd510725dffa",
+   "jp": "ピロッピ、ピロロロ<F8>\n訳：先に行って「あの場所」で待ってるからね。[F9]　　・・・ウィンキィー！行くよ！<FA>",
+   "ko": "삐롯삐, 삐로로로<F8>\n번역: 먼저 가서 「그곳」에서 기다릴게.[F9]　　……윙키이! 가자!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 10,
+   "src": "fc2819fd640f10151e050d12e2fd7418fd9ef41e3a22f80b120f28defb",
+   "jp": "後は私たちにまかせて、島の探検でも<F8>\nしてたら？<FB>",
+   "ko": "나머지는 우리한테 맡기고, 섬 탐험이라도<F8>\n하고 오지 그래?<FB>",
+   "state": "needs_human_review",
+   "note": "화자 불명(도로시 팀 또는 다른 캠프 아이로 보임).",
+   "question": ""
+  },
+  {
+   "id": 11,
+   "src": "334600e2789f602dfd31fd682a1e3afd7418fd9ef41e3a22f80b121f0f283b02050b28def9141505e2fd270b01fd25fd262d002a05220b2b14012625dffb",
+   "jp": "じぁあ、ランチが出来るまで島の探検でも<F8>\nしてみたらどうかしら？[F9]なにか、新しい発見があるかもしれないわよ！<FB>",
+   "ko": "그럼, 점심이 다 될 때까지 섬 탐험이라도<F8>\n해 보는 게 어떨까?[F9]뭔가 새로운 발견이 있을지도 몰라!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 12,
+   "src": "4fdedff0789b577c9b572de2fdb4291401334c140105dff8789b577c9b5727f463fd59fde321121e0ffd974f3a17e5e3fa",
+   "jp": "ん？！　ラックロックが、足りないじゃないか！<F8>\nラックロックを沢山集めてまた呼んでね～。<FA>",
+   "ko": "응?! 럭록이 모자라잖아!<F8>\n럭록을 잔뜩 모아서 다시 불러 줘~.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 13,
+   "src": "02101879e087e019e261796e6550144f0f083be2f8fd91144f12114b0f596314014f3735e3f9112b2a18190111227d78575f3c4b05290ae3fb",
+   "jp": "うちのリーダーは、ツリマニアなんたけど、<F8>\n魚なんてつったコトないんだぜ。[F9]つれるのはいつもガラクタばっかりさ。<FB>",
+   "ko": "우리 리더는 낚시광인데,<F8>\n물고기를 낚아 본 적이 한 번도 없어.[F9]낚이는 건 언제나 잡동사니뿐이야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 14,
+   "src": "fd0e15fd4efd2e10d5fd3d040112e2f8fd160528d6fd3d3ae2fd2e10fd16302a4b121819f93b020514defb",
+   "jp": "下に力持ち１人おいて、<F8>\n上から２人で、持ち上げるってのは[F9]どうかな？<FB>",
+   "ko": "밑에 힘센 사람 한 명을 두고,<F8>\n위에서 두 명이 들어 올리는 건[F9]어떨까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 15,
+   "src": "02101879e087e019e261796e6550144f37083be2f8fd91144f12e2114b0f596314014f3735e3f9112b2a18190111227d78575f3c4b05290a4bdffb",
+   "jp": "うちのリーダーは、ツリマニアなんだけど、<F8>\n魚なんて、つったコトないんだぜ。[F9]つれるのはいつもガラクタばっかりさっ！<FB>",
+   "ko": "우리 리더는 낚시광인데,<F8>\n물고기는, 낚아 본 적이 한 번도 없어.[F9]낚이는 건 언제나 잡동사니뿐이라구!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 16,
+   "src": "fd1d071a2c2614074b104c00dfdffb",
+   "jp": "早くひろわなくっちゃあ！！<FB>",
+   "ko": "빨리 주워야지!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 17,
+   "src": "52569b56dff052569b56dff8fc1bfc1afdda0812dff0fdda0812dffb",
+   "jp": "ウキッキ！　ウキッキ！<F8>\n訳：助けて！　助けて！<FB>",
+   "ko": "우끼끼! 우끼끼!<F8>\n번역: 도와줘! 도와줘!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 18,
+   "src": "3b091511142d4b122a4f372c02defb",
+   "jp": "どこにつながってるんだろう？<FB>",
+   "ko": "어디로 이어져 있는 걸까?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 19,
+   "src": "3b022328e209187b8ce027fd4c0b12f8fdc3fdd20a0d2a250215144b12012a1f0f0137e3f937083be2fdc60e02370528d5fd3d3a19fd54fcb3372c021400defb",
+   "jp": "どうやら、このレバーを押して<F8>\n回転させるようになっているみたいだ。[F9]だけど、重そうだから１人では無理だろうなあ？<FB>",
+   "ko": "아무래도 이 레버를 밀어서<F8>\n돌리게 되어 있는 것 같아.[F9]하지만 무거워 보여서 혼자서는 무리겠는걸?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 20,
+   "src": "3b050d282b1401051446e1e1e1defb",
+   "jp": "どかせられないかなぁ・・・？<FB>",
+   "ko": "치울 수 없을까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 21,
+   "src": "0c3101fd3818fd4e3afda82d1b06133c0a2b0f1f0f0137e3fb",
+   "jp": "すごい水の力で岩がふきとばされたみたいだ。<FB>",
+   "ko": "엄청난 물의 힘에 바위가 날아간 것 같아.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 22,
+   "src": "529b56e0dff8fc1bfc1ae1e1e1e11e4b12dffa",
+   "jp": "ウッキー！<F8>\n訳：・・・・まって！<FA>",
+   "ko": "우끼ー!<F8>\n번역: ……기다려!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 23,
+   "src": "f0f0f0e056589fdf0918fd48fc4c130bfdf40029e0f9f0f0f0f0f0f0f0f0f0f0f0f0f0f04b12fd530112002ae3fb",
+   "jp": "　　　ーキケン！この先落とし穴ありー[F9]　　　　　　　　　　　　　　って書いてある。<FB>",
+   "ko": "　　　ー위험! 이 앞에 함정 있음ー[F9]　　　　　　　　　　　　이라고 쓰여 있다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 24,
+   "src": "334d4f3df0aeaadff800011128354b0f01151a4b05052ae36a6a6a9bfb",
+   "jp": "じゅんび　ＯＫ！<F8>\nあいつらぜったいにひっかかる。ヒヒヒッ<FB>",
+   "ko": "준비　OK!<F8>\n녀석들 무조건 걸린다. 히히힛<FB>",
+   "state": "needs_human_review",
+   "note": "화자는 패치즈로 보임(끊어 말하기).",
+   "question": ""
+  },
+  {
+   "id": 25,
+   "src": "f8f0f0f07de27d78575fdef0829f679f3a0b0fe3fb",
+   "jp": "<F8>\n　　　ガ、ガラクタ？　ザンネンでした。<FB>",
+   "ko": "<F8>\n　　　잡, 잡동사니? 유감이네요~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 26,
+   "src": "09020102fdcc0614fd2f27fd2e10fd16302afd4f19f83b020c2a4f372c02e1e1e1defb",
+   "jp": "こういう大きな物を持ち上げる時は<F8>\nどうするんだろう・・・？<FB>",
+   "ko": "이렇게 큰 물건을 들어 올릴 때는<F8>\n어떻게 하는 걸까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 27,
+   "src": "20090213094b103afda827190a202502150b0f28f8fd2e10fd1630282b2a05220b2b1401e3fb",
+   "jp": "むこうとこっちで岩をはさむようにしたら<F8>\n持ち上げられるかもしれない。<FB>",
+   "ko": "저쪽과 이쪽에서 바위를 끼우듯이 하면<F8>\n들어 올릴 수 있을지도 몰라.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 28,
+   "src": "547bfdc813fc7ffcc50c2a0501def82321130614df9052731855542de2547bfdc818250214f9094f148e5a515714fd141514290f0714082b3c144bdffe69f669696969696969696969696969696969699bfe6af6f6fe69f6fe6a1d4b130825dfdffe6af6f6fb",
+   "jp": "オレ様と勝負するかい？<F8>\nやめときな！ボウヤのカオが、オレ様のような[F9]こんなブサイクな顔になりたくなければなっ！[FE69][F6]ハハハハハハハハハハハハハハハハハッ[FE6A][F6][F6][FE69][F6][FE6A]ほっとけよ！！[FE6A][F6][F6]<FB>",
+   "ko": "이 몸이랑 한판 붙어 볼 테냐?<F8>\n그만둬라! 꼬마 녀석 얼굴이 이 몸처럼[F9]이런 못생긴 얼굴이 되기 싫다면 말이야![FE69][F6]하하하하하하하하하하하하하하하하핫[FE6A][F6][F6][FE69][F6][FE6A]내버려 둬!![FE6A][F6][F6]<FB>",
+   "state": "needs_human_review",
+   "note": "제어 코드 배치가 이상한 메시지(context 4.5). 원문 순서 그대로 유지. 화자는 オレ様 말투로 보아 크래셔 밥으로 추정.",
+   "question": ""
+  },
+  {
+   "id": 29,
+   "src": "fe6afe6d1a60e07018d7fd3d1cf8fc0c052820050318fda62d234b12fd680f0528e2f9fe69f61a13fdb4fd4815547b0f1019fd952a35e3f604fd9f282dfd682a1827d6fd4ffd0a22fdfc4b120f1815f6014b0f013b091d4b1106fdef01120f4f3725e3fe69f61315050795795c27fd974f370528f683e064fd48fd621809131995795c151e050d12f604fd9f0f1022fc0c15fd95280d1222280114e3fe69f6134f37569c9f9315144b101e4b0f083bf6fc0c15223b4b0f28e21e0f5a9b55e00b250235dff6fe69f6f6f0f0f0354b0f01223b4b12fd680125dff6f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f08370fb",
+   "jp": "[FE6A][FE6D1A]チームの３人へ<F8>\n町からむかえの船がやって来たから、[F9][FE69][F6]ひと足先にオレたちは帰るぜ。[F6]お前らが来るのを２時間も待ってたのに[F6]いったいどこほっつき歩いてたんだよ。[FE69][F6]とにかくポリスを呼んだから[F6]ジーナ先生のことはポリスにまかせて[F6]お前たちも町に帰らせてもらいな。[FE69][F6]とんだキャンプになっちまったけど[F6]町にもどったら、またサッカーしようぜ！[F6][FE69][F6][F6]　　　ぜったいもどって来いよ！[F6]　　　　　　　　　　　　　　　　　　　　ジム<FB>",
+   "ko": "[FE6A][FE6D1A] 팀 세 명에게<F8>\n마을에서 데리러 배가 왔으니까,[F9][FE69][F6]우리는 한발 먼저 돌아간다.[F6]너희가 오기를 2시간이나 기다렸는데[F6]대체 어딜 싸돌아다닌 거야.[FE69][F6]아무튼 경찰을 불렀으니까[F6]지나 선생님 일은 경찰한테 맡기고[F6]너희도 마을로 돌려보내 달라고 해.[FE69][F6]엉망진창 캠프가 돼 버렸지만[F6]마을에 돌아가면 또 축구하자![F6][FE69][F6][F6]　　　꼭 돌아와야 해![F6]　　　　　　　　　　　　　　　　　　　　짐<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 30,
+   "src": "52569b56e256565656e09be3f8fc1bfc1a133d2818fd0f08fd11e292789b57fd3c4b122ae3f9f0f0545178e22605281401e3fb",
+   "jp": "ウキッキ、キキキキーッ。<F8>\n訳：とびらの開け方、ピラック知ってる。[F9]　　オイラ、わからない。<FB>",
+   "ko": "우끼끼, 끼끼끼끼ー.<F8>\n번역: 문 여는 법, 피락 안다.[F9]　　나, 모른다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 31,
+   "src": "f0f0f0f0f0f0f0102d023a0b4ee5e3f8fe6d4691677a27fd2c4f3ae2fd21fd2b153a0ffe6d0c6ee05727f9fd48fd6218fd2a1e3afd9c050b12fe6d02905f9f27fd4c0c18e3fb",
+   "jp": "　　　　　　　ちがうでしょ～。<F8>\n[FE6D46]パネルを選んで、画面にでた[FE6D0C]マークを[F9]先生の所まで動かして[FE6D02]ボタンを押すの。<FB>",
+   "ko": "　　　　　　　그게 아니지~.<F8>\n[FE6D46]패널을 골라서, 화면에 나온 [FE6D0C]마크를[F9]선생님 있는 곳까지 움직여서<F8>\n[FE6D02]버튼을 누르는 거야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 32,
+   "src": "0e2b334c00e2569c9f933ae2fe6d1a60e07015f8234b122228010f01fd7afd5527fca7031e0ce3f92507fdeb011217e3fe69f604fce718789f6027fdba2a1815fcacfcad14f6e65f567ee727fe6d2afd49fde321120612104e023701e3f6d7fc71629f63188b7c5be02dfdfc4b12012a26dffe69f60e2b0528fd741519e2fdff15567b5114fc592d0f070a4ff6fc4c1012012a0528fde321121f0f28e3e6789b577c9b57e7f64b12014b12fd48fd6222fdccfde60614fc591418e3fe69f6092b3afd030b19fd13262937083be2064e021f2d004b0f28f6fe6d461891677a3afe6d02905f9f27fd4c0b1207260b07f6fc8e3f121f1217e3fb",
+   "jp": "それじゃあ、キャンプで、[FE6D1A]チームに<F8>\nやってもらいたい仕事を伝えます。[F9]よく聞いてね。[FE69][F6]お昼のランチを作るのに必要な[F6]「タキギ」を[FE6D2A]本集めてきてちょうだい。[F6]３号テントのドロシーが待っているわ！[FE69][F6]それから島には、他にキレイな石がたくさん[F6]落ちているから集めてみたら。「ラックロック」[F6]っていって先生も大好きな石なの。[FE69][F6]これで話しは終わりだけど、きょうみがあったら[F6][FE6D46]のパネルで[FE6D02]ボタンを押してくわしく[F6]調べてみてね。<FB>",
+   "ko": "그럼, 캠프에서 [FE6D1A] 팀이<F8>\n해 줬으면 하는 일을 알려 줄게.[F9]잘 들으렴.[FE69][F6]점심을 만드는 데 필요한[F6]「땔감」을 [FE6D2A]개 모아 와 줘.[F6]3호 텐트의 도로시가 기다리고 있을 거야![FE69][F6]그리고 섬에는 예쁜 돌이 많이[F6]떨어져 있으니까 모아 보렴. 「럭록」[F6]이라고 하는데 선생님이 좋아하는 돌이야.[FE69][F6]이걸로 이야기는 끝이지만, 관심이 있으면[F6][FE6D46] 패널에서 [FE6D02]버튼을 눌러서 자세히[F6]조사해 보렴.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 33,
+   "src": "fc67fde418fd7afd5519e25f567e27fe6d2afd49fde3212a091325e3f80101de0f184f372625e3f9fe69f6e1e1e1e1789b577c9b5722fda52b14013a17e3f60918fd21fd2b2723212afd4f19fe6d04905f9f27fd4c0c05f61891677a18fe6d443afe6d02905f9f27fd4c0c18fb",
+   "jp": "君達の仕事は、タキギを[FE6D2A]本集めることよ。<F8>\nいい？たのんだわよ。[F9][FE69][F6]・・・・ラックロックも忘れないでね。[F6]この画面をやめる時は[FE6D04]ボタンを押すか[F6]のパネルの[FE6D44]で[FE6D02]ボタンを押すの<FB>",
+   "ko": "너희 일은 땔감을 [FE6D2A]개 모으는 거야.<F8>\n알았지? 부탁할게.[F9][FE69][F6]……럭록도 잊지 말고.[F6]이 화면을 그만둘 때는 [FE6D04]버튼을 누르거나[F6]패널의 [FE6D44]에서 [FE6D02]버튼을 누르는 거야<FB>",
+   "state": "needs_human_review",
+   "note": "원문 「のパネルの」 앞에 아이콘이 빠져 있음(원문 그대로).",
+   "question": ""
+  },
+  {
+   "id": 34,
+   "src": "927c9b92e2927c7ce2929797e3f8fc1bfc1a0918e67b9b8b57795c5f7ae71990572dfc2ffc2815f9f0f0fd4a070528fe69f6f0f0fc670f1019fd872918d7111857795c5f7a90e07a27f6f0f00e18f45327fd4207fd2612e2d7fd3d3afd47fd4f15fd4a074f37e3f6f0f026054b0f0501defb",
+   "jp": "ピロッピ、ピロロ、ピィィ。<F8>\n訳：この「レッドクリスタル」はボクが最後に[F9]　　置くから[FE69][F6]　　君たちは残りの３つのクリスタルボールを[F6]　　その台を良く見て、３人で同時に置くんだ。[F6]　　わかったかい？<FB>",
+   "ko": "삐롯삐, 삐로로, 삐이이.<F8>\n번역: 이 「레드 크리스털」은 내가 마지막에[F9]　　놓을 테니까[FE69][F6]　　너희는 나머지 3개의 크리스털 볼을[F6]　　받침대를 잘 보고 셋이 동시에 놓는 거야.[F6]　　알겠지?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 35,
+   "src": "fd6469e2735a5b51fd386e567c909b63f85576515f699b9165e2fd38776e57e387588be1e1f97972599ffd54587b8c5f8768907ce3fb",
+   "jp": "私ハ、ヤサシイ水マキロボット<F8>\nカワイタハッパニ、水ヲマク。ダケド・・[F9]リモコン無ケレバタダノボロ。<FB>",
+   "ko": "나　는,　상냥한　물뿌리기　로봇<F8>\n마른　잎　에,　물　을　뿌린다.　하지만……[F9]리모컨　없으면　그냥　고물.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 36,
+   "src": "fd960715fd514b12fd26121f2502e3fb",
+   "jp": "近くに行って見てみよう。<FB>",
+   "ko": "가까이 가서 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 37,
+   "src": "1fe1e1e1fd38e1e1e1dffb",
+   "jp": "み・・・水・・・！<FB>",
+   "ko": "무……물……!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 38,
+   "src": "fe79f5020bfe6d0856e013fe6d0a905f9f3afd2cfcb8fe6d1cf0fe6d18fe71fa",
+   "jp": "[FE79][F5020B][FE6D08]キーと[FE6D0A]ボタンで選択[FE6D1C]　[FE6D18][FE71]<FA>",
+   "ko": "[FE79][F5020B][FE6D08]키와 [FE6D0A]버튼으로 선택[FE6D1C]　[FE6D18][FE71]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 39,
+   "src": "fe797c909b6327fd9c050cfd06fdc227fd07fd4ef8f0d5f0d6f0d7f0d8f0d9f0daf0dbf0dcfe6ffb",
+   "jp": "[FE79]ロボットを動かす手順を入力<F8>\n　１　２　３　４　５　６　７　８[FE6F]<FB>",
+   "ko": "[FE79]로봇을 움직일 순서를 입력<F8>\n　1　2　3　4　5　6　7　8[FE6F]<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 40,
+   "src": "fe79fd06fdc213fdc3fdbd27fd07fd4e0d25e3f9f0f0f0e8fd00d5e8f0f0e8fe70fa",
+   "jp": "[FE79]手順と回数を入力せよ。[F9]　　　／右１／　　／[FE70]<FA>",
+   "ko": "[FE79]순서와 횟수를 입력하라.[F9]　　　/우1/　　/[FE70]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "「／右１／」의 右를 「우」 한 글자로 옮김. 입력 UI 칸 위치와 맞물릴 수 있으니 화면에서 확인 필요(「오른쪽」은 칸이 밀릴 수 있음).",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문: 「／右１／」→「/우1/」. 권고: 입력 UI 칸 배치가 원문 1글자 기준이므로 「우」 1칸 유지, 화면에서 「좌/우」 표기가 다른 메시지(0039 입력 화면·로봇 퍼즐)와 맞는지 확인."
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "src": "fd0e1561902dfd4a0112002a1f0f0137e3f80918fdf405283713d7110b05fd26031401083be1e1e1e1e1f9fc000161902dd611e2fdb00161902dd511fd26032ae3fb",
+   "jp": "下にツボが置いてあるみたいだ。<F8>\nこの穴からだと３つしか見えないけど・・・・・[F9]赤いツボが２つ、青いツボが１つ見える。<FB>",
+   "ko": "아래에 항아리가 놓여 있는 것 같아.<F8>\n이 구멍으로는 3개밖에 안 보이지만……[F9]빨간 항아리 2개, 파란 항아리 1개가 보여.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 42,
+   "src": "04fd9f285a7afdda080f1815fddc0133210fe3f85a7a13fddce2fd9a05281405fd6a01e3f9fddc13547b13223710e337052804fd9f28234b11082adffb",
+   "jp": "お前らサル助けたのに犬いじめた。<F8>\nサルと犬、昔からなか悪い。[F9]犬とオレともだち。だからお前らやっつける！<FB>",
+   "ko": "너희 원숭이 도왔는데 개 괴롭혔다.<F8>\n원숭이와 개, 옛날부터 사이 나쁘다.[F9]개와 나 친구. 그러니까 너희 혼내 준다!<FB>",
+   "state": "needs_human_review",
+   "note": "끊어 말하기로 보아 패치즈로 추정.",
+   "question": ""
+  },
+  {
+   "id": 43,
+   "src": "1e254b12011222e20b050f2d1401e3f809091e3a060f4f370528e1e1e1e1e1e1e1e1e1e3f9234b121f2502dffb",
+   "jp": "まよっていても、しかたがない。<F8>\nここまできたんだから・・・・・・・・・。[F9]やってみよう！<FB>",
+   "ko": "망설여 봤자 소용없어.<F8>\n여기까지 왔으니까…….[F9]해 보자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 44,
+   "src": "529b569b56f0529b569b56f8fc1bfc1a01011a13f01f4f14f000292d1302f9f0f0232af0092bf0736128f017284b120f7268fa",
+   "jp": "ウッキッキ　ウッキッキ<F8>\n訳：いいひと　みんな　ありがとう[F9]　　やる　これ　ヤツら　ねらってたモノ<FA>",
+   "ko": "웃끼끼　웃끼끼<F8>\n번역: 좋은 사람　모두　고맙다[F9]　　준다　이거　녀석들　노리던　것<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 45,
+   "src": "f25a7a0528144f37051c4f120914557e2722284b0fe3f81b0b2e1409131590572818fd8613fd4733fd5b270b122ae3f9fd33fc45144f18557e144f372c02defa",
+   "jp": "[F2]サルからなんだかへんてこなカギをもらった。<F8>\nふしぎなことにボクらの服と同じ色をしてる。[F9]一体なんのカギなんだろう？<FA>",
+   "ko": "[F2]원숭이에게서 왠지 이상한 열쇠를 받았다.<F8>\n신기하게도 우리 옷과 같은 색이다.[F9]대체 무슨 열쇠일까?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 46,
+   "src": "0918000f2915fd9119fd26fc190f281401083be1e1e1e1e1e1fb",
+   "jp": "このあたりに魚は見当たらないけど・・・・・・<FB>",
+   "ko": "이 근처에 물고기는 안 보이는데……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 47,
+   "src": "f87ce0933a112a0d0e021450642d000112012ae3fb",
+   "jp": "<F8>\nロープでつるせそうなアナがあいている。<FB>",
+   "ko": "<F8>\n밧줄을 걸 수 있을 것 같은 구멍이 있다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 48,
+   "src": "927c9be2927c927c92f8fc1bfc1a334ce2d5e2d618d73afe6d02905f9ffd4c0c4f37e3f9f0f001010501defa",
+   "jp": "ピロッ、ピロピロピ<F8>\n訳：じゃ、１、２の３で[FE6D02]ボタン押すんだ。[F9]　　いいかい？<FA>",
+   "ko": "삐롯, 삐로삐로삐<F8>\n번역: 그럼, 하나, 둘, 셋에[F9]　　[FE6D02]버튼을 누르는 거야. 알았지?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 49,
+   "src": "092b27fd0d4b12e25c92e08b110812e2f88b55e09f13519b9161234b121f2502dffb",
+   "jp": "これを使って、スピードつけて、<F8>\nドカーンとイッパツやってみよう！<FB>",
+   "ko": "이걸 써서, 속도를 붙여서,<F8>\n쾅 하고 한 방 해 보자!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 50,
+   "src": "f2695b812d3a060f36dffa",
+   "jp": "[F2]ハシゴができたぞ！<FA>",
+   "ko": "[F2]사다리가 생겼다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 51,
+   "src": "557efdf42d002a1f0f0137e3f8224b13fd96073afd26121f2502e3fb",
+   "jp": "カギ穴があるみたいだ。<F8>\nもっと近くで見てみよう。<FB>",
+   "ko": "열쇠 구멍이 있는 것 같아.<F8>\n좀 더 가까이서 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 52,
+   "src": "f8f0f0f0f0224b13fd96073afd26121f2502e3fb",
+   "jp": "<F8>\n　　　　もっと近くで見てみよう。<FB>",
+   "ko": "<F8>\n　　　　좀 더 가까이서 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 53,
+   "src": "f85be5e59fe5e5dffb",
+   "jp": "<F8>\nシ～～ン～～！<FB>",
+   "ko": "<F8>\n조~~용~~!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 54,
+   "src": "144f05104e4b13102d021f0f01e3f8fc0218020b2c15d7fd3d3a14283c140113fd54fcb33714e3fa",
+   "jp": "なんかちょっとちがうみたい。<F8>\n箱のうしろに３人でならばないと無理だな。<FA>",
+   "ko": "뭔가 좀 다른 것 같아.<F8>\n상자 뒤에 셋이 나란히 서지 않으면 무리야.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 55,
+   "src": "0a4b061e3a19fd54054b0f250237083be1e1e1e1e1e3f80918fd4815fd48fd622d012a180514dee1e1e1e1e1fb",
+   "jp": "さっきまでは無かったようだけど・・・・・。<F8>\nこの先に先生がいるのかな？・・・・・<FB>",
+   "ko": "아까까지는 없었던 것 같은데…….<F8>\n이 앞에 선생님이 계시는 걸까?……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 56,
+   "src": "fda74b0f28fd9c060e0237083be1e1e1f8fdcc060a05281f12fd33fd3dfda72937144be3fb",
+   "jp": "乗ったら動きそうだけど・・・<F8>\n大きさからみて一人乗りだなっ。<FB>",
+   "ko": "올라타면 움직일 것 같은데……<F8>\n크기로 봐서 1인용이네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 57,
+   "src": "fd7dfd7e13e25c92e08b2d002adff8094f14637c9b5915044b05081e260a2b0f28f9d7fd3d014b0b4e1428fcb730062b14011401372c0214e5e3fb",
+   "jp": "以外と、スピードがある！<F8>\nこんなトロッコにおっかけまわされたら[F9]３人いっしょなら逃げきれないないだろうな～。<FB>",
+   "ko": "의외로 속도가 빨라!<F8>\n이런 광차한테 쫓기면[F9]셋이 같이 있으면 도망치지 못하겠는걸~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 58,
+   "src": "3a22e259591e3a3b02234b12010718372c02e1e1e1defb",
+   "jp": "でも、ココまでどうやっていくのだろう・・・？<FB>",
+   "ko": "그런데, 여기까지 어떻게 가는 거지……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 59,
+   "src": "fd26122c25fc2cfd40fc2de2092b3a220728034bdffa",
+   "jp": "見てろよ保安官、これでもくらえっ！<FA>",
+   "ko": "잘 봐라 보안관, 이거나 먹어랏!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 60,
+   "src": "09181e1efdce4b414b0f28e2f83a2b1407144b104c0225e5dffb",
+   "jp": "このまま引っぱったら、<F8>\nでれなくなっちゃうよ～！<FB>",
+   "ko": "이대로 잡아당기면,<F8>\n못 나오게 돼 버려~!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 61,
+   "src": "034be2fde0fcb3fd3d2dfca0fd2f374b0f4b12def804050b011446defd8d18fde0fcb3fd3d19fd64141815dff90e0205e20e01112dfd8dfd3d153c0812040e262b0f1805dffb",
+   "jp": "えっ、管理人が植物だったって？<F8>\nおかしいなぁ？村の管理人は私なのに！[F9]そうか、そいつが村人にばけておそわれたのか！<FB>",
+   "ko": "뭐, 관리인이 식물이었다고?<F8>\n이상하네? 마을 관리인은 나인데![F9]그렇군, 그 녀석이 마을 사람으로 둔갑해서<F8>\n너희를 습격한 거구나!<FB>",
+   "state": "needs_human_review",
+   "note": "「そいつが村人にばけておそわれたのか」를 '둔갑한 녀석에게 습격당했다'로 해석.",
+   "question": ""
+  },
+  {
+   "id": 62,
+   "src": "52569b56e2565151e0f8fc1bfc1afd6812f009091e3af0fd1d07dffd1d07dffb",
+   "jp": "ウキッキ、キイイー<F8>\n訳：来て　ここまで　早く！早く！<FB>",
+   "ko": "우끼끼, 끼이이ー<F8>\n번역: 와라　여기까지　빨리! 빨리!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 63,
+   "src": "fd6419fd49fc1919e2fdaefc3f0f1015e2fd3d18fd50fd2e102d26052af8230a0b01fd4127fd2e11091327fd7103282b2a250214f9fd48fd6215142afd552d7471374b0f18e3fb",
+   "jp": "私は本当は、子供たちに、人の気持ちがわかる<F8>\nやさしい心を持つことを教えられるような[F9]先生になる事がユメだったの。<FB>",
+   "ko": "난 사실, 아이들에게 남의 마음을 이해하는<F8>\n상냥한 마음을 갖도록 가르칠 수 있는[F9]선생님이 되는 게 꿈이었어.<FB>",
+   "state": "needs_human_review",
+   "note": "화자 불명(context 4.5: 시스코 또는 벤슨 부인 추정). 상냥한 여성 반말로 처리.",
+   "question": "",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문(0063–0064 화자). 권고: 「선생님이 되는 게 꿈」+「옛날과 변하지 않았다」로 보아 어른이 된 시스코(제2장 엔딩, 학교 선생님)로 판단. 상냥한 여성 반말인 초벌 유지."
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "src": "3a22fd41fde20b14013ae2fd6419fd9a13104b1322f8fdaa264b1214010528e1e1e11d28567b513a0b4edffb",
+   "jp": "でも心配しないで、私は昔とちっとも<F8>\n変わってないから・・・ほらキレイでしょ！<FB>",
+   "ko": "하지만 걱정하지 마, 나는 옛날과 조금도<F8>\n변하지 않았으니까…… 봐, 예쁘지?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "0063–0064 화자 불명(시스코/벤슨 부인 추정). 화자가 정해지면 말투 조정 필요.",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "0063과 같은 화자(시스코 추정). 초벌 말투 유지 권고."
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "src": "fd1615182b0e0237dffb",
+   "jp": "上にのれそうだ！<FB>",
+   "ko": "위에 올라탈 수 있을 것 같아!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 66,
+   "src": "f5021a529b56e0dfdff01e0ffd6812dff005142834e1e1e1e1e3fb",
+   "jp": "[F5021A]ウッキー！！　また来て！　かならず・・・・。<FB>",
+   "ko": "[F5021A]우끼ー!! 또 와! 꼭……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 67,
+   "src": "3b02234b0f28fd0f074f372c02e1e1e1defb",
+   "jp": "どうやったら開くんだろう・・・？<FB>",
+   "ko": "어떻게 하면 열리는 걸까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 68,
+   "src": "14e54f1217dff83b022328949f5618250237083be1e1e1f9fd053a094f14fd2a15e1e1e1defb",
+   "jp": "な～んてね！<F8>\nどうやらペンキのようだけど・・・[F9]何でこんな所に・・・？<FB>",
+   "ko": "농~담이야!<F8>\n아무래도 페인트 같은데……[F9]왜 이런 곳에……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 69,
+   "src": "6b81e26b816b81e26b8181e3f8fc1bfc1ae1e1e1e1fd3c4b122a25e3547b18fc282c15002afd2f2df9f0f0fc040b014f372cdefe69f6f0f00e2b1428547b13fc7ffcc537e33b020c2adefe6af6f0f0f0f0f0f0232a25e3f6f0f0f0f0f0f0034f294e0b13061e0ce3fe68fa",
+   "jp": "フゴ、フゴフゴ、フゴゴ。<F8>\n訳：・・・・知ってるよ。オレの後ろにある物が[F9]　　欲しいんだろ？[FE69][F6]　　それならオレと勝負だ。どうする？[FE6A][F6]　　　　　　やるよ。[F6]　　　　　　えんりょしときます。[FE68]<FA>",
+   "ko": "푸고, 푸고푸고, 푸고고.<F8>\n번역: ……알고 있어. 내 뒤에 있는 물건이[F9]　　갖고 싶은 거지?[FE69][F6]　　그럼 나랑 승부다. 어떻게 할래?[FE6A][F6]　　　　　　할게.[F6]　　　　　　사양할게요.[FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 70,
+   "src": "6b81df6b816b81e26b8181e3f8fc1bfc1a250be2fd4207fdeb0825e37ae07a19054f0f4f37e3f9f0f0547b1814263c2927fe6d22fce00b12fe69f6f0f0fd481581e07a0b0f1d0218fc7f1037e3f6f0f0547b19230a0b01052814e2699f8a27110812232af6f0f004fd9f0528fd48155c5fe0630b14e3fa",
+   "jp": "フゴ！フゴフゴ、フゴゴ。<F8>\n訳：よし、良く聞けよ。ルールはかんたんだ。[F9]　　オレのなわばりを[FE6D22]周して[FE69][F6]　　先にゴールしたほうの勝ちだ。[F6]　　オレはやさしいからな、ハンデをつけてやる[F6]　　お前から先にスタートしな。<FA>",
+   "ko": "푸고! 푸고푸고, 푸고고.<F8>\n번역: 좋아, 잘 들어. 규칙은 간단해.[F9]　　내 구역을 [FE6D22]바퀴 돌아서[FE69][F6]　　먼저 골인하는 쪽이 이기는 거다.[F6]　　난 착하니까, 핸디캡을 주지.[F6]　　너부터 먼저 출발해라.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 71,
+   "src": "144f05104e4b13102d021f0f01e3f87b8ce0181e262915d7fd3d3a8c789f5cfd4207f9fc9a0f140113fdc30d140114e3fb",
+   "jp": "なんかちょっとちがうみたい。<F8>\nレバーのまわりに３人でバランス良く[F9]立たないと回せないな。<FB>",
+   "ko": "뭔가 좀 다른 것 같아.<F8>\n레버 주위에 셋이 균형 있게[F9]서지 않으면 못 돌리겠어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 72,
+   "src": "144f05104e4b13102d021f0f01e3f8fd5dfde018fd9f1506104f1314283c14011337213714e3fb",
+   "jp": "なんかちょっとちがうみたい。<F8>\n土管の前にきちんとならばないとだめだな。<FB>",
+   "ko": "뭔가 좀 다른 것 같아.<F8>\n토관 앞에 똑바로 나란히 서야겠어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 73,
+   "src": "094f151019e21b134b104e0a4fe3f81b134b104e5f51934b12e2fd6418fde61f1418e3f9fd6b01fc2e1514290e02370528252c0b0717e3fa",
+   "jp": "こんにちは、ふとっちょさん。<F8>\nふとっちょタイプって、私の好みなの。[F9]長い旅になりそうだからよろしくね。<FA>",
+   "ko": "안녕, 뚱보 씨.<F8>\n뚱보 타입이 내 취향이거든.[F9]긴 여행이 될 것 같으니까 잘 부탁해.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 74,
+   "src": "fe6af840072818fc35fdc52f280118fdcc060a18fc5b18fdae37e3fb",
+   "jp": "[FE6A]<F8>\nぼくらの親指ぐらいの大きさの女の子だ。<FB>",
+   "ko": "[FE6A]<F8>\n우리 엄지손가락만 한 여자아이다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 75,
+   "src": "f2fd3efd3d189579e02dfd09fd0a15144b0fdedff890572818fd072b1401fd3e0a1413092c3a051123070b12f9072b0e0237e3104e4b13e2262d1e1e37083be1e1e1e3fa",
+   "jp": "[F2]小人のポリーが仲間になった？！<F8>\nボクらの入れない小さなところでかつやくして[F9]くれそうだ。ちょっと、わがままだけど・・・。<FA>",
+   "ko": "[F2]소인 폴리가 동료가 되었다?!<F8>\n우리가 못 들어가는 작은 곳에서 활약해[F9]줄 것 같다. 좀 제멋대로지만……<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 76,
+   "src": "fe6d1a60e070181f4f141ce3fc44fdcb0b122adef83b022328e29057198370fc67273105010b12010f2502f93a0ce3fe69f6fd48fd622d0a28262b120528188370fc6718fd51fd9c19f6331115fcb3fca8fca43a0b0fe3f6fc670f102dfd954b120914010913271836083cfe69f690572818134b0ffd51fd9c19fc460b0113fd3b4b121e0ce3f6fc670f1022e295795c181302104c0727fdfc1105f6144f3a2201010528fda627fd26110812fe69f60e18fd74270c2f15fd312a05e2d61115d5113a0cf6fda9fd692701184b121e0ce3f6f0f0f0f0f0f0f0f0f0f0f0f0f0224b13fc44fdcb0b1217e3fb",
+   "jp": "[FE6D1A]チームのみんなへ。勉強してる？<F8>\nどうやら、ボクはジム君をごかいしていたよう[F9]です。[FE69][F6]先生がさらわれてからのジム君の行動は[F6]じつに理論的でした。[F6]君たちが帰ってこないことをのぞけば[FE69][F6]ボクらのとった行動は正しいと思ってます。[F6]君たちも、ポリスのとうちゃくを待つか[F6]なんでもいいから船を見つけて[FE69][F6]その島をすぐに出るか、２つに１つです[F6]幸運をいのってます。[F6]　　　　　　　　　　　　　もっと勉強してね。<FB>",
+   "ko": "[FE6D1A] 팀 모두에게. 공부하고 있나요?<F8>\n아무래도 저는 짐을 오해하고 있었던 것[F9]같습니다.[FE69][F6]선생님이 납치된 뒤 짐의 행동은[F6]실로 논리적이었습니다.[F6]여러분이 돌아오지 않은 것만 빼면[FE69][F6]우리가 한 행동은 옳았다고 생각합니다.[F6]여러분도 경찰이 오기를 기다리든지[F6]아무 배라도 찾아서[FE69][F6]그 섬을 바로 떠나든지, 둘 중 하나입니다[F6]행운을 빕니다.[F6]　　　　　　　　　　　　　좀 더 공부하세요.<FB>",
+   "state": "needs_human_review",
+   "note": "공부벌레(ガリベン君)의 편지. 맺음말 「もっと勉強してね」는 그의 말버릇.",
+   "question": ""
+  },
+  {
+   "id": 77,
+   "src": "fe6af8f0f0f0f0fddd18fddefd943afd05052dfd9c01122adfdffb",
+   "jp": "[FE6A]<F8>\n　　　　木の根元で何かが動いてる！！<FB>",
+   "ko": "[FE6A]<F8>\n　　　나무 밑동에서 뭔가 움직이고 있어!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 78,
+   "src": "8c5298e598e28c52e28c52e28c5298e598e3f8fc1bfc1a144f05012ae3f0fd924b12232ae2fd924b12232ae3f9f0f0839c6e0c2a231122fd924b12232ae3fb",
+   "jp": "バウゥ～ゥ、バウ、バウ、バウゥ～ゥ。<F8>\n訳：なんかいる。　食ってやる、食ってやる。[F9]　　ジャマするやつも食ってやる。<FB>",
+   "ko": "와우우~우, 왈, 왈, 와우우~우.<F8>\n번역: 뭔가 있다.　먹어 주마, 먹어 주마.[F9]　　방해하는 녀석도 먹어 주마.<FB>",
+   "state": "needs_human_review",
+   "note": "0081 「大きな犬」로 보아 개의 대사로 처리.",
+   "question": ""
+  },
+  {
+   "id": 79,
+   "src": "374b0f28e2fcfb013a0a4b0618fdc727fd26110812f809090528fd312a4f37dff9fd1d07f0fd1d07dffa",
+   "jp": "だったら、急いでさっきの玉を見つけて<F8>\nここから出るんだ！[F9]早く　早く！<FA>",
+   "ko": "그럼, 서둘러 아까 그 구슬을 찾아서<F8>\n여기서 나가는 거야![F9]빨리　빨리!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 80,
+   "src": "927c9bde929797e3f8fc1bfc1a3b020b0f18def00e4f142329fd11334c87713725e3f9f0f0d7fd3d3a224b13f45318fd96071514283e4f37e3fb",
+   "jp": "ピロッ？ピィィ。<F8>\n訳：どうしたの？　そんなやり方じゃダメだよ。[F9]　　３人でもっと台の近くにならぶんだ。<FB>",
+   "ko": "삐롯? 삐이이.<F8>\n번역: 왜 그래? 그렇게 하면 안 돼.[F9]　　셋이서 좀 더 받침대 가까이 서는 거야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 81,
+   "src": "090915012a131e0ffdcc0614fddc2d234b12072a05220b2bf814010be1e104fda215014b0b4e151101124b1200302ae3f90e0217e1e1e1d5fc531b134b104e18fdae2d010126e3fa",
+   "jp": "ここにいるとまた大きな犬がやってくるかもしれ<F8>\nないし・・お礼にいっしょについてってあげる。[F9]そうね・・・１番ふとっちょの子がいいわ。<FA>",
+   "ko": "여기 있으면 또 큰 개가 올지도 모르고……<F8>\n고마우니까 같이 따라가 줄게.[F9]그래…… 제일 뚱뚱한 애가 좋겠어.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 82,
+   "src": "2202df7b8a97e01519332705050d2a112229def8224b13fd960715fd6812072b14064ce211011208140126e3fb",
+   "jp": "もう！レディーにはじをかかせるつもり？<F8>\nもっと近くに来てくれなきゃ、ついてけないわ。<FB>",
+   "ko": "정말! 숙녀를 창피하게 만들 셈이야?<F8>\n더 가까이 오지 않으면 따라갈 수 없잖아.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 83,
+   "src": "fe6a1be04be32202fdb80b3afd923f282b104c021309374b0f26f800292d1302e2fcc1fd3d0a4f0f10e3f91933211e0b12e2fd64e29579e04b12fd100218e3fa",
+   "jp": "[FE6A]ふーっ。もう少しで食べられちゃうとこだったわ<F8>\nありがとう、巨人さんたち。[F9]はじめまして、私、ポリーって言うの。<FA>",
+   "ko": "[FE6A]휴우. 하마터면 잡아먹힐 뻔했어<F8>\n고마워, 거인 씨들.[F9]만나서 반가워, 나는 폴리라고 해.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 84,
+   "src": "1e121e12e2d7fd3d2d0918ebfda4150e2c4b1201140113f8fda627fc64fde10a0d2a0913193a064f36e3f91d0518fd1b220918ebfda415112b12fd682a18334ce3fb",
+   "jp": "まてまて、３人がこの部屋にそろっていないと<F8>\n船を停止させることはできんぞ。[F9]ほかの者もこの部屋につれて来るのじゃ。<FB>",
+   "ko": "기다려라, 셋이 이 방에 모여 있지 않으면<F8>\n배를 멈출 수 없느니라.[F9]다른 아이들도 이 방으로 데려오너라.<FB>",
+   "state": "needs_human_review",
+   "note": "배 위의 노인(ワシ/～じゃ) 화자. 장로로 추정해 ~느니라 말투.",
+   "question": ""
+  },
+  {
+   "id": 85,
+   "src": "f8fddd18fddefd9415fd0505012a180514defa",
+   "jp": "<F8>\n木の根元に何かいるのかな？<FA>",
+   "ko": "<F8>\n나무 밑동에 뭔가 있는 걸까?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 86,
+   "src": "f8fd3e0a14fdb400132dfddd18fddefd94181d021e3afcbb01122ae3fa",
+   "jp": "<F8>\n小さな足あとが木の根元のほうまで続いてる。<FA>",
+   "ko": "<F8>\n작은 발자국이 나무 밑동까지 이어져 있어.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 87,
+   "src": "f82202e2fd0522140a0e0237dfdffb",
+   "jp": "<F8>\nもう、何もなさそうだ！！<FB>",
+   "ko": "<F8>\n이제, 아무것도 없는 것 같아!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 88,
+   "src": "3b0915e211142d4b12012a4f372c02e1e1e1defb",
+   "jp": "どこに、つながっているんだろう・・・？<FB>",
+   "ko": "어디로, 이어져 있는 걸까……?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 89,
+   "src": "fe6a25e50bdff01f4f143afd4e2700260d122d4f3c2c02dffa",
+   "jp": "[FE6A]よ～し！　みんなで力をあわせてがんばろう！<FA>",
+   "ko": "[FE6A]좋~아! 모두 힘을 합쳐서 힘내자!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 90,
+   "src": "144f3a0b4e02def8905719fd0522fd3c291e0de54fe3fb",
+   "jp": "なんでしょう？<F8>\nボクは何も知りませ～ん。<FB>",
+   "ko": "뭘까요?<F8>\n저는 아무것도 몰라요~.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 91,
+   "src": "04220b2c054b0f3a0b4ee304094b104c233725e3fb",
+   "jp": "おもしろかったでしょ。おこっちゃやだよ。<FB>",
+   "ko": "재미있었지? 화내기 없기다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 92,
+   "src": "f8f0f0f0f0004f1e298e7a13191512140114e3fb",
+   "jp": "<F8>\n　　　　あんまりブルとはにてないな。<FB>",
+   "ko": "<F8>\n　　　　불하고는 별로 안 닮았네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 93,
+   "src": "5256569bf8fc1bfc1afcecfcea18fddd18fddefd94f0b2aeb2f0fdda0812003012fb",
+   "jp": "ウキキッ<F8>\n訳：北西の木の根元　ＳＯＳ　助けてあげて<FB>",
+   "ko": "우끼끼<F8>\n번역: 북서쪽 나무 밑동　SOS　도와줘라<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 94,
+   "src": "064b13e2fda3223b02071118fd0415012a15fc14011401dff8144f13050b14082b3cdfdffb",
+   "jp": "きっと、今もどうくつの中にいるに違いない！<F8>\nなんとかしなければ！！<FB>",
+   "ko": "분명, 지금도 동굴 안에 있을 거야!<F8>\n어떻게든 해야 해!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 95,
+   "src": "092b3a1e0fe2010154517a2d132b2a372c02e3fb",
+   "jp": "これでまた、いいオイルがとれるだろう。<FB>",
+   "ko": "이제 다시 좋은 오일을 얻을 수 있겠지.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 96,
+   "src": "927c7c9a9ade927c9b9254f8fc1bfc1a002b4bdee1e1e1e13b020b0f180af9f0f05f516f9f7ffd9b4b12140125e32202d5fdc3232a25e3fa",
+   "jp": "ピロロォォ？ピロッピオ<F8>\n訳：あれっ？・・・・どうしたのさ[F9]　　タイミング合ってないよ。もう１回やるよ。<FA>",
+   "ko": "삐로로오오? 삐롯삐오<F8>\n번역: 어라? ……왜 그래[F9]　　타이밍이 안 맞잖아. 한 번 더 할게.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 97,
+   "src": "7d7005569c9f8a97e005e1e1e1e1e1e1e1e1e1e1e1e3fb",
+   "jp": "ガムかキャンディーか・・・・・・・・・・・。<FB>",
+   "ko": "껌일까 사탕일까…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 98,
+   "src": "090111e21e37fd923f12234f18dffb",
+   "jp": "こいつ、まだ食べてやんの！<FB>",
+   "ko": "이 녀석, 아직도 먹고 있네!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 99,
+   "src": "d4fcc2d4fd37f8d7fd3d18745256002afdb8fd6dfde415fd8d190c07262b0fe3f9144f3a22fdb8fd6dfde419e2fd48fd6227fdda082a0f2115fe69f6fc2e270b12012a280b01e3f6fc7b282de2fd1d07fd48fd6215ee032a091327f6fd410528fc394b12012ae3f0f0f0f0f0f0f0f0e05c6f5ce0fb",
+   "jp": "０月０日<F8>\n３人のユウキある少年達に村はすくわれた。[F9]なんでも少年達は、先生を助けるために[FE69][F6]旅をしているらしい。[F6]彼らが、早く先生に会えることを[F6]心から願っている。　　　　　　　　ースミスー<FB>",
+   "ko": "0월 0일<F8>\n용기 있는 세 소년이 마을을 구했다.[F9]듣자 하니 소년들은 선생님을 구하기 위해[FE69][F6]여행을 하고 있다고 한다.[F6]그들이 하루빨리 선생님을 만나기를[F6]진심으로 바란다.　　　　　　　　ー스미스ー<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 100,
+   "src": "f8789b577c9b572de2fdb429140125e5dffb",
+   "jp": "<F8>\nラックロックが、足りないよ～！<FB>",
+   "ko": "<F8>\n럭록이 모자라~!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 101,
+   "src": "fe6af5030cf8f0f0f0f0f0fd52fdeafd04e1e1e1e1e1e13725dffa",
+   "jp": "[FE6A][F5030C]<F8>\n　　　　　録音中・・・・・・だよ！<FA>",
+   "ko": "[FE6A][F5030C]<F8>\n　　　　　녹음 중……이야!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 102,
+   "src": "d5fc1afc101855517d78f8fc1015002a55517d7815195079250818fc80fc852d002af9280b01e3fb",
+   "jp": "１：森のカイガラ<F8>\n森にあるカイガラにはアリよけの効果がある[F9]らしい。<FB>",
+   "ko": "1: 숲의 조개껍데기<F8>\n숲에 있는 조개껍데기에는 개미를 쫓는 효과가[F9]있다고 한다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 103,
+   "src": "d6fc1afc4a180b3407f8509f638c5c5fe018fc5c15142afcb5fc91e3f9001ee5010504292d5079271d4f2c020c2ae3fb",
+   "jp": "２：金のしずく<F8>\nアントバスターの主になる材料。[F9]あま～いかおりがアリをほんろうする。<FB>",
+   "ko": "2: 금빛 이슬<F8>\n앤트버스터의 주재료.[F9]달~콤한 향기로 개미를 홀린다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 104,
+   "src": "8b577c18fd43270b12012a083be2f8224b13fd960715252814011326052814011400defb",
+   "jp": "ドクロの形をしているけど、<F8>\nもっと近くによらないとわからないなあ？<FB>",
+   "ko": "해골 모양을 하고 있지만,<F8>\n더 가까이 가지 않으면 모르겠는걸?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 105,
+   "src": "767df05d515b9d9f65f05751645bdffb",
+   "jp": "ワガ　セイシュンニ　クイナシ！<FB>",
+   "ko": "내　청춘에　후회　없다!<FB>",
+   "state": "needs_human_review",
+   "note": "용어집 T212 「내 청춘에 후회 없다!」. 로봇 가타카나 말투라 원문처럼 전각 공백으로 띄움.",
+   "question": ""
+  },
+  {
+   "id": 106,
+   "src": "e1e1e1e1e1927ce2927c7c7cf8fc1bfc1ae1e1e1e12229fd162d4b122a13093afd6a01083b17f9f0f01e37fd13264b1214014f37e1e1e1e1e1e3fa",
+   "jp": "・・・・・ピロ、ピロロロ<F8>\n訳：・・・・もり上がってるとこで悪いけどね[F9]　　まだ終わってないんだ・・・・・。<FA>",
+   "ko": "……삐로, 삐로로로<F8>\n번역: ……분위기 좋은데 미안하지만[F9]　　아직 안 끝났어…….<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 107,
+   "src": "fd1d07e21a2c2614071219e1e1e1e3fb",
+   "jp": "早く、ひろわなくては・・・。<FB>",
+   "ko": "빨리, 주워야 해…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 108,
+   "src": "d7fc1a55537a185b9b95f8545f6e839c575b18667a667a19507918224b1322f9152d12147268280b01e3fb",
+   "jp": "３：カエルのシッポ<F8>\nオタマジャクシのヌルヌルはアリのもっとも[F9]にがてなモノらしい。<FB>",
+   "ko": "3: 개구리 꼬리<F8>\n올챙이의 미끈미끈함은 개미가 가장[F9]싫어하는 것이라고 한다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 109,
+   "src": "034bdef01e37d5fd3dfd0415012a4b12dedff8fd4a011206104c4b0f180501defe69f6e1e1e1e1e1e10b4e022d1401dff6090919e2fd3b01064b0f0913270b14011387713714e3f604e001dfdf104e4b13fd06fca74b12072b25dffa",
+   "jp": "えっ？　まだ１人中にいるって？！<F8>\n置いてきちゃったのかい？[FE69][F6]・・・・・・しょうがない！[F6]ここは、思いきったことをしないとダメだな。[F6]おーい！！ちょっと手伝ってくれよ！<FA>",
+   "ko": "뭐? 아직 한 명이 안에 있다고?!<F8>\n두고 와 버린 거야?[FE69][F6]……어쩔 수 없지![F6]여기선 과감한 방법을 쓸 수밖에 없겠어.[F6]어이!! 좀 도와줘!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 110,
+   "src": "e1e1e1e1e1e1e1e1e1004f0f0f1018fd9e0b122a72682df8fd6418fcc715004b12fd42054b0fe3fe69f61e0fe20018fd7415223b2a4f3a0b4edef63e3315004f0f0f1018fd48fd622dfd2611052a1827f6f4334b122a26e3fe69f6f6f0f0f0f0f0f0334c17e3fa",
+   "jp": "・・・・・・・・・あんたたちの探してるモノが<F8>\n私の国にあって良かった。[FE69][F6]また、あの島にもどるんでしょ？[F6]ぶじにあんたたちの先生が見つかるのを[F6]祈ってるわ。[FE69][F6][F6]　　　　　　じゃね。<FA>",
+   "ko": "……너희가 찾던 물건이<F8>\n우리 나라에 있어서 다행이야.[FE69][F6]또 그 섬으로 돌아가는 거지?[F6]너희 선생님을 무사히 찾기를[F6]빌게.[FE69][F6][F6]　　　　　　그럼 안녕.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 111,
+   "src": "e1e1e1e1144f13df0e2b191e091305dff809020b121904282b4fe2fcc027e2fcc027fdda08173cdffa",
+   "jp": "・・・・なんと！それはまことか！<F8>\nこうしてはおられん、姫を、姫を助けねば！<FA>",
+   "ko": "……뭐라! 그게 정말이냐!<F8>\n가만있을 수 없다, 공주를, 공주를 구해야!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 112,
+   "src": "fc2e18fd1b25e30918fd6d25292700262b13fd3b262b2a1428f8765b180b0ffd45fda218fdbdfd8127fd3815142d0bf9fcc027fdda0815fd514b1219072b1e0105defa",
+   "jp": "旅の者よ。この年よりをあわれと思われるなら<F8>\nワシのした失礼の数々を水にながし[F9]姫を助けに行ってはくれまいか？<FA>",
+   "ko": "나그네여. 이 늙은이가 가엾다고 생각한다면<F8>\n내가 저지른 수많은 무례를 용서하고[F9]공주를 구하러 가 주지 않겠는가?<FA>",
+   "state": "needs_human_review",
+   "note": "0111–0116 화자는 노인 말투(ワシ/～じゃ). 국왕 또는 하잔으로 보임(0115–0116은 감옥 안 하잔으로 추정).",
+   "question": ""
+  },
+  {
+   "id": 113,
+   "src": "e1e1e1e1e1e1e1fd05df0e0205dffd514b12072b2a05dff80a0c2de2765b181f094f37fd1b0f10334ce3f90a00e2092b27fd2e4b12fd51072d0101e3fa",
+   "jp": "・・・・・・・何！そうか！行ってくれるか！<F8>\nさすが、ワシのみこんだ者たちじゃ。[F9]さあ、これを持って行くがいい。<FA>",
+   "ko": "……뭐라! 그런가! 가 주겠는가!<F8>\n역시, 내가 눈여겨본 자들이로다.[F9]자, 이것을 가지고 가거라.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 114,
+   "src": "f20b210b21e2092b3afd4815fd56212a36dffa",
+   "jp": "[F2]しめしめ、これで先に進めるぞ！<FA>",
+   "ko": "[F2]옳거니, 이걸로 앞으로 갈 수 있겠다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 115,
+   "src": "fc8818fc5205291811010f8e7c9b5718fd1615fd5705fda74b12f87c527327fd040528fdb5212a18334ce3fa",
+   "jp": "奥の明かりのついたブロックの上に誰か乗って<F8>\nロウヤを中から閉めるのじゃ。<FA>",
+   "ko": "안쪽의 불 켜진 블록 위에 누군가 올라가서<F8>\n감옥 문을 안에서 닫게나.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "안쪽의 불 켜진 블록 위에 누군가 올라가서<F8>\n감옥 문을 안에서 닫게나.<FA>",
+     "reason": "감옥 블록 설명은 0453과 같은 장면으로 하잔의 대사(2096 「하잔 님께서 말씀하신 대로」). §7 하잔 말투 `~구먼/~네` 적용. (0111–0113은 「年より」「ワシのした失礼」로 보아 국왕으로 판단, 초벌 유지)"
+    }
+   ],
+   "draft_ko": "안쪽의 불 켜진 블록 위에 누군가 올라가서<F8>\n감옥 문을 안에서 닫거라.<FA>"
+  },
+  {
+   "id": 116,
+   "src": "765b19e22202fdb80b09093a012c012cfc8e3f121f2502e3fb",
+   "jp": "ワシは、もう少しここでいろいろ調べてみよう。<FB>",
+   "ko": "나는 여기서 좀 더 이것저것 조사해 보겠네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "나는 여기서 좀 더 이것저것 조사해 보겠네.<FB>",
+     "reason": "하잔 대사로 판단(0115와 같은 장면). §7 하잔 말투 `~구먼/~네`."
+    }
+   ],
+   "draft_ko": "나는 여기서 좀 더 이것저것 조사해 보마.<FB>"
+  },
+  {
+   "id": 117,
+   "src": "f2fdb1567b27fd0615fd072b0fdff8144f3a094f14fd2f2dfd650b12004b0f4f372c02defa",
+   "jp": "[F2]板キレを手に入れた！<F8>\nなんでこんな物が隠してあったんだろう？<FA>",
+   "ko": "[F2]판자 조각을 손에 넣었다!<F8>\n왜 이런 게 숨겨져 있었을까?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 118,
+   "src": "d8fc1afd3f18fc15f8fc1015002afd3f18fc15190e18fdcb01679f609c57fd4e3af9507918fd9c06271b02332ae3fb",
+   "jp": "４：銀の糸<F8>\n森にある銀の糸はその強いネンチャク力で[F9]アリの動きをふうじる。<FB>",
+   "ko": "4: 은실<F8>\n숲에 있는 은실은 그 강한 접착력으로[F9]개미의 움직임을 막는다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 119,
+   "src": "d9fc1afc101859e063f8fc1015fc1120fc8f2d2914fd1b1859e0631519507927fdc1280d2af9fc80fc852d002a280b01e3fb",
+   "jp": "５：森のコート<F8>\n森に住む寒がりな者のコートにはアリを弱らせる[F9]効果があるらしい。<FB>",
+   "ko": "5: 숲의 코트<F8>\n숲에 사는 추위 잘 타는 자의 코트에는 개미를[F9]약하게 하는 효과가 있다고 한다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 120,
+   "src": "3a4b0501557efdf4371446e5dff8fd062dfd07290e02142f280118fdcc060a19002ae3fb",
+   "jp": "でっかいカギ穴だなぁ～！<F8>\n手が入りそうなぐらいの大きさはある。<FB>",
+   "ko": "엄청 큰 열쇠 구멍이네~!<F8>\n손이 들어갈 만한 크기는 돼.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 121,
+   "src": "f0f0927c7c9be2927c9b927cf8fc1bfc1a09090528fd4819fd074b104c87714b12f9f0f0fd6bf43dfdc80528e2061107fd10262b122a4f37e3fe69f6f0f0001319fc670f1018fd4e3a144f13050b12072b25e3f6f0f03701334e023ee2064b13144f1305142a0ae3fa",
+   "jp": "　　ピロロッ、ピロッピロ<F8>\n訳：ここから先は入っちゃダメって[F9]　　長老様から、きつく言われてるんだ。[FE69][F6]　　あとは君たちの力でなんとかしてくれよ。[F6]　　だいじょうぶ、きっとなんとかなるさ。<FA>",
+   "ko": "　　삐로롯, 삐롯삐로<F8>\n번역: 여기서부터는 들어가면 안 된다고[F9]　　장로님께 단단히 주의를 받았거든.[FE69][F6]　　나머지는 너희 힘으로 어떻게든 해 줘.[F6]　　괜찮아, 분명 어떻게든 될 거야.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 122,
+   "src": "092b1428559f5f9f25dfdffa",
+   "jp": "これならカンタンよ！！<FA>",
+   "ko": "이 정도는 간단해!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 123,
+   "src": "0918557efdf4e2fded07125a8d3728083726e3f83a22aeaadfdff02202fdd719fd0f07193425dffa",
+   "jp": "このカギ穴、古くてサビだらけだわ。<F8>\nでもＯＫ！！　もう扉は開くはずよ！<FA>",
+   "ko": "이 열쇠 구멍, 낡아서 녹투성이네.<F8>\n하지만 OK!! 이제 문이 열릴 거야!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 124,
+   "src": "f0f0f0f0f0f0e6509f638c5c5fe0e7f8f0f0f0f091766b7adf509f8be27f7be063dff9fc7cfc1afd0dfd34fd1618fc7cfc5827fd4207fc974f3a04fd0d0107370a01e3fb",
+   "jp": "　　　　　　「アントバスター」<F8>\n　　　　パワフル！アンド、グレート！[F9]注：使用上の注意を良く読んでお使いください。<FB>",
+   "ko": "　　　　　　「앤트버스터」<F8>\n　　　　파워풀! 앤드, 그레이트![F9]주: 사용상의 주의를 잘 읽고 사용하십시오.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 125,
+   "src": "224b13fd960715fd514b121f2502e3fb",
+   "jp": "もっと近くに行ってみよう。<FB>",
+   "ko": "좀 더 가까이 가 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 126,
+   "src": "09090528334cfd062d133b05140123e33b020b2502e3fb",
+   "jp": "ここからじゃ手がとどかないや。どうしよう。<FB>",
+   "ko": "여기서는 손이 안 닿아. 어떡하지.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 127,
+   "src": "5256569bf8fc1bfc1afdd7000812f0fd48fd62fdda082afb",
+   "jp": "ウキキッ<F8>\n訳：扉あけて　先生助ける<FB>",
+   "ko": "우끼끼<F8>\n번역: 문 열어　선생님 구한다<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 128,
+   "src": "57512d334c1e0b120112e2fd9c050b0f071222f8fd9c05140114e3fb",
+   "jp": "クイがじゃましていて、動かしたくても<F8>\n動かないな。<FB>",
+   "ko": "말뚝이 방해해서, 움직이고 싶어도<F8>\n안 움직이네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 129,
+   "src": "321ee01f2cdf608dfd15fd773b22dfdff9002b4bdefe69f6fd05370525072605281401082b3be2fd5dfde02df6062b011511142d4b0f86e3fa",
+   "jp": "ざまーみろ！チビ海賊ども！！[F9]あれっ？[FE69][F6]何だかよくわからないけれど、土管が[F6]きれいにつながったゾ。<FA>",
+   "ko": "꼴좋다! 꼬마 해적 녀석들!![F9]어라?[FE69][F6]뭔지 잘 모르겠지만, 토관이[F6]깔끔하게 이어졌다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 130,
+   "src": "f5021a526df0526df8fc1bfc1a224b13fd960715fd6801e3fb",
+   "jp": "[F5021A]ウホ　ウホ<F8>\n訳：もっと近くに来い。<FB>",
+   "ko": "[F5021A]우호　우호<F8>\n번역: 더 가까이 와라.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 131,
+   "src": "402340230b120f28e2789f605f517015f8144b104c022625df0f3e4fe2fc91fcb327fdba4b12072b2af98b7c5be02dfdfc10070f3d2b122a26e32d4f3c4b1217dffb",
+   "jp": "ぼやぼやしてたら、ランチタイムに<F8>\nなっちゃうわよ！たぶん、料理を作ってくれる[F9]ドロシーが待ちくたびれてるわ。がんばってね！<FB>",
+   "ko": "꾸물거리다간 점심시간이<F8>\n되어 버릴 거야! 아마 요리를 해 줄[F9]도로시가 기다리다 지쳤을 거야. 힘내!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 132,
+   "src": "0ee5130b12040902e3fb",
+   "jp": "そ～としておこう。<FB>",
+   "ko": "살~짝 내버려 두자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 133,
+   "src": "fe6d1a60e07018fcd1fcd218fc22f464f8fde3210ffe6d3419f0f0f0f0f0f0f0f0f0fe6bfc93f9091e4b12012afd3d27fdda080ffdf319f0f0fe6cf465fe6d32130102091319e1e1e1e1e1e1e1e3fa",
+   "jp": "[FE6D1A]チームの冒険の成績<F8>\n集めた[FE6D34]は　　　　　　　　　[FE6B]個[F9]こまっている人を助けた度は　　[FE6C]％[FE6D32]ということは・・・・・・・。<FA>",
+   "ko": "[FE6D1A] 팀의 모험 성적<F8>\n모은 [FE6D34]　　　　 [FE6B]개[F9]남을 도운 정도는　[FE6C]%[FE6D32]그 말은…….<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "0133: [FE6D32] 뒤 글자가 같은 줄로 계산되어 22칸 안에 맞춤. [FE6D34]가 여기서는 리더 이름이 아니라 럭록 아이콘(약 2칸)으로 보임(뒤 정렬 공백 계산상). style.md의 「[FE6D34] 군」 규칙을 적용하지 않음. [FE6D32]도 의미 불명(페이지/정렬 코드?). 숫자 열 정렬은 화면 확인 필요.",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문: [FE6D34]가 리더 이름이 아니라 럭록 아이콘으로 쓰인 경우(「集めた○は … 個」). 권고: 초벌대로 「군」을 붙이지 않음이 맞음. 원문의 「は」는 생략됐으나 정렬상 문제없음. 숫자 열 정렬과 [FE6D32] 동작은 에뮬레이터 확인 필요."
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "src": "69829f0a4f19fc1efc9c334c1401083bf81329000334e25e7a839ce08e7ae027fd0d4b1231284f25f90f3e4fe1e1e1e1021e0701074f334c14010514defa",
+   "jp": "ハザンさんは兵士じゃないけど<F8>\nとりあえず、ソルジャーブルーを使ってごらんよ[F9]たぶん・・・・うまくいくんじゃないかな？<FA>",
+   "ko": "하잔 씨는 병사가 아니지만<F8>\n일단 솔저 블루를 써 봐[F9]아마…… 잘 되지 않을까?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 135,
+   "src": "f5021a526df0526df8fc1bfc1a789b577c9b57fe6d20fc933ae2fc7ffcc50b170305defe69f6f0f03b020c2adefe6af6f0f0f0f00b4e022d1401e3234b1200301e0b4e02dff6f0f0f0f00b140125e2525656e037dffe68fa",
+   "jp": "[F5021A]ウホ　ウホ<F8>\n訳：ラックロック[FE6D20]個で、勝負しねえか？[FE69][F6]　　どうする？[FE6A][F6]　　　　しょうがない。やってあげましょう！[F6]　　　　しないよ、ウキキーだ！[FE68]<FA>",
+   "ko": "[F5021A]우호　우호<F8>\n번역: 럭록 [FE6D20]개 걸고 한판 붙어 볼래?[FE69][F6]　　어떻게 할까?[FE6A][F6]　　　　할 수 없지. 상대해 주겠어![F6]　　　　안 해, 우끼끼ー다![FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 136,
+   "src": "1428e2e6fc45fd4ee7050812fc7ffcc537dff8839c9f589f3afcc5080f28e20f0f050d2cdff90f0f052b2a13e6fc45fd4ee71c2a0528144bdffe69f6f0f03b020c2adefe6af6f0f0f0f00e2b1428010123e3f6f0f0f0f0515f0e02370528e2539f799e0b1e0ce3fe68fa",
+   "jp": "なら、「体力」かけて勝負だ！<F8>\nジャンケンで負けたら、たたかせろ！[F9]たたかれると「体力」へるからなっ！[FE69][F6]　　どうする？[FE6A][F6]　　　　それならいいや。[F6]　　　　イタそうだから、エンリョします。[FE68]<FA>",
+   "ko": "그럼, 「체력」 걸고 승부다!<F8>\n가위바위보에서 지면, 때리게 해 줘라![F9]맞으면 「체력」이 줄어드니까 말이야![FE69][F6]　　어떻게 할까?[FE6A][F6]　　　　그거라면 좋아.[F6]　　　　아파 보이니까, 사양할게요.[FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "첫 선택지 「それならいいや」를 수락(그거라면 좋아)으로 해석. 두 번째가 거절.",
+   "question": ""
+  },
+  {
+   "id": 137,
+   "src": "fc670f1019e6134b1222134b12226ee0f45799785c14e7f8f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f060e07017e3f9f0f0f0f0f0f0f004f00bf01ef001f0dffa",
+   "jp": "君たちは「とってもとってもマーヴェラスな」<F8>\n　　　　　　　　　　　　　　　　　チームね。[F9]　　　　　　　お　し　ま　い　！<FA>",
+   "ko": "너희는 「아주아주 마벨러스한」<F8>\n　　　　　　　　　　　　　　　　팀이구나.[F9]　　　　　　　　끝　!<FA>",
+   "state": "needs_human_review",
+   "note": "평가 최상위 등급(とってもとっても). 「お　し　ま　い　！」는 용어집 T189 「끝　!」.",
+   "question": ""
+  },
+  {
+   "id": 138,
+   "src": "5256569bf8fc1bfc1a094b10f0094b10dffb",
+   "jp": "ウキキッ<F8>\n訳：こっち　こっち！<FB>",
+   "ko": "우끼끼<F8>\n번역: 이쪽　이쪽!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 139,
+   "src": "839c6e14fda82d1407144b0f86e3fa",
+   "jp": "ジャマな岩がなくなったゾ。<FA>",
+   "ko": "방해되던 바위가 없어졌다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 140,
+   "src": "002b4bdef0092b334c37211418defb",
+   "jp": "あれっ？　これじゃだめなの？<FB>",
+   "ko": "어라? 이걸로는 안 되는 거야?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 141,
+   "src": "f20404df3a4b0501699b9118fdd62d3a060f86dfdff8104e4b13fd382723290c2e0ffddf333714e3fb",
+   "jp": "[F2]おお！でっかいハッパの橋ができたゾ！！<F8>\nちょっと水をやりすぎた感じだな。<FB>",
+   "ko": "[F2]오오! 엄청 큰 잎사귀 다리가 생겼다!!<F8>\n물을 좀 너무 많이 준 것 같네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 142,
+   "src": "5b9b5579e2599f637ce07ae25b6257875a51dfdffb",
+   "jp": "シッカリ、コントロール、シテクダサイ！！<FB>",
+   "ko": "확실히,　컨트롤,　해　주십시오!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 143,
+   "src": "4fdef0fda818fd0a052855852d1b01122a86e3fb",
+   "jp": "ん？　岩の間からカゼがふいてるゾ。<FB>",
+   "ko": "응? 바위 틈에서 바람이 불어오고 있어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 144,
+   "src": "6b81e26b816b8181e3f8fc1bfc1ae1e1e1fd3c4b122a25e3f9f0f09057fdc818fc282c18fd2f2dfc040b01183a0b4edefe69f6f0f00e2b1428fc7ffcc53725e33b020c2adefe6af6f0f0f0f0f0f0232a25e3f6f0f0f0f0f0f0034f294e0b13061e0ce3fe68fa",
+   "jp": "フゴ、フゴフゴゴ。<F8>\n訳：・・・知ってるよ。[F9]　　ボク様の後ろの物が欲しいのでしょ？[FE69][F6]　　それなら勝負だよ。どうする？[FE6A][F6]　　　　　　やるよ。[F6]　　　　　　えんりょしときます。[FE68]<FA>",
+   "ko": "푸고, 푸고푸고고.<F8>\n번역: ……알고 있어.[F9]　　본 님 뒤에 있는 물건이 갖고 싶은 거지?[FE69][F6]　　그럼 승부야. 어떻게 할래?[FE6A][F6]　　　　　　할게.[F6]　　　　　　사양할게요.[FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "막내 거미 본의 1인칭 「ボク様」를 「본 님」으로 처리(0189, 0191, 0200과 통일). 첫째 반 등의 「オレ様」는 「이 몸」.",
+   "question": ""
+  },
+  {
+   "id": 145,
+   "src": "765b22fd62fd2ffc94fd1b18190b072b334cdff8090919e2fd8dfd3d180f2115fd33f43116013a1f2a051802e3f9fda318765b19e1e1e1fe69f6e6034ffcbfe71f0f01334c2cdffb",
+   "jp": "ワシも生物学者のはしくれじゃ！<F8>\nここは、村人のために一肌ぬいでみるかのう。[F9]今のワシは・・・[FE69][F6]「えん歌」みたいじゃろ！<FB>",
+   "ko": "나도 명색이 생물학자라네!<F8>\n여기선 마을 사람들을 위해 한번 나서 볼까.[F9]지금의 나는……[FE69][F6]「구원 투수」 같지 않은가!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "「えん歌」(演歌+援=돕는 노래로 보이는 말장난)를 「구원 투수」(돕기 위해 등판)로 각색. 대안: 「응원가」, 「구원의 노래」.",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문: 「えん歌」(演歌+援) 말장난을 「구원 투수」로 각색. 권고: 「구원 투수」 채택(돕는다는 뜻과 「~같지 않은가」 자랑조가 함께 살아남). 「응원가」는 차선."
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "src": "fd041572683a22fc4c130b0f28fdccfdaa37e1e1dff8557efdf415fd072a726819e2557e3c05291319557e281401f9144f12e25b9c7b122afd0cfd9b334c140105e1e1e1fb",
+   "jp": "中にモノでも落としたら大変だ・・！<F8>\nカギ穴に入るモノは、カギばかりとはカギらない[F9]なんて、シャレてる場合じゃないか・・・<FB>",
+   "ko": "안에 뭐라도 떨어뜨리면 큰일이야……!<F8>\n열쇠 구멍엔 열쇠만 들어가란 법은 없쇠~[F9]…… 같은 말장난할 때가 아닌가……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "「カギばかりとはカギらない」(カギ=열쇠/限らない 동음) 말장난을 「없쇠~」(열쇠의 '쇠')로 각색. 대안: 말장난 없이 직역.",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문: 「カギばかりとはカギらない」→「열쇠만 들어가란 법은 없쇠~」. 권고: 채택(말장난 유지, 뒤의 「같은 말장난할 때가 아닌가」와 맞물림)."
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "src": "529b56e2529b56df529b56e3f8fc1bfc1a37013314fd3de2fd2611052ae2064b13dffb",
+   "jp": "ウッキ、ウッキ！ウッキ。<F8>\n訳：だいじな人、見つかる、きっと！<FB>",
+   "ko": "우끼, 우끼! 우끼.<F8>\n번역: 소중한 사람, 찾는다, 꼭!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 148,
+   "src": "e1e1e1e1e16f8b79f068f05f55788c59f077f05a7d5df85f55788c59f069f0839d9f8c9ff065f06a7857f95a5181f068f0557ef07df0638d78f068f0557ef087f0fe69f65f55788c59f069f0859f8ef08ae0e0e0e0e0e0e0e0e0f6f6f50125e1e14fdee1e1719b5de0832d13104d023afc8203122ae3fb",
+   "jp": "・・・・・ミドリ　ノ　タカラバコ　ヲ　サガセ<F8>\nタカラバコ　ハ　ジュンバン　ニ　ヒラク[F9]サイゴ　ノ　カギ　ガ　トビラ　ノ　カギ　ダ　[FE69][F6]タカラバコ　ハ　ゼンブ　デーーーーーーーーー[F6][F6][F50125]・・ん？・・メッセージがとちゅうで消えてる。<FB>",
+   "ko": "……초록　보물상자　를　찾아라<F8>\n보물상자　는　순서대로　열린다[F9]마지막　열쇠　가　문　의　열쇠　다　[FE69][F6]보물상자　는　전부　ーーーーーーーー[F6][F6][F50125]…응? …메시지가 중간에 지워졌어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 149,
+   "src": "d5d4fc1ad4d43ae2fde11e4b12012ae3fb",
+   "jp": "１０：００で、止まっている。<FB>",
+   "ko": "10:00에, 멈춰 있다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 150,
+   "src": "6b81def06b8181dff8fc1bfc1a002947def0f0144f3725e2234f1749e018def9f0f0334ce2fd1d0709090528fd3112fd510614dffb",
+   "jp": "フゴ？　フゴゴ！<F8>\n訳：ありぃ？　　なんだよ、やんねぇーの？[F9]　　じゃ、早くここから出て行きな！<FB>",
+   "ko": "푸고? 푸고고!<F8>\n번역: 어라?　　뭐야, 안 할 거야?[F9]　　그럼, 빨리 여기서 나가!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 151,
+   "src": "6b81e26b816b81e3f8fc1bfc1a090905285c5fe0630b12e22f2a4b13fdc34b12f9f0f0fe6d22fce00c2a4f3736e326054b0f05e3fb",
+   "jp": "フゴ、フゴフゴ。<F8>\n訳：ここからスタートして、ぐるっと回って[F9]　　[FE6D22]周するんだぞ。わかったか。<FB>",
+   "ko": "푸고, 푸고푸고.<F8>\n번역: 여기서 출발해서, 빙 돌아서[F9]　　[FE6D22]바퀴 도는 거다. 알겠냐.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 152,
+   "src": "6b81e26b816b81e3f8fc1bfc1afde51914e2fcc5082a1326054b121222f9f0f0fc2ffc281e3afc7ffcc519fd8f30fd310a1401224f144f3725dffb",
+   "jp": "フゴ、フゴフゴ。<F8>\n訳：男はな、負けるとわかってても[F9]　　最後まで勝負は投げ出さないもんなんだよ！<FB>",
+   "ko": "푸고, 푸고푸고.<F8>\n번역: 사나이는 말이야, 질 줄 알아도[F9]　　끝까지 승부를 포기하지 않는 법이라고!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 153,
+   "src": "f2739b5f96e0dfdff857721318fc7ffcc515fc7f4b0f36dffa",
+   "jp": "[F2]ヤッタァー！！<F8>\nクモとの勝負に勝ったぞ！<FA>",
+   "ko": "[F2]야호!!<F8>\n거미와의 승부에서 이겼다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 154,
+   "src": "f5020df50001074b0ee0dff8e1e1e1e1e1e1e1e1fcc508104c4b0fe3f9fa",
+   "jp": "[F5020D][F50001]くっそー！<F8>\n・・・・・・・・負けちゃった。[F9]<FA>",
+   "ko": "[F5020D][F50001]분하다!<F8>\n……져 버렸어.[F9]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 155,
+   "src": "6b81e26b816b81e3f8fc1bfc1ae1e1e1e16b9be204fd9fe6182c1ee73714e3f9f0f00e4f144f3a547b15fc7f122a13fd3b4b0f05defe69f6f0f03b020c2ade2202d5fdc3234b121f2a05defe6af6f0f0f0f0f0f0232a25e3f6f0f0f0f0f0f02202084b09023a0ce3fe68fa",
+   "jp": "フゴ、フゴフゴ。<F8>\n訳：・・・・フッ、お前「のろま」だな。[F9]　　そんなんでオレに勝てると思ったか？[FE69][F6]　　どうする？もう１回やってみるか？[FE6A][F6]　　　　　　やるよ。[F6]　　　　　　もうけっこうです。[FE68]<FA>",
+   "ko": "푸고, 푸고푸고.<F8>\n번역: ……흥, 너 「느림보」구나.[F9]　　그래 가지고 나를 이길 줄 알았냐?[FE69][F6]　　어떡할래? 한 번 더 해 볼래?[FE6A][F6]　　　　　　할게.[F6]　　　　　　이제 됐어요.[FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 156,
+   "src": "6b81df6b816b81e26b8181e3f8fc1bfc1a250be2fda3fdf3190b4b0529fdd52a4f3735e3f9f0f0060001fd072b1214dffe69f6f0f0334ce25c5fe06378519f1514283d14e3f6f0f00a4b0613fd4733250215699f8a27110812232ae3f6f0f004fd9f2dfd48155c5fe0630b14e3fa",
+   "jp": "フゴ！フゴフゴ、フゴゴ。<F8>\n訳：よし、今度はしっかり走るんだぜ。[F9]　　きあい入れてな！[FE69][F6]　　じゃ、スタートラインにならびな。[F6]　　さっきと同じようにハンデをつけてやる。[F6]　　お前が先にスタートしな。<FA>",
+   "ko": "푸고! 푸고푸고, 푸고고.<F8>\n번역: 좋아, 이번엔 제대로 달려라.[F9]　　기합 넣어서 말이야![FE69][F6]　　그럼, 출발선에 서.[F6]　　아까처럼 핸디캡을 주지.[F6]　　네가 먼저 출발해라.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 157,
+   "src": "947edefb",
+   "jp": "ペギ？<FB>",
+   "ko": "펭?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 158,
+   "src": "947ee2947e947ee2947e947e947edff8fc1bfc1a3b020d905719d5fd3d334c937c95e084223a061401f9f0f004073d4e02fd1b0adffe69f6947ee2947e947ee2947e947e947edff6fc1bfc1afd3dfd0a18fd4e2705292a18190b4c0737083bf6f0f009180a01e6545d76e70b1222280402e3fb",
+   "jp": "ペギ、ペギペギ、ペギペギペギ！<F8>\n訳：どうせボクは１人じゃプロポーズもできない[F9]　　おくびょう者さ！[FE69][F6]ペギ、ペギペギ、ペギペギペギ！[F6]訳：人間の力をかりるのはしゃくだけど[F6]　　このさい「オセワ」してもらおう。<FB>",
+   "ko": "펭, 펭펭, 펭펭펭!<F8>\n번역: 어차피 난 혼자서는 프러포즈도 못 하는[F9]　　겁쟁이야![FE69][F6]펭, 펭펭, 펭펭펭![F6]번역: 인간의 힘을 빌리는 건 분하지만[F6]　　이참에 「짝지어 주기」를 부탁하자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "「オセワ」(용어집 T194 scene_review)를 「짝지어 주기」로 씀. 1722 「セワしてやろうか」 말장난과 맞물림(0160도 같은 처리).",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문: 「オセワ」→「짝지어 주기」(T194 scene_review). 권고: 채택. 1722 「セワしてやろうか/けっこんしてんだ」 쪽도 「짝지어 줄까?」로 맞출 것(0160도 동일)."
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "src": "947ee2947e947ee2947e947e947edff8fc1bfc1a35010f0719fd10011e0d4fe3715c374b0f28f9f0f03b18949f7e9f3a2201014f3a0ce3fb",
+   "jp": "ペギ、ペギペギ、ペギペギペギ！<F8>\n訳：ぜいたくは言いません。メスだったら[F9]　　どのペンギンでもいいんです。<FB>",
+   "ko": "펭, 펭펭, 펭펭펭!<F8>\n번역: 사치는 안 부릴게요. 암컷이라면[F9]　　어떤 펭귄이라도 좋아요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 160,
+   "src": "947ee2947e947ee2947e947e947edff8fc1bfc1a905722fc212b124b12fc040b01083bf9f0f0fd48150e011127e6545d76e70b12072be3fb",
+   "jp": "ペギ、ペギペギ、ペギペギペギ！<F8>\n訳：ボクも連れてって欲しいけど[F9]　　先にそいつを「オセワ」してくれ。<FB>",
+   "ko": "펭, 펭펭, 펭펭펭!<F8>\n번역: 나도 데려가 줬으면 좋겠지만[F9]　　먼저 저 녀석을 「짝지어 줘」.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 161,
+   "src": "232ae0dfdff01f3113937c95e084fc22fc23e3f850610135dff06a9de06a9de0e3f9104e4b13727372730c2ae3fa",
+   "jp": "やるー！！　みごとプロポーズ成功。<F8>\nアツいぜ！　ヒューヒュー。[F9]ちょっとモヤモヤする。<FA>",
+   "ko": "해냈다!! 멋지게 프러포즈 성공.<F8>\n뜨겁다 뜨거워! 휘익휘익.[F9]왠지 좀 싱숭생숭해.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 162,
+   "src": "3721374b0f1f0f01e3f8051429185b9e9b571f0f0137e3fa",
+   "jp": "だめだったみたい。<F8>\nかなりのショックみたいだ。<FA>",
+   "ko": "실패한 것 같아.<F8>\n충격이 꽤 큰 모양이야.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 163,
+   "src": "947ee2947ee2947ee3fb",
+   "jp": "ペギ、ペギ、ペギ。<FB>",
+   "ko": "펭, 펭, 펭.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 164,
+   "src": "947ee2947ee2947edffa",
+   "jp": "ペギ、ペギ、ペギ！<FA>",
+   "ko": "펭, 펭, 펭!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 165,
+   "src": "947ee2947ee2947edff8fc1bfc1a3b011122090111228f5f8f5f0b232d4b12e2f9f0f0094f141309fd31124b12232adffe69f6e1e1e1e1947ee2947ee2947ee0e3f6fc1bfc1ae1e1e16d9f6319e20c4f310705140b014f3a0ce3f6f0f0014b0b4e15fc212b124b1257785a51e3fa",
+   "jp": "ペギ、ペギ、ペギ！<F8>\n訳：どいつもこいつもベタベタしやがって、[F9]　　こんなとこ出てってやる！[FE69][F6]・・・・ペギ、ペギ、ペギー。[F6]訳：・・・ホントは、すんごくかなしいんです。[F6]　　いっしょに連れてってクラサイ。<FA>",
+   "ko": "펭, 펭, 펭!<F8>\n번역: 다들 끈적끈적 붙어 다니기는,[F9]　　이런 데 나가 버릴 테다![FE69][F6]……펭, 펭, 펭ー.[F6]번역: ……사실은, 너무너무 슬퍼요.[F6]　　같이 데려가 주떼요.<FA>",
+   "state": "needs_human_review",
+   "note": "「クラサイ」(울먹이며 혀 짧게 한 ください)를 「주떼요」로.",
+   "question": ""
+  },
+  {
+   "id": 166,
+   "src": "6b81df6b816b81f8fc1bfc1a5596e09be30006282118fd1d0173613735e3f9f0f00e4f140913334ce2fd6b01fd3dfd62234b12081749e036fa",
+   "jp": "フゴ！フゴフゴ<F8>\n訳：カァーッ。あきらめの早いヤツだぜ。[F9]　　そんなことじゃ、長い人生やってけねぇーぞ<FA>",
+   "ko": "푸고! 푸고푸고<F8>\n번역: 쯧. 포기가 빠른 녀석이군.[F9]　　그래 가지곤 긴 인생 못 살아간다고<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 167,
+   "src": "6b81df6b816b81e3f8fc1bfc1a074b0ee0e3547bfdc81322002c0222182de1e1e1e1f9f0f0094f14608d15fcc5082a1319e1e1e1e3fe69f6f0f00b4e022d1749e0e3fdc0fc6119fdc0fc6137e3f6f0f01d28e2fd2e4b120825e3fa",
+   "jp": "フゴ！フゴフゴ。<F8>\n訳：くっそー。オレ様ともあろうものが・・・・[F9]　　こんなチビに負けるとは・・・。[FE69][F6]　　しょうがねぇー。約束は約束だ。[F6]　　ほら、持ってけよ。<FA>",
+   "ko": "푸고! 푸고푸고.<F8>\n번역: 젠장. 이 몸씩이나 되는 자가……[F9]　　이런 꼬맹이한테 지다니…….[FE69][F6]　　어쩔 수 없지. 약속은 약속이다.[F6]　　자, 가져가라.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 168,
+   "src": "947e947e947ee0e3fb",
+   "jp": "ペギペギペギー。<FB>",
+   "ko": "펭펭펭ー.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 169,
+   "src": "e1e1e1e1e1e1e1e1e1528157f07455f077f050765d7cf8e1e1e1e1505f6ee1e1e1e1e1e1e163e1e1e1e1e1e1e1f9505be1e1e1e1e177f0615553fb",
+   "jp": "・・・・・・・・・ウゴク　ユカ　ヲ　アワセロ<F8>\n・・・・アタマ・・・・・・・ト・・・・・・・[F9]アシ・・・・・ヲ　ツカエ<FB>",
+   "ko": "………움직이는　바닥　을　맞춰라<F8>\n……머리………와………[F9]다리……　를　써라<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 170,
+   "src": "f2fc0018fd5a18fc25275772052822284b0fe3f8054f0f4f15fd5a1805082a6958f42406e1e1e1e1280b01e3fa",
+   "jp": "[F2]赤の絵の具をクモからもらった。<F8>\nかんたんに絵のかけるハケ付き・・・・らしい。<FA>",
+   "ko": "[F2]빨간 물감을 거미에게서 받았다.<F8>\n쉽게 그릴 수 있는 붓이 달려 있……다나.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 171,
+   "src": "6b81e26b816b81e3f8fc1bfc1a0918fc101519547bfdc818e6064e023701e72dfc28f9f0f0d7f425012a4f37e32202ee4b0f05defe69f6f0f01f4f14fc7ffcc52dfde60637052814fa",
+   "jp": "フゴ、フゴフゴ。<F8>\n訳：この森にはオレ様の「きょうだい」が後[F9]　　３匹いるんだ。もう会ったか？[FE69][F6]　　みんな勝負が好きだからな<FA>",
+   "ko": "푸고, 푸고푸고.<F8>\n번역: 이 숲에는 이 몸의 「형제」가 아직[F9]　　3마리 더 있지. 벌써 만났냐?[FE69][F6]　　모두 승부를 좋아하거든<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 172,
+   "src": "6b81e26b816b81e3f8fc1bfc1a094f14fc59374b0f28e2547bfdc819070a2a1d3bf9f0f0fd2e4b122a35e3e1e1e1e1e10e0237dffe69f6f0f00918fc590508122202d5fdc3fc7ffcc50b250235e3fe6af6f0f0f0f0f0f0232a25e3f6f0f0f0f0f0f0034f294e0b13061e0ce3fe68fa",
+   "jp": "フゴ、フゴフゴ。<F8>\n訳：こんな石だったら、オレ様はくさるほど[F9]　　持ってるぜ。・・・・・そうだ！[FE69][F6]　　この石かけてもう１回勝負しようぜ。[FE6A][F6]　　　　　　やるよ。[F6]　　　　　　えんりょしときます。[FE68]<FA>",
+   "ko": "푸고, 푸고푸고.<F8>\n번역: 이런 돌이라면, 이 몸은 썩어날 만큼[F9]　　가지고 있다고. ……그래![FE69][F6]　　이 돌을 걸고 한 번 더 승부하자.[FE6A][F6]　　　　　　할게.[F6]　　　　　　사양할게요.[FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 173,
+   "src": "04044bdf0e180105152255780ee51404fcc9fc1919dff80e0205e20500104c4f150f181e2b0f4f3714dff90e02144f3714df0123064b130e0215fc1401140137dffe69f6f6f0f0f0f0f0f0f0f00500104c4fe1e1e1f6fe69f6f60a12e20a4b0a13fd920237e3fa",
+   "jp": "おおっ！そのいかにもカラそ～なお弁当は！<F8>\nそうか、かあちゃんにたのまれたんだな！[F9]そうなんだな！いやきっとそうに違いないだ！[FE69][F6][F6]　　　　　　　　かあちゃん・・・[F6][FE69][F6][F6]さて、さっさと食うだ。<FA>",
+   "ko": "오오! 그 딱 봐도 매워 보이는 도시락은!<F8>\n그렇군, 집사람이 부탁했구먼![F9]그렇지! 아니 분명 그런 게 틀림없구먼![FE69][F6][F6]　　　　　　　　집사람……[F6][FE69][F6][F6]자, 얼른 먹어야겠구먼.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 174,
+   "src": "6ae5e5e59bdfdfdf144f37e20918569ee57b613af855780ee514e265545119dfdfdfdff9fe69f69057150e18250214fd2f27e2fd96390814013a072b0f1e03f60d4b050718e6fd8a9052e72d07342b120b1e0225e3fa",
+   "jp": "ヒ～～～ッ！！！なんだ、このキョ～レツで<F8>\nカラそ～な、ニオイは！！！！[F9][FE69][F6]ボクにそのような物を、近づけないでくれたまえ[F6]せっかくの「美ボウ」がくずれてしまうよ。<FA>",
+   "ko": "히~~~익!!! 뭐야, 이 강~렬하고<F8>\n매워 보이는, 냄새는!!!![F9][FE69][F6]나에게 그런 것을, 가까이 하지 말아 주게[F6]모처럼의 「미모」가 망가져 버린다네.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 175,
+   "src": "4fdefd053701e20e18fd3dfd4319e3f81e0a05905715072b2a13fd1002180514def990e290572d0e4f147268fc040b2d2a13fd3b4b122a180501fe69f6f6f6f0f0f0f0f0f0f0f0e1e1e16d9be26d9f6315072b2adefe69f683e2839ee0572d56615125e269e26969696969699bf600e200000e0237e20b4f0d0618fc5b18fdae2de2f615e2fd3dfd4327fc040b2d4b120f250214fd502de20ce20c2ae3fe69f60ae20a4f09021e3a15e2fc084b12010ffd0cfd2a27f6fd7103121d0b01fd502d0c2a14e5e3f6fe69f63b020c2adefe6af6f0f0f0f0fd3c281401f6f0f0f0f00f1303fd3c4b121222fd10261401dffe68fa",
+   "jp": "ん？何だい、その人形は。<F8>\nまさかボクにくれると言うのかな？[F9]ボ、ボクがそんなモノ欲しがると思ってるのかい[FE69][F6][F6][F6]　　　　　　　　・・・ホッ、ホントにくれる？[FE69][F6]ジ、ジョークがキツイよ、ハ、ハハハハハハッ[F6]あ、ああそうだ、しんせきの女の子が、[F6]に、人形を欲しがってたような気が、す、する。[FE69][F6]さ、さんこうまでに、売っていた場所を[F6]教えてほしい気がするな～。[F6][FE69][F6]どうする？[FE6A][F6]　　　　知らない[F6]　　　　たとえ知ってても言わない！[FE68]<FA>",
+   "ko": "응? 뭔가, 그 인형은.<F8>\n설마 나에게 주겠다는 건가?[F9]내, 내가 그런 걸 갖고 싶어 할 것 같나[FE69][F6][F6][F6]　　　　　　　　……저, 정말 주는 건가?[FE69][F6]노, 농담이 심하군, 하, 하하하하하핫[F6]아, 아아 그래, 친척 여자아이가,[F6]이, 인형을 갖고 싶다고 한 것 같, 같아.[FE69][F6]차, 참고로, 팔고 있던 곳을[F6]가르쳐 줬으면 하는 기분이 드는군~.[F6][FE69][F6]어떻게 할까?[FE6A][F6]　　　　몰라[F6]　　　　설령 알아도 말 안 해![FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "suggestion",
+     "proposed": "응? 뭔가, 그 인형은.<F8>\n설마 나에게 주겠다는 건가?[F9]내, 내가 그런 걸 갖고 싶어 할 것 같나[FE69][F6][F6][F6]　　　　　　　　……저, 정말 주는 건가?[FE69][F6]노, 농담이 심하군, 하, 하하하하하핫[F6]아, 아아 그래, 친척 여자아이가,[F6]이, 인형을 갖고 싶다고 한 것 같, 같아.[FE69][F6]차, 참고로, 팔고 있던 곳을[F6]가르쳐 줬으면 하는 기분이 드는군~.[F6][FE69][F6]어떻게 할까?[FE6A][F6]　　　　몰라[F6]　　　　설령 알아도 말 안 해![FE68]<FA>",
+     "reason": "선택지는 아이들의 대답이므로 지문투 「모른다」보다 「몰라」가 자연스럽고 둘째 선택지 「말 안 해!」와 어조가 맞음.",
+     "applied": "D9"
+    }
+   ],
+   "draft_ko": "응? 뭔가, 그 인형은.<F8>\n설마 나에게 주겠다는 건가?[F9]내, 내가 그런 걸 갖고 싶어 할 것 같나[FE69][F6][F6][F6]　　　　　　　　……저, 정말 주는 건가?[FE69][F6]노, 농담이 심하군, 하, 하하하하하핫[F6]아, 아아 그래, 친척 여자아이가,[F6]이, 인형을 갖고 싶다고 한 것 같, 같아.[FE69][F6]차, 참고로, 팔고 있던 곳을[F6]가르쳐 줬으면 하는 기분이 드는군~.[F6][FE69][F6]어떻게 할까?[FE6A][F6]　　　　모른다[F6]　　　　설령 알아도 말 안 해![FE68]<FA>"
+  },
+  {
+   "id": 176,
+   "src": "fd3c2814016984191401372c02dff86b74555137dff9e1e1e1e1e1e1fd95290f1e03e3fb",
+   "jp": "知らないハズはないだろう！<F8>\nフユカイだ！[F9]・・・・・・帰りたまえ。<FB>",
+   "ko": "모를 리가 없지 않은가!<F8>\n불쾌하군![F9]……돌아가 주게.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 177,
+   "src": "6b81df6b81e26b81e26b9f81e0e3f8fc1bfc1a23e2232a334c1749e005e3f9f0f00e4f334ce2fdc0fc6118fd2f37e3fd2e4b12fd510614e3fa",
+   "jp": "フゴ！フゴ、フゴ、フンゴー。<F8>\n訳：や、やるじゃねぇーか。[F9]　　そんじゃ、約束の物だ。持って行きな。<FA>",
+   "ko": "푸고! 푸고, 푸고, 푼고ー.<F8>\n번역: 제, 제법인데.[F9]　　그럼, 약속한 물건이다. 가져가라.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 178,
+   "src": "f50339789b577c9b5727fd0615fd072b0fdf104e4b13022b0b01e3f8092b3afe6cfc93fd6f37dffa",
+   "jp": "[F50339]ラックロックを手に入れた！ちょっとうれしい。<F8>\nこれで[FE6C]個目だ！<FA>",
+   "ko": "[F50339]럭록을 손에 넣었다! 조금 기쁘다.<F8>\n이걸로 [FE6C]개째다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 179,
+   "src": "6b81e26b816b81f8fc1bfc1a1e0fe201113a22f410fccf0b120614e3f9f0f00208120f1135e3fa",
+   "jp": "フゴ、フゴフゴ<F8>\n訳：また、いつでも挑戦してきな。[F9]　　うけてたつぜ。<FA>",
+   "ko": "푸고, 푸고푸고<F8>\n번역: 또, 언제든지 도전해라.[F9]　　받아 주지.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 180,
+   "src": "6b81e26b816b81def8fc1bfc1ae1e1e1e1002b372ce2547bfdc818fc282c15002afd2f27f9f0f0fd7b0b12fc040b014b124f372cdefe69f6f0f00e2b1428547bfdc813fc7ffcc537e33b0237defe6af6f0f0f0f0f0f0232a25e3f6f0f0f0f0f0f0034f294e0b13061e0ce3fe68fa",
+   "jp": "フゴ、フゴフゴ？<F8>\n訳：・・・・あれだろ、オレ様の後ろにある物を[F9]　　返して欲しいってんだろ？[FE69][F6]　　それならオレ様と勝負だ。どうだ？[FE6A][F6]　　　　　　やるよ。[F6]　　　　　　えんりょしときます。[FE68]<FA>",
+   "ko": "푸고, 푸고푸고?<F8>\n번역: ……그거지, 이 몸 뒤에 있는 물건을[F9]　　돌려받고 싶다는 거지?[FE69][F6]　　그럼 이 몸과 승부다. 어때?[FE6A][F6]　　　　　　할게.[F6]　　　　　　사양할게요.[FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 181,
+   "src": "6be081e26b816b81dff8fc1bfc1a004b0ee3334ce204fd95291900102837e3fa",
+   "jp": "フーゴ、フゴフゴ！<F8>\n訳：あっそ。じゃ、お帰りはあちらだ。<FA>",
+   "ko": "푸ー고, 푸고푸고!<F8>\n번역: 아, 그래. 그럼, 출구는 저쪽이다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 182,
+   "src": "6be0816b81e26b816b81e26b81dff8fc1bfc1a547b2dfda3052890e07a27fd310c052814f9f0f081e07a18547b212d081208569b570c2a4f3735e3fa",
+   "jp": "フーゴフゴ、フゴフゴ、フゴ！<F8>\n訳：オレが今からボールを出すからな[F9]　　ゴールのオレめがけてけキックするんだぜ。<FA>",
+   "ko": "푸ー고푸고, 푸고푸고, 푸고!<F8>\n번역: 내가 지금부터 공을 낼 테니까[F9]　　골대에 있는 나를 노리고 차는 거다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 183,
+   "src": "6b81de6b8181e3f8fc1bfc1ae1e1e1e1e1dee1e1fd573725e68370e74b12f9f0f0547bfdc8190e4f14fcb4fd9f334c1749e036e3fb",
+   "jp": "フゴ？フゴゴ。<F8>\n訳：・・・・・？・・誰だよ「ジム」って[F9]　　オレ様はそんな名前じゃねぇーぞ。<FB>",
+   "ko": "푸고? 푸고고.<F8>\n번역: ……? ……누구야 「짐」이라니[F9]　　이 몸은 그런 이름이 아니라고.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 184,
+   "src": "6b81e26b81e3f8fc1bfc1a004be20e1890e07a17e2e66e7afc6ee7144f3a0ce3f9f0f0fd9c01104c020528fd502711081217e3fb",
+   "jp": "フゴ、フゴ。<F8>\n訳：あっ、そのボールね、「マル虫」なんです。[F9]　　動いちゃうから気をつけてね。<FB>",
+   "ko": "푸고, 푸고.<F8>\n번역: 앗, 그 공 말인데, 「공벌레」예요.[F9]　　움직이니까 조심하세요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 185,
+   "src": "636d6d6d6de1e1e1e1e1e1e3f8004f1e29fdcb07082814013a17e3f904172d010b1e0ce3fb",
+   "jp": "トホホホホ・・・・・・。<F8>\nあんまり強くけらないでね。[F9]おねがいします。<FB>",
+   "ko": "흑흑흑흑……<F8>\n너무 세게 차지 말아 주세요.[F9]부탁드려요.<FB>",
+   "state": "needs_human_review",
+   "note": "공 대신 차이는 공벌레의 대사.",
+   "question": ""
+  },
+  {
+   "id": 186,
+   "src": "6b81df6b81e26b81e26b9f81e0e3f8fc1bfc1a23e2232a334c1749e005e3f9f0f00e4f334ce2fdc0fc6118fd2f37e3fd2e4b12fd510614e3fa",
+   "jp": "フゴ！フゴ、フゴ、フンゴー。<F8>\n訳：や、やるじゃねぇーか。[F9]　　そんじゃ、約束の物だ。持って行きな。<FA>",
+   "ko": "푸고! 푸고, 푸고, 푼고ー.<F8>\n번역: 제, 제법인데.[F9]　　그럼, 약속한 물건이다. 가져가라.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 187,
+   "src": "f2fdaf18fd5a18fc25275772052822284b0fe3f8054f0f4f15fd5a1805082a6958f42406e1e1e1e1280b01e3fa",
+   "jp": "[F2]緑の絵の具をクモからもらった。<F8>\nかんたんに絵のかけるハケ付き・・・・らしい。<FA>",
+   "ko": "[F2]초록 물감을 거미에게서 받았다.<F8>\n쉽게 그릴 수 있는 붓이 달려 있……다나.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 188,
+   "src": "6b81de6b816b81f8fc1bfc1ae1e1e1e1e1dee1e1e68370e74b12fd57144f3725f9f0f0547bfdc8190e4f14fcb4fd9f334c1749e04b12e3fa",
+   "jp": "フゴ？フゴフゴ<F8>\n訳：・・・・・？・・「ジム」って誰なんだよ[F9]　　オレ様はそんな名前じゃねぇーって。<FA>",
+   "ko": "푸고? 푸고푸고<F8>\n번역: ……? ……「짐」이 대체 누구냐고[F9]　　이 몸은 그런 이름이 아니라니까.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 189,
+   "src": "6b81de6b816b81f8fc1bfc1a9057fdc818f410fccf27fc3708120913262a144f12f9f0f00be54f33282b14e501e3fa",
+   "jp": "フゴ？フゴフゴ<F8>\n訳：ボク様の挑戦を受けてことわるなんて[F9]　　し～んじられな～い。<FA>",
+   "ko": "푸고? 푸고푸고<F8>\n번역: 본 님의 도전을 받고 거절하다니[F9]　　믿~을 수가 없~어~.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 190,
+   "src": "6b9f81e0df6b816b81e3f8fc1bfc1a0e020914074b104cdf334cfdf5212a25e3f9f0f0e6839c9f929f7ff423fd5b01fc59fde32180e570e7fe69f6f0f0092b052890572df423fd5b01fc5927fd8f302a0528f6f0f0fe6d2afe6d1efd3218fd0a15fe6d22fe6d1efc93fde321122517e3f6f0f026054b0fde334ce2fdf5212a25e3fa",
+   "jp": "フンゴー！フゴフゴ。<F8>\n訳：そうこなくっちゃ！じゃ始めるよ。[F9]　　「ジャンピング黄色い石集めゲ～ム」[FE69][F6]　　これからボクが黄色い石を投げるから[F6]　　[FE6D2A][FE6D1E]秒の間に[FE6D22][FE6D1E]個集めてよね。[F6]　　わかった？じゃ、始めるよ。<FA>",
+   "ko": "푼고ー! 푸고푸고.<F8>\n번역: 그래야지! 그럼 시작한다.[F9]　　「점핑 노란 돌 모으기 게~임」[FE69][F6]　　지금 내가 노란 돌을 던질 테니까[F6]　　[FE6D2A][FE6D1E]초 동안 [FE6D22][FE6D1E]개 모아 줘.[F6]　　알았지? 그럼, 시작한다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 191,
+   "src": "6b818181e26b81e3f8fc1bfc1afd9f15012ad7f42518577227839c9f930b12f9f0f09057fdc82dfd8f302afc5927569c9b600c2a4f37e3fb",
+   "jp": "フゴゴゴ、フゴ。<F8>\n訳：前にいる３匹のクモをジャンプして[F9]　　ボク様が投げる石をキャッチするんだ。<FB>",
+   "ko": "푸고고고, 푸고.<F8>\n번역: 앞에 있는 3마리 거미를 뛰어넘어서[F9]　　본 님이 던지는 돌을 잡는 거야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 192,
+   "src": "e1e1e1e1e1e16c5970f07455f05a7d5de1e1e1e1e1e1f8f9e1e1e1e1034bdef00e2b3708dee1e1e1e1e1e1e1e1e1fb",
+   "jp": "・・・・・・ヘコム　ユカ　サガセ・・・・・・<F8>\n[F9]・・・・えっ？　それだけ？・・・・・・・・・<FB>",
+   "ko": "………움푹한　바닥　찾아라………<F8>\n[F9]……뭐? 그게 다야?………<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 193,
+   "src": "fd0505fc58fd292d00290e0237083be1e1e1e1e1e1e1e1e1e3fb",
+   "jp": "何か意味がありそうだけど・・・・・・・・・。<FB>",
+   "ko": "뭔가 의미가 있을 것 같은데…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 194,
+   "src": "947ee0e2947ee0e2947fe2947fe3f8fc1bfc1afd23fd2b18fd0e15002afd050527fddf3312f0f9f0f00e09150b2a0b2711082a09130ae3fb",
+   "jp": "ペギー、ペギー、ペグ、ペグ。<F8>\n訳：地面の下にある何かを感じて　[F9]　　そこにしるしをつけることさ。<FB>",
+   "ko": "펭ー, 펭ー, 펭그, 펭그.<F8>\n번역: 땅 밑에 있는 무언가를 느끼고[F9]　　거기에 표시를 하는 거지.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 195,
+   "src": "f0f02202d5fdc3f410fccf0b121f2adef0f8f0f0f0f0232a25e3f9f0f0f0f0034f294e0b13061e0ce3fe68fa",
+   "jp": "　　もう１回挑戦してみる？　<F8>\n　　　　やるよ。[F9]　　　　えんりょしときます。[FE68]<FA>",
+   "ko": "　　한 번 더 도전해 볼래?<F8>\n　　　　할게.[F9]　　　　사양할게요.[FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 196,
+   "src": "6b816b81e26be081e3f8fc1bfc1ae1e1e1e1e1e12202fd33fdf3e2f410fccf0b0f014f1428f0f9f0f0fd31fcd40b12fd6814e3fd03190e2b052837e3fa",
+   "jp": "フゴフゴ、フーゴ。<F8>\n訳：・・・・・・もう一度、挑戦したいんなら　[F9]　　出直して来な。話はそれからだ。<FA>",
+   "ko": "푸고푸고, 푸ー고.<F8>\n번역: ……한 번 더 도전하고 싶다면[F9]　　다시 와라. 이야기는 그다음이다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 197,
+   "src": "e1e1e1e1e15054f068f05f55788c59f077f05a7d5df85f55788c59f069f0839d9f8c9ff065f06a7857f95a5181f068f0557ef07df0638d78f068f0557ef087fe69f65f55788c59f069f0859f8ef08ae0e0e0e0e0e0e0e0e0f6f6f50125e1e14fdee1e1719b5de0832d13104d023afc8203122ae3fb",
+   "jp": "・・・・・アオ　ノ　タカラバコ　ヲ　サガセ<F8>\nタカラバコ　ハ　ジュンバン　ニ　ヒラク[F9]サイゴ　ノ　カギ　ガ　トビラ　ノ　カギ　ダ[FE69][F6]タカラバコ　ハ　ゼンブ　デーーーーーーーーー[F6][F6][F50125]・・ん？・・メッセージがとちゅうで消えてる。<FB>",
+   "ko": "……파랑　보물상자　를　찾아라<F8>\n보물상자　는　순서대로　열린다[F9]마지막　열쇠　가　문　의　열쇠　다[FE69][F6]보물상자　는　전부　ーーーーーーーー[F6][F6][F50125]…응? …메시지가 중간에 지워졌어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 198,
+   "src": "e1e1e1e1e15055f068f05f55788c59f077f05a7d5df85f55788c59f069f0839d9f8c9ff065f06a7857f95a5181f068f0557ef07df0638d78f068f0557ef087fe69f65f55788c59f069f0859f8ef08ae0e0e0e0e0e0e0e0e0f6f6f50125e1e14fdee1e1719b5de0832d13104d023afc8203122ae3fb",
+   "jp": "・・・・・アカ　ノ　タカラバコ　ヲ　サガセ<F8>\nタカラバコ　ハ　ジュンバン　ニ　ヒラク[F9]サイゴ　ノ　カギ　ガ　トビラ　ノ　カギ　ダ[FE69][F6]タカラバコ　ハ　ゼンブ　デーーーーーーーーー[F6][F6][F50125]・・ん？・・メッセージがとちゅうで消えてる。<FB>",
+   "ko": "……빨강　보물상자　를　찾아라<F8>\n보물상자　는　순서대로　열린다[F9]마지막　열쇠　가　문　의　열쇠　다[FE69][F6]보물상자　는　전부　ーーーーーーーー[F6][F6][F50125]…응? …메시지가 중간에 지워졌어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 199,
+   "src": "e1e1e1e1e1e1e1e1e1529f13225c9f1322fd10261401e3f80e02fd10033ce2fd9f2529907c9b6007144b104c4b0f2502f914fd502d0c2ae1e1e1e1e1e1e1e3fb",
+   "jp": "・・・・・・・・・ウンともスンとも言わない。<F8>\nそう言えば、前よりボロッチくなっちゃったよう[F9]な気がする・・・・・・・。<FB>",
+   "ko": "………아무 대답도 없다.<F8>\n그러고 보니, 전보다 더 낡아 버린 것[F9]같은 기분이 든다…….<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 200,
+   "src": "6b816b81e26be081e3f8fc1bfc1a9057fdc80f10064e02370115192202ee4b0f0501def9f0f00918fc101519fc28d7f425012a4f37e3fe69f6f0f03a22d5fc53fd16188c9ffc120a4f19f6f0f0104e4b130926010528fd502711080f1d022d010113f6f0f0fd3b0225e3fa",
+   "jp": "フゴフゴ、フーゴ。<F8>\n訳：ボク様たちきょうだいにはもう会ったかい？[F9]　　この森には後３匹いるんだ。[FE69][F6]　　でも１番上のバン兄さんは[F6]　　ちょっとこわいから気をつけたほうがいいと[F6]　　思うよ。<FA>",
+   "ko": "푸고푸고, 푸ー고.<F8>\n번역: 본 님네 형제들은 벌써 만났어?[F9]　　이 숲에는 아직 3마리 더 있어.[FE69][F6]　　그런데 제일 큰형인 반 형은 좀[F6]　　무서우니까 조심하는 게 좋을 거라고[F6]　　생각해.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 201,
+   "src": "f0f0f0f0f0f0f0f0f0004bdfdff8011e1819e2fc28fd310b334c1401180514de847a51e0dff9fe69f6f5021a52e2526d526d526d526d526b6be0f6fc1bfc1a545178e2659f809f6859638ce25a9b9179f6f0f07655796e5de09fe3526d9bdffa",
+   "jp": "　　　　　　　　　あっ！！<F8>\nいまのは、後出しじゃないのかな？ズルイー！[F9][FE69][F6][F5021A]ウ、ウホウホウホウホウフフー[F6]訳：オイラ、ニンゲンノコトバ、サッパリ[F6]　　ワカリマセーン。ウホッ！<FA>",
+   "ko": "　　　　　　　　　앗!!<F8>\n지금 건 늦게 낸 거 아니야? 치사해ー![F9][FE69][F6][F5021A]우, 우호우호우호우호우후후ー[F6]번역: 나, 인간　말,　하나도[F6]　　몰라요ー. 우홋!<FA>",
+   "state": "needs_human_review",
+   "note": "고릴라가 가타카나로 시치미 떼는 대사(context 4.3)라 전각 공백으로 띄움.",
+   "question": ""
+  },
+  {
+   "id": 202,
+   "src": "837c837cfd262a1425df64659bdefdb6fd0415609c9b572df8002a4b12de0e4f148c5514e1e1e1e1e1e1e1e1e1e1f901010528fd9f150901dfdfdfdffb",
+   "jp": "ジロジロ見るなよ！ナニッ？背中にチャックが<F8>\nあるって？そんなバカな・・・・・・・・・・[F9]いいから前にこい！！！！<FB>",
+   "ko": "빤히 쳐다보지 마! 뭐? 등에 지퍼가<F8>\n있다고? 그럴 리가…………[F9]됐으니까 앞으로 나와!!!!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 203,
+   "src": "f0f0f0f0f0f0f0010f37061ee50cdff82d11df2d11df2d11e1e1e1727f727f727fe1e1e1f9705b9c705b9c705b9ce1e1e1915791579157e1e1e1fe69f64f4bdff6021ae0e04bdfdf054be2557801e0e0e0dfdfdff6022e49e0e04bdfdf1f4be1e1e1fd38e0e0dfdfdffa",
+   "jp": "　　　　　　　いただきま～す！<F8>\nがつ！がつ！がつ・・・モグモグモグ・・・[F9]ムシャムシャムシャ・・・パクパクパク・・・[FE69][F6]んっ！[F6]うひーーっ！！かっ、カラいーーー！！！[F6]うぎぇーーっ！！みっ・・・水ーー！！！<FA>",
+   "ko": "　　　　　　　잘 먹겠습니다~!<F8>\n와구! 와구! 와구…… 냠냠냠……[F9]우걱우걱우걱…… 쩝쩝쩝……[FE69][F6]읍!![F6]우히이이!! 매, 매워어어!!![F6]우게에에!! 무…… 물ー!!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "suggestion",
+     "proposed": "　　　　　　　잘 먹겠습니다~!<F8>\n와구! 와구! 와구…… 냠냠냠……[F9]우걱우걱우걱…… 쩝쩝쩝……[FE69][F6]읍!![F6]우히이이!! 매, 매워어어!!![F6]우게에에!! 무…… 물ー!!!<FA>",
+     "reason": "「んっ！」은 매운맛에 숨이 막히는 소리. 「응!!」은 대답처럼 읽힘.",
+     "applied": "D9"
+    }
+   ],
+   "draft_ko": "　　　　　　　잘 먹겠습니다~!<F8>\n와구! 와구! 와구…… 냠냠냠……[F9]우걱우걱우걱…… 쩝쩝쩝……[FE69][F6]응!![F6]우히이이!! 매, 매워어어!!![F6]우게에에!! 무…… 물ー!!!<FA>"
+  },
+  {
+   "id": 204,
+   "src": "004be2fd3dfd43fd25fd26dffb",
+   "jp": "あっ、人形発見！<FB>",
+   "ko": "앗, 인형 발견!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 205,
+   "src": "fdaa264b0ffd4318fca0fd2f371446e1e1e1fb",
+   "jp": "変わった形の植物だなぁ・・・<FB>",
+   "ko": "특이한 모양의 식물이네……<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 206,
+   "src": "f2fd2e4b12010ffdb001557e2de6fdb001557efe6be715144b0fe3f80918557e193b093afd0d032a4f372c02defa",
+   "jp": "[F2]持っていた青いカギが「青いカギ[FE6B]」になった。<F8>\nこのカギはどこで使えるんだろう？<FA>",
+   "ko": "[F2]파란 열쇠가 「파란 열쇠[FE6B]」로 변했다.<F8>\n이 열쇠는 어디에 쓸 수 있을까?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 207,
+   "src": "144f05e2fdaa14fd2f2dfdd22d4b12060fe1e1e1e1f80e181e1efd9639010f2823282b2a36dff903e54b13e2fca0fd2f18fdc101fd2f19144f374b0f4b08defb",
+   "jp": "なんか、変な物が転がってきた・・・・<F8>\nそのまま近づいたらやられるぞ！[F9]え～っと、植物の弱い物はなんだったっけ？<FB>",
+   "ko": "뭔가, 이상한 게 굴러 왔다……<F8>\n그대로 다가가면 당할 거야![F9]음~, 식물의 약점이 뭐였더라?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 208,
+   "src": "fd6bfdb318fd5401549f907cfd4ffdb237e3fb",
+   "jp": "長針の無いオンボロ時計だ。<FB>",
+   "ko": "긴바늘이 없는 고물 시계다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 209,
+   "src": "092b22d5d4fc1ad4d43afde11e4b12012ae3fb",
+   "jp": "これも１０：００で止まっている。<FB>",
+   "ko": "이것도 10:00에 멈춰 있다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 210,
+   "src": "09090528334ce2183608140114e3fb",
+   "jp": "ここからじゃ、のぞけないな。<FB>",
+   "ko": "여기서는, 들여다볼 수 없겠어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 211,
+   "src": "092b3ae2fd6f332a0b27fc76fc770b2502e3fb",
+   "jp": "これで、目じるしを確認しよう。<FB>",
+   "ko": "이걸로, 표시를 확인하자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 212,
+   "src": "004be2587079fd25fd26dffb",
+   "jp": "あっ、ケムリ発見！<FB>",
+   "ko": "앗, 연기 발견!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 213,
+   "src": "fd0118fd1127183601121f2502e3fa",
+   "jp": "左の方をのぞいてみよう。<FA>",
+   "ko": "왼쪽을 들여다보자.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 214,
+   "src": "fd0018fd1127183601121f2502e3fa",
+   "jp": "右の方をのぞいてみよう。<FA>",
+   "ko": "오른쪽을 들여다보자.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 215,
+   "src": "509bdff0fdb32dfc4c100fe3fb",
+   "jp": "アッ！　針が落ちた。<FB>",
+   "ko": "앗! 바늘이 떨어졌다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 216,
+   "src": "fdf115fd0522fc290928140164dffb",
+   "jp": "別に何も起こらないナ！<FB>",
+   "ko": "딱히 아무 일도 안 일어나네!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 217,
+   "src": "0918fd4ffdb209262b122ae3fb",
+   "jp": "この時計こわれてる。<FB>",
+   "ko": "이 시계 고장 났어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 218,
+   "src": "6b816b81e26b8181f8fc1bfc1a0a251428e0e3fa",
+   "jp": "フゴフゴ、フゴゴ<F8>\n訳：さよならー。<FA>",
+   "ko": "푸고푸고, 푸고고<F8>\n번역: 잘 가ー.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 219,
+   "src": "6b81e26b8181e3f8fc1bfc1a250be2fd0b2be3fa",
+   "jp": "フゴ、フゴゴ。<F8>\n訳：よし、通れ。<FA>",
+   "ko": "푸고, 푸고고.<F8>\n번역: 좋아, 지나가라.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 220,
+   "src": "6b81e26b8181e3f8fc1bfc1ae1e1e1e1e1e1e1244b07290b120108e3fa",
+   "jp": "フゴ、フゴゴ。<F8>\n訳：・・・・・・・ゆっくりしていけ。<FA>",
+   "ko": "푸고, 푸고고.<F8>\n번역: ……천천히 쉬다 가라.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 221,
+   "src": "6b816b81e26b81e3f8fc1bfc1afdc2fc53fc3d2be3fb",
+   "jp": "フゴフゴ、フゴ。<F8>\n訳：順番守れ。<FB>",
+   "ko": "푸고푸고, 푸고.<F8>\n번역: 순서 지켜.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 222,
+   "src": "fd161519fcc418fd0413fd7e15fd58eb3af8fe6d20fe6d24fd3d18fc1efc9c2d012ae3f9fc53fc71190e2b362b18fc1efc9c2dfd710312072b2a193437e3fb",
+   "jp": "上には城の中と外に全部で<F8>\n[FE6D20][FE6D24]人の兵士がいる。[F9]番号はそれぞれの兵士が教えてくれるはずだ。<FB>",
+   "ko": "위에는 성 안과 밖에 모두<F8>\n[FE6D20][FE6D24]명의 병사가 있다.[F9]번호는 각 병사가 가르쳐 줄 거야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 223,
+   "src": "022646e5e5e5dfdffa",
+   "jp": "うわぁ～～～！！<FA>",
+   "ko": "으아아~~~!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 224,
+   "src": "fd382de21b06fd310f86dffa",
+   "jp": "水が、ふき出たゾ！<FA>",
+   "ko": "물이, 뿜어져 나왔다!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 225,
+   "src": "87879be287879be28787878787e5e5e5e5e5e5dfdfdffa",
+   "jp": "ダダッ、ダダッ、ダダダダダ～～～～～～！！！<FA>",
+   "ko": "다닥, 다닥, 다다다다닥~~~~~~!!!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 226,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119f426fc9e3a010213f9fddc18f41206fd5c18250214fdbdfd1f37e3f0f026052a05defb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は英語でいうと[F9]犬の鳴き声のような数字だ。　　わかるか？<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 영어로 말하면[F9]우리 돈의 단위와 소리가 같은 숫자요.<F8>\n알겠소?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 1). 원문: 영어 one≈개 짖는 소리 ワン. 각색: one≈「원」(돈 단위). 대안: 「태어나서 처음 맞는 생일」 등. 정답 숫자는 0265–0266, 0541, 1999, 2006–2009와 연동되므로 바꾸지 않음.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 영어로 말하면[F9]우리 돈의 단위와 소리가 같은 숫자요.<F8>\n알겠소?<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`). 수수께끼 각색(one≈「원」)은 정답 1과 맞고 연동 메시지(0265–0266, 0541, 1999, 2006–2009)와 충돌 없음 → 각색 유지 권고."
+    },
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문(정답 1): 「개 짖는 소리 ワン」→「우리 돈의 단위(원)」. 권고: 채택. 다만 깅엄국 병사가 「우리 돈」이라 하는 어색함이 있으니 대안 「태어나서 처음 맞는 생일」도 검토."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 영어로 말하면[F9]우리 돈의 단위와 소리가 같은 숫자다.<F8>\n알겠느냐?<FB>"
+  },
+  {
+   "id": 227,
+   "src": "f2fd2e4b12010ffc0001557e2de6fc0001557efe6be715144b0fe3f80918557e193b093afd0d032a4f372c02defa",
+   "jp": "[F2]持っていた赤いカギが「赤いカギ[FE6B]」になった。<F8>\nこのカギはどこで使えるんだろう？<FA>",
+   "ko": "[F2]빨간 열쇠가 「빨간 열쇠[FE6B]」로 변했다.<F8>\n이 열쇠는 어디에 쓸 수 있을까?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 228,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119e20e18fdbdfd1f27fdb7150b0ffd3d19f905142834e6154b0929e715142a130102fdbdfd1f37e3fb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は、その数字を口にした人は[F9]かならず「にっこり」になるという数字だ。<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는, 12월에 그 숫자의 날이 오면[F9]모두가 선물을 받고 「싱글벙글」하는 숫자요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 25). 원문: 「にっこり」(ニコ=2·5). 각색: 크리스마스(12월 25일)에 싱글벙글. 「싱글벙글」은 원문 にっこり의 흔적으로 남김.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는, 12월에 그 숫자의 날이 오면[F9]모두가 선물을 받고 「싱글벙글」하는 숫자요.<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`)."
+    },
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문(정답 25): 「にっこり(ニコ)」→「12월 그 날(크리스마스)에 싱글벙글」. 권고: 채택(숫자 25를 확실히 가리킴)."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는, 12월에 그 숫자의 날이 오면[F9]모두가 선물을 받고 「싱글벙글」하는 숫자다.<FB>"
+  },
+  {
+   "id": 229,
+   "src": "fdcc0614fd5c3a19fd10031401183ae259591e3afd68140a01e3fb",
+   "jp": "大きな声では言えないので、ココまで来なさい。<FB>",
+   "ko": "큰 소리로 말할 순 없으니, 여기까지 와 봐.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 230,
+   "src": "331119e2001881797818fd5c19f8fd581218fd9cfd2f2d103d4b120b1e021d3b0c31014f37dff9f0f0f0f0f0f0f0f0f0e6103d2ae73afd3b01fd310b0f2de2fe69f6fd052705070e02e2331119fd6422103d290e02e1e1e1f6fd6a012d0b3c280718fd0ae2597b27f60034054b12072b140105defa",
+   "jp": "じつは、あのゴリラの声は<F8>\n全ての動物がちびってしまうほどすごいんだ！[F9]　　　　　　　　　「ちびる」で思い出したが、[FE69][F6]何をかくそう、じつは私もちびりそう・・・[F6]悪いがしばらくの間、コレを[F6]あずかってくれないか？<FA>",
+   "ko": "실은, 저 고릴라의 목소리는<F8>\n모든 동물이 지릴 만큼 굉장하단다![F9]　　　　　　　　「지린다」니까 생각났는데,[FE69][F6]뭘 숨기겠니, 실은 나도 지릴 것 같아……[F6]미안하지만 잠깐 동안, 이걸[F6]맡아 주지 않겠니?<FA>",
+   "state": "needs_human_review",
+   "note": "「ちびる」 말장난은 한국어 「지리다」로 그대로 살아남.",
+   "question": ""
+  },
+  {
+   "id": 231,
+   "src": "04fd9f0f10e2fd8dfd3d18fd552dfd3c290f014f372cdef8f9fe69f61d051873612818fd5519fd3c2814012de202101805360719f6547bfde41b021b13e2093b222dd6fd3de2f6f50121839c9f13589f1301021b0ffdae18200c09144f37e3fe69f6042318547b2dfd10021822144f372de2f6798470054f18002afdae3ae2f619300b01fc2027fdeb050d2a13e2043b29370c4f37dffb",
+   "jp": "お前たち、村人の事が知りたいんだろ？<F8>\n[F9][FE69][F6]ほかのヤツらの事は知らないが、うちのかぞくは[F6]オレ達ふうふと、こどもが２人、[F6][F50121]ジャンとケンというふた子のむすこなんだ。[FE69][F6]おやのオレが言うのもなんだが、[F6]リズムかんのある子で、[F6]はげしい曲を聞かせると、おどりだすんだ！<FB>",
+   "ko": "너희, 마을 사람들에 대해 알고 싶은 거지?<F8>\n[F9][FE69][F6]다른 녀석들은 모르지만, 우리 가족은[F6]우리 부부와, 아이가 둘,[F6][F50121]가위와 바위라는 쌍둥이 아들이야.[FE69][F6]아비인 내가 말하기도 뭐하지만,[F6]리듬감이 있는 애들이라서,[F6]신나는 곡을 들려주면, 춤을 춘다니까!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "쌍둥이 ジャン+ケン=ジャンケン 말장난. 용어집(scene_review) 그대로 「장」「켄」으로 음역해 말장난은 사라짐. 0343, 0386, 2059와 함께 결정 필요.",
+   "review": [
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문: 쌍둥이 ジャン+ケン 말장난. 권고: 다른 배치(0343, 0386, 2059)와 함께 「장·켄」 음역 유지. 말장난을 살리려면 0231에만 「합치면 「장켄」, 가위바위보래!」 같은 설명을 덧붙이는 방식은 공간상 어려움."
+    },
+    {
+     "kind": "decision",
+     "proposed": "",
+     "reason": "D9/D10 적용"
+    }
+   ],
+   "draft_ko": "너희, 마을 사람들에 대해 알고 싶은 거지?<F8>\n[F9][FE69][F6]다른 녀석들은 모르지만, 우리 가족은[F6]우리 부부와, 아이가 둘,[F6][F50121]장과 켄이라는 쌍둥이 아들이야.[FE69][F6]아비인 내가 말하기도 뭐하지만,[F6]리듬감이 있는 애들이라서,[F6]신나는 곡을 들려주면, 춤을 춘다니까!<FB>"
+  },
+  {
+   "id": 232,
+   "src": "fe6af501195758e0dff057589bf057589bf057589b59e0dff8fc1bfc1a5f6e811805262915e2509f5f0f10fc212b120107e0fb",
+   "jp": "[FE6A][F50119]クケー！　クケッ　クケッ　クケッコー！<F8>\n訳：タマゴのかわりに、アンタたち連れていくー<FB>",
+   "ko": "[FE6A][F50119]꾸케ー! 꾸켓　꾸켓　꾸켓꼬ー!<F8>\n번역: 알 대신에, 너희를 데려간다ー<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 233,
+   "src": "fe6afd52fdea0c2a13fd9f18fdea2dfc82031e0c25def8f0f0f0f0010125dff9f0f0f0f02337dffe68fa",
+   "jp": "[FE6A]録音すると前の音が消えますよ？<F8>\n　　　　いいよ！[F9]　　　　やだ！[FE68]<FA>",
+   "ko": "[FE6A]녹음하면 앞의 소리가 지워져요. 괜찮아요?<F8>\n　　　　좋아![F9]　　　　싫어![FE68]<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 234,
+   "src": "fe6af5030df8f0f0f0f0f0f0f0f0fd52fdea0b1e0b0fe3f500d6fb",
+   "jp": "[FE6A][F5030D]<F8>\n　　　　　　　　録音しました。[F500D6]<FB>",
+   "ko": "[FE6A][F5030D]<F8>\n　　　　　　　　녹음했습니다.[F500D6]<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 235,
+   "src": "1f3113908e270f040b0f28e20101fd55002a052225def8fc7ffcc50c2a1428e259519f27d5fcc6010f370725e3f90455672dfd54082b3ce201017471fd26282b1401679bdffb",
+   "jp": "みごとボブをたおしたら、いい事あるかもよ？<F8>\n勝負するなら、コインを１校いただくよ。[F9]おカネが無ければ、いいユメ見られないネッ！<FB>",
+   "ko": "밥을 쓰러뜨리면 좋은 일이 있을지도 몰라?<F8>\n승부하려면, 동전을 1개 받을게.[F9]돈이 없으면, 좋은 꿈은 못 꾸지!<FB>",
+   "state": "needs_human_review",
+   "note": "원문 「１校」는 「１枚」의 오기로 보고 「1개」로 옮김.",
+   "question": ""
+  },
+  {
+   "id": 236,
+   "src": "f2fd2e4b12010ffdaf18557e2de6fdaf18557efe6be715144b0fe3f80918557e193b093afd0d032a4f372c02defa",
+   "jp": "[F2]持っていた緑のカギが「緑のカギ[FE6B]」になった。<F8>\nこのカギはどこで使えるんだろう？<FA>",
+   "ko": "[F2]초록 열쇠가 「초록 열쇠[FE6B]」로 변했다.<F8>\n이 열쇠는 어디에 쓸 수 있을까?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 237,
+   "src": "002b4bdee1e1e10f0b05e2fc0001fc01fc0219fc0001557e3af8fd0f071934144f37083b1446e3f9e1e1e13b020b104c4b0f4f372c02defa",
+   "jp": "あれっ？・・・たしか、赤い宝箱は赤いカギで<F8>\n開くはずなんだけどなぁ。[F9]・・・どうしちゃったんだろう？<FA>",
+   "ko": "어라? ……빨간 보물상자는 빨간 열쇠로<F8>\n분명 열릴 텐데.[F9]……어떻게 된 거지?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 238,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119e1e1e1e10e023714e2144f12010205f9f4271f0f0114fd43270b0ffdbdfd1f37e3fb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は・・・・そうだな、なんていうか[F9]耳みたいな形をした数字だ。<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는…… 글쎄, 뭐랄까[F9]귀 같은 모양을 한 숫자요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 3). 숫자 모양 힌트라 원문 그대로 옮김.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는…… 글쎄, 뭐랄까[F9]귀 같은 모양을 한 숫자요.<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`). 「そうだな」는 「글쎄」가 하오체에 어울림. 정답 3(귀 모양)은 그대로 통함."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는…… 그렇지, 뭐랄까[F9]귀 같은 모양을 한 숫자다.<FB>"
+  },
+  {
+   "id": 239,
+   "src": "0918fd7419e2fd9a0528012c4f14fc16fc8618fca0fd2f2d004b12e2f814053a22fd7415002afdccfddd0528132b2a54517a19515118f92d132b2a280b0712e2fc0c3a22fc08282b12012a25e3fb",
+   "jp": "この島は、昔からいろんな種類の植物があって、<F8>\nなかでも島にある大木からとれるオイルはイイの[F9]がとれるらしくて、町でも売られているよ。<FB>",
+   "ko": "이 섬에는 옛날부터 여러 식물이 있었는데,<F8>\n그중에서도 큰 나무에서 나는 오일이 좋아서[F9]마을에서도 팔리고 있어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 240,
+   "src": "f8f0f0f0f0f0f0f00101fde5334c2cdffa",
+   "jp": "<F8>\n　　　　　　　いい男じゃろ！<FA>",
+   "ko": "<F8>\n　　　　　　　멋진 남자지!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "<F8>\n　　　　　　　멋진 남자지!<FA>",
+     "reason": "§7 통일안: 마로 박사 「ワシ・・・いい男じゃろ！」 → `나…… 멋진 남자지!`(T188, 샘플 0240도 이에 맞춤)."
+    }
+   ],
+   "draft_ko": "<F8>\n　　　　　　　괜찮은 남자지!<FA>"
+  },
+  {
+   "id": 241,
+   "src": "004be20e0237dff8104e4b13e209091e3afd681225e3fb",
+   "jp": "あっ、そうだ！<F8>\nちょっと、ここまで来てよ。<FB>",
+   "ko": "앗, 맞다!<F8>\n잠깐, 여기까지 와 볼래?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 242,
+   "src": "f2f44518fca0fd2f18fc75fc6c27fc3708fc544b0fdff93b023a220101083be2fd3dfd0d010028011400e5dffa",
+   "jp": "[F2]謎の植物の写真を受け取った！[F9]どうでもいいけど、人使いあらいなあ～！<FA>",
+   "ko": "[F2]수수께끼 식물의 사진을 받았다![F9]아무래도 상관없지만, 사람 참 막 부리네~!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 243,
+   "src": "004bdf0e020e02e2f81703e2fd6a014f37083bf00918fc75fc6cf96ee07ce0fc9bfc9c15fd2e4b124b12dffa",
+   "jp": "あっ！そうそう、<F8>\nねえ、悪いんだけど　この写真[F9]マーロー博士に持ってって！<FA>",
+   "ko": "앗! 맞다 맞다,<F8>\n있잖아, 미안한데　이 사진[F9]말로 박사님한테 갖다 줘!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 244,
+   "src": "7f5c7f840b1401dfdff87f8414fdae19e2fc5b18fdae150628262b2a2625dff9f0f0f0f0f0f0f090e152e173fb",
+   "jp": "グスグズしない！！<F8>\nグズな子は、女の子にきらわれるわよ！[F9]　　　　　　　ボ・ウ・ヤ<FB>",
+   "ko": "꾸물거리지 마!!<F8>\n꾸물대는 애는 여자애들한테 미움받는다구![F9]　　　　　　　꼬·마·야<FB>",
+   "state": "needs_human_review",
+   "note": "원문 「グスグズ」는 「グズグズ」의 오기로 봄.",
+   "question": ""
+  },
+  {
+   "id": 245,
+   "src": "fd080712649f18fc75fc6c3705e22605284f86dffb",
+   "jp": "遠くてナンの写真だか、わからんゾ！<FB>",
+   "ko": "멀어서 무슨 사진인지 모르겠구먼!<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 246,
+   "src": "f8f0f0f0f0f054549bdf0918fc75fc6c19dff9fe69f63b022328e2fd27fc1618fca0fd2f18fd33fc16182502334cdff60b050be2094f141819fd260f091314011802e5e3f62319290918fd7427fd2c4f3afc46fc1f334c4b0fdffe69f604fd9f0f10e2250736133b0812072b0fdff604fd9f0f1015141505fda23a220b0f0118334c2de1e1e1f60001150709091519fc95fc9615fd0d02fd80fc250b0514010b1802fe69f6f6f0f0f0f0f00e02334ce2597b27232c02dff6fe69f637083be23b020d232a142804fd9f0f1018fd043afd33fc53f6fd2f27fdba2afd552d5c5614fdae1523290f011802e5f6fd57334cdefa",
+   "jp": "<F8>\n　　　　　オオッ！この写真は！[F9][FE69][F6]どうやら、新種の植物の一種のようじゃ！[F6]しかし、こんなのは見たことないのう～。[F6]やはりこの島を選んで正解じゃった！[FE69][F6]お前たち、よくぞとどけてくれた！[F6]お前たちになにか礼でもしたいのじゃが・・・[F6]あいにくここには研究に使う道具しかないしのう[FE69][F6][F6]　　　　　そうじゃ、コレをやろう！[F6][FE69][F6]だけど、どうせやるならお前たちの中で一番[F6]物を作る事がスキな子にやりたいのう～[F6]誰じゃ？<FA>",
+   "ko": "<F8>\n　　　　　오오! 이 사진은![F9][FE69][F6]아무래도, 신종 식물의 일종인 것 같구먼![F6]하지만, 이런 건 본 적이 없는데~.[F6]역시 이 섬을 고른 게 정답이었어![FE69][F6]너희, 용케 가져다주었구나![F6]너희에게 뭔가 답례라도 하고 싶은데……[F6]공교롭게도 여기엔 연구에 쓸 도구밖에 없어서[FE69][F6][F6]　　　　　그렇지, 이걸 주마![F6][FE69][F6]그런데, 이왕 줄 거면 너희 중에서[F6]만들기를 가장 좋아하는 아이에게 주고 싶구먼[F6]누구냐?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 247,
+   "src": "fd741519e25571786e9f188399656b96e013f8fdea27fd524b12012a507b9f2d012a1934334cdff9ee4b0f28e2252c0b07110f031204072be3fb",
+   "jp": "島には、カメラマンのジェニファーと<F8>\n音を録っているアレンがいるはずじゃ！[F9]会ったら、よろしくつたえておくれ。<FB>",
+   "ko": "섬에는, 사진가 제니퍼와<F8>\n소리를 녹음하는 앨런이 있을 거야![F9]만나면, 안부 전해 주게.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 248,
+   "src": "374b12e2765be1e1e1f80e4f1422180b05fd2e4b121401224fe3f9fe69f6f403e2141505fca0fd2f15110112fd3c290f054b0f28f6765b15ee0115fd682a130101dffc8e3f12232a0528e3f6765be1e1e1e1fe69f6f6f0f0f0f0f0f001017361334c2cdff6fa",
+   "jp": "だって、ワシ・・・<F8>\nそんなものしか持ってないもん。[F9][FE69][F6]又、なにか植物について知りたかったら[F6]ワシに会いに来るといい！調べてやるから。[F6]ワシ・・・・[FE69][F6][F6]　　　　　　いいヤツじゃろ！[F6]<FA>",
+   "ko": "그야, 나……<F8>\n그런 것밖에 안 가지고 있는걸.[F9][FE69][F6]또, 식물에 대해 뭔가 알고 싶으면[F6]나를 만나러 오렴! 조사해 줄 테니까.[F6]나……[FE69][F6][F6]　　　　　　좋은 녀석이지![F6]<FA>",
+   "state": "needs_human_review",
+   "note": "마로 박사 말버릇. 샘플 0240 「괜찮은 남자지!」에 맞춰 「いいヤツじゃろ」→「괜찮은 녀석이지!」. 용어집 T188(「나… 멋진 남자지!」)과 샘플 0240이 서로 다름.",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "그야, 나……<F8>\n그런 것밖에 안 가지고 있는걸.[F9][FE69][F6]또, 식물에 대해 뭔가 알고 싶으면[F6]나를 만나러 오렴! 조사해 줄 테니까.[F6]나……[FE69][F6][F6]　　　　　　좋은 녀석이지![F6]<FA>",
+     "reason": "초벌은 샘플 0240의 옛 표기 「괜찮은 남자지」에 맞췄으나 §7로 0240이 「멋진 남자지!」가 됨. 「いいヤツ」(물건을 주는 착한 사람)는 「좋은 녀석이지!」가 뜻에 맞음. 말버릇 대구를 더 살리려면 「멋진 녀석이지!」도 가능."
+    }
+   ],
+   "draft_ko": "그야, 나……<F8>\n그런 것밖에 안 가지고 있는걸.[F9][FE69][F6]또, 식물에 대해 뭔가 알고 싶으면[F6]나를 만나러 오렴! 조사해 줄 테니까.[F6]나……[FE69][F6][F6]　　　　　　괜찮은 녀석이지![F6]<FA>"
+  },
+  {
+   "id": 249,
+   "src": "0203e5e25c8101fdbd18636e6337e3f8fd26122a37083ae2546455014b410115144b104c0225e5fb",
+   "jp": "うえ～、スゴい数のトマトだ。<F8>\n見てるだけで、オナカいっぱいになっちゃうよ～<FB>",
+   "ko": "우와, 엄청난 수의 토마토다.<F8>\n보기만 해도, 배가 불러 버릴 것 같아~<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 250,
+   "src": "f8f0f0f0f0579b5e141e0106147d563b221cfe69f61221e028010105304f150b232d2be3f6547bfdc818537268070c17125f873a0c2013fd3b4b0f28f604041e102d013a01dffe69f60e4f1426083ae2609ee0fd8afd3d18fd48fd6219547bfdc82df60034054b0fe3fd7b0b121d0b054b0f28e2fde918fdbc090218f6fd3a1e3afd68232d2bdffe69f6e6fdc7e727fda52b4f1425e3f6f6f0f0f0f0f0f0f0f0fc56fd0e18fdccfd15fd77f0569f7f8e7afa",
+   "jp": "<F8>\n　　　　クッソなまいきなガキどもへ[FE69][F6]てめーらいいかげんにしやがれ。[F6]オレ様のエモノくすねてタダですむと思ったら[F6]おおまちがいでい！[FE69][F6]そんなわけで、チョー美人の先生はオレ様が[F6]あずかった。返してほしかったら、池の向こうの[F6]谷まで来やがれ！[FE69][F6]「玉」を忘れんなよ。[F6][F6]　　　　　　　　天下の大海賊　キングブル<FA>",
+   "ko": "<F8>\n　　　　무지무지 건방진 꼬맹이들에게[FE69][F6]네놈들 적당히 좀 해라.[F6]이 몸의 사냥감을 가로채고 무사할 줄[F6]알았다면 큰 오산이다![FE69][F6]그래서, 엄청 미인인 선생님은 이 몸이[F6]데리고 있다. 돌려받고 싶으면, 연못 건너편[F6]골짜기까지 와라![FE69][F6]「구슬」 잊지 마라.[F6][F6]　　　　　　　　천하의 대해적　킹 불<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 251,
+   "src": "fe6ae1e1e1e1144f1522fd5301121401e3fa",
+   "jp": "[FE6A]・・・・なんにも書いてない。<FA>",
+   "ko": "[FE6A]……아무것도 안 쓰여 있다.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 252,
+   "src": "002b4bdee1e1e10f0b05e2fdb001fc01fc0219fdb001557e3af8fd0f071934144f37083b1446e3f9e1e1e13b020b104c4b0f4f372c02defa",
+   "jp": "あれっ？・・・たしか、青い宝箱は青いカギで<F8>\n開くはずなんだけどなぁ。[F9]・・・どうしちゃったんだろう？<FA>",
+   "ko": "어라? ……파란 보물상자는 파란 열쇠로<F8>\n분명 열릴 텐데.[F9]……어떻게 된 거지?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 253,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119e2759b631f0f0114fd43270b0ffdbdfd1f37e3f926052a05defb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は、ヨットみたいな形をした数字だ。[F9]わかるか？<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는, 요트 같은 모양을 한 숫자요.[F9]알겠소?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 4). 숫자 모양 힌트라 원문 그대로.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는, 요트 같은 모양을 한 숫자요.[F9]알겠소?<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`). 정답 4(요트 모양) 유지."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는, 요트 같은 모양을 한 숫자다.[F9]알겠느냐?<FB>"
+  },
+  {
+   "id": 254,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119e2fce9f42818559f833afd530713f9e6fc46e7130102fca9fd1f131512012afdbdfd1f37e3fb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は、東洋のカンジで書くと[F9]「正」という文字とにている数字だ。<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 한 손의[F9]손가락 개수와 같은 숫자요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 5). 원문: 한자 「正」과 닮은 숫자(正 자 한 개=5로 셈). 한자 글리프를 쓸 수 없어 「한 손의 손가락 수」로 각색.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 한 손의[F9]손가락 개수와 같은 숫자요.<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`)."
+    },
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문(정답 5): 한자 「正」 → 「한 손의 손가락 수」. 권고: 채택. 한국에서도 「바를 정 자」로 표를 세므로 「표 셀 때 쓰는 「바를 정」 자 한 개」 대안도 가능(한자 글리프 불필요)."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 한 손의[F9]손가락 개수와 같은 숫자다.<FB>"
+  },
+  {
+   "id": 255,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119f426fc9e3afd100213f9e60711fd0ee713150ffd25fdea18fdbdfd1f37e3f426fc9e26052a05defb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は英語で言うと[F9]「くつ下」とにた発音の数字だ。英語わかるか？<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 곤충의 다리 개수와 같은[F9]숫자요. 세어 본 적 있소?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 6). 원문: 영어 six≈「くつ下(socks)」 발음. 각색: 곤충 다리 수. 대안: 「주사위에서 가장 큰 눈」.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 곤충의 다리 개수와 같은[F9]숫자요. 세어 본 적 있소?<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`)."
+    },
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문(정답 6): 「くつ下≈six」 → 「곤충의 다리 개수」. 권고: 채택(0704 개미 다리 수 퍼즐과도 어울림). 대안 「주사위에서 가장 큰 눈」."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 곤충의 다리 개수와 같은[F9]숫자다. 세어 본 적 있느냐?<FB>"
+  },
+  {
+   "id": 256,
+   "src": "0006282114013ae22202d5fdc3609c7b9f830b121f12f8072b25e33b020b1222949f7e9f18fd4e2dfcacfcad144f37e3fb",
+   "jp": "あきらめないで、もう１回チャレンジしてみて<F8>\nくれよ。どうしてもペンギンの力が必要なんだ。<FB>",
+   "ko": "포기하지 말고, 한 번 더 도전해 봐 줘.<F8>\n아무래도 펭귄의 힘이 필요하거든.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 257,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119f426fc9e3afd100213f9e6fc56fcc7e713150ffd25fdea18fdbdfd1f37e3f426fc9e26052a05defb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は英語で言うと[F9]「天国」とにた発音の数字だ。英語わかるか？<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 무지개의 색깔 수와 같은[F9]숫자요. 몇 색인지 아시오?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 7). 원문: 영어 seven≈heaven(天国) 발음. 각색: 무지개 색깔 수. 대안: 「일주일의 날 수」.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 무지개의 색깔 수와 같은[F9]숫자요. 몇 색인지 아시오?<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`)."
+    },
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문(정답 7): 「天国≈seven(heaven)」 → 「무지개 색깔 수」. 권고: 채택. 대안 「일주일의 날 수」."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 무지개의 색깔 수와 같은[F9]숫자다. 몇 색인지 아느냐?<FB>"
+  },
+  {
+   "id": 258,
+   "src": "0123e20018e2547b19e2fd0522e20b12e20123e20018e2f8370528e1e1e1e1e1e1e10e02def00e4f14155c8151def95173e0e21e014b0f14e3fb",
+   "jp": "いや、あの、オレは、何も、して、いや、あの、<F8>\nだから・・・・・・・そう？　そんなにスゴイ？[F9]イヤー、まいったな。<FB>",
+   "ko": "아니, 저기, 난, 아무것도, 안, 그게,<F8>\n그러니까…… 그래? 그렇게 대단해?[F9]이야, 이거 쑥스럽네.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 259,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119fd16fd0e27f429150b1222fd4733fdbdfd1f15142af9fc53fc7137e326052a05defb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は上下を逆にしても同じ数字になる[F9]番号だ。わかるか？<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 위아래를 거꾸로 해도[F9]같은 숫자가 되는 번호요. 알겠소?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 8, 추정). 원문 그대로.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 위아래를 거꾸로 해도[F9]같은 숫자가 되는 번호요. 알겠소?<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`). 정답 8 그대로."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 위아래를 거꾸로 해도[F9]같은 숫자가 되는 번호다. 알겠느냐?<FB>"
+  },
+  {
+   "id": 260,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119fd16fd0e27f429150b0f28f9fdb81401fdbdfd1f15144b120b1e02fc53fc7137e3fb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は上下を逆にしたら[F9]少ない数字になってしまう番号だ。<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 위아래를 거꾸로 하면[F9]더 작은 숫자가 되어 버리는 번호요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 9). 원문 그대로.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 위아래를 거꾸로 하면[F9]더 작은 숫자가 되어 버리는 번호요.<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`). 정답 9 그대로."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 위아래를 거꾸로 하면[F9]더 작은 숫자가 되어 버리는 번호다.<FB>"
+  },
+  {
+   "id": 261,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119509b615061185c62e05618250214fdea18f9fdbdfd1f37e3e1e1e10e0201033cfc2ffd96fd924b12140114e3fb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号はアッツアツのステーキのような音の[F9]数字だ。・・・そういえば最近食ってないな。<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 갓 구운 스테이크처럼[F9]「열」이 펄펄 나는 숫자요.<F8>\n……그러고 보니 요즘 통 못 먹었구려.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 10). 원문: 스테이크 굽는 소리 ジュー≈十. 각색: 「열」(熱/10) 동음.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 갓 구운 스테이크처럼[F9]「열」이 펄펄 나는 숫자요.<F8>\n……그러고 보니 요즘 통 못 먹었구려.<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`)."
+    },
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문(정답 10): 스테이크 소리 「ジュー≈十」 → 「열(熱)이 펄펄」. 권고: 채택(동음 말장난이 그대로 살아남)."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 갓 구운 스테이크처럼[F9]「열」이 펄펄 나는 숫자다.<F8>\n……그러고 보니 요즘 통 못 먹었군.<FB>"
+  },
+  {
+   "id": 262,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc71195a9b55e027232a130618f9d5111860e07015fcacfcad14fd3dfdbd13fd4733fdbdfd1f37e3fb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号はサッカーをやるときの[F9]１つのチームに必要な人数と同じ数字だ。<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 축구를 할 때[F9]한 팀에 필요한 인원수와 같은 숫자요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 11). 원문 그대로.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 축구를 할 때[F9]한 팀에 필요한 인원수와 같은 숫자요.<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`). 정답 11."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 축구를 할 때[F9]한 팀에 필요한 인원수와 같은 숫자다.<FB>"
+  },
+  {
+   "id": 263,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc7119fc1efc9c2d1f4f143afd51fd560c2afd4f18f90508fd5c18250214fdbdfd1f37e2d6f42afdae4b12231137e3fb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号は兵士がみんなで行進する時の[F9]かけ声のような数字だ、２拍子ってやつだ。<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 병사들이 다 함께 행진할 때의[F9]구령 같은 숫자요.<F8>\n「하나, 둘!」 하는 2박자 말이오.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 12, 추정). 원문 「イチ、ニ」 구령→한국어 「하나, 둘」(1·2).",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 병사들이 다 함께 행진할 때의[F9]구령 같은 숫자요.<F8>\n「하나, 둘!」 하는 2박자 말이오.<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`)."
+    },
+    {
+     "kind": "question",
+     "proposed": "",
+     "reason": "초벌 질문(정답 12): 「イチ、ニ」 → 「하나, 둘!」(1·2). 권고: 채택."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 병사들이 다 함께 행진할 때의[F9]구령 같은 숫자다.<F8>\n「하나, 둘!」 하는 2박자 말이다.<FB>"
+  },
+  {
+   "id": 264,
+   "src": "e1e1e1e14fdef0fd6418fc53fc7127fd3c290f011805def8fd6418fc53fc71190e18fdbdfd1f18fd372dfc4af42bfd373713f90c3107012314fd50fdca15142afdbdfd1f37e326052a05defb",
+   "jp": "・・・・ん？　私の番号を知りたいのか？<F8>\n私の番号はその数字の日が金曜日だと[F9]すごくいやな気分になる数字だ。わかるか？<FB>",
+   "ko": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 그 숫자의 날이 금요일이면[F9]아주 기분 나빠지는 숫자요. 알겠소?<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "병사 번호 수수께끼(정답 13). 원문 그대로.",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……음? 내 번호를 알고 싶소?<F8>\n내 번호는 그 숫자의 날이 금요일이면[F9]아주 기분 나빠지는 숫자요. 알겠소?<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`). 정답 13."
+    }
+   ],
+   "draft_ko": "……음? 내 번호를 알고 싶으냐?<F8>\n내 번호는 그 숫자의 날이 금요일이면[F9]아주 기분 나빠지는 숫자다. 알겠느냐?<FB>"
+  },
+  {
+   "id": 265,
+   "src": "e1e1e1e1e10e0205e2fc8cfc91fcca15fd07290f011805e3f8fd87fcd5372de1e1e10e2b19fd6418fc2b3a191401e3f90f3e4fe2e6fe6bfc53e718fc2b18193437e3fb",
+   "jp": "・・・・・そうか、資料室に入りたいのか。<F8>\n残念だが・・・それは私の係ではない。[F9]たぶん、「[FE6B]番」の係のはずだ。<FB>",
+   "ko": "……그런가, 자료실에 들어가고 싶소?<F8>\n유감이지만…… 그건 내 담당이 아니오.[F9]아마, 「[FE6B]번」이 담당일 거요.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……그런가, 자료실에 들어가고 싶소?<F8>\n유감이지만…… 그건 내 담당이 아니오.[F9]아마, 「[FE6B]번」이 담당일 거요.<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`)."
+    }
+   ],
+   "draft_ko": "……그런가, 자료실에 들어가고 싶은가.<F8>\n유감이지만…… 그건 내 담당이 아니다.[F9]아마, 「[FE6B]번」이 담당일 거다.<FB>"
+  },
+  {
+   "id": 266,
+   "src": "01051522e2fd642de6fe6d2afc53e718fc1efc9c37e3f8e1e1e1e1e10e0205e2fc8cfc91fcca15fd07290f011805e3f90e2b1428e2e6fe6d20fe6d26e7fc5315fccefda127222803e3fe69f6696969699be2334e02374f37e3f6e1e1e10e0205e2fca1fd50185c519b6027fde7290f011805e3f60101372c02e2ebfda415fd072a091319fccefda10b12232a2dfe69f65c519b60271c4f150e020a0b12f6234b050114091315142814012502150b12072b25e3f6fb",
+   "jp": "いかにも、私が「[FE6D2A]番」の兵士だ。<F8>\n・・・・・そうか、資料室に入りたいのか。[F9]それなら、「[FE6D20][FE6D26]」番に許可をもらえ。[FE69][F6]ハハハハッ、じょうだんだ。[F6]・・・そうか、電気のスイッチを切りたいのか。[F6]いいだろう、部屋に入ることは許可してやるが[FE69][F6]スイッチをへんにそうさして[F6]やっかいなことにならないようにしてくれよ。[F6]<FB>",
+   "ko": "그렇소, 내가 「[FE6D2A]번」 병사요.<F8>\n……그런가, 자료실에 들어가고 싶소?[F9]그렇다면, 「[FE6D20][FE6D26]」번에게 허락을 받으시오.[FE69][F6]하하하핫, 농담이오.[F6]……그런가, 전기 스위치를 끄고 싶소?[F6]좋소, 방에 들어가는 건 허락하겠소만[FE69][F6]스위치를 이상하게 조작해서[F6]골치 아픈 일이 생기지 않도록 하시오.[F6]<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "그렇소, 내가 「[FE6D2A]번」 병사요.<F8>\n……그런가, 자료실에 들어가고 싶소?[F9]그렇다면, 「[FE6D20][FE6D26]」번에게 허락을 받으시오.[FE69][F6]하하하핫, 농담이오.[F6]……그런가, 전기 스위치를 끄고 싶소?[F6]좋소, 방에 들어가는 건 허락하겠소만[FE69][F6]스위치를 이상하게 조작해서[F6]골치 아픈 일이 생기지 않도록 하시오.[F6]<FB>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`)."
+    }
+   ],
+   "draft_ko": "그렇다, 내가 「[FE6D2A]번」 병사다.<F8>\n……그런가, 자료실에 들어가고 싶은가.[F9]그렇다면, 「[FE6D20][FE6D26]」번에게 허락을 받아라.[FE69][F6]하하하핫, 농담이다.[F6]……그런가, 전기 스위치를 끄고 싶은가.[F6]좋다, 방에 들어가는 건 허락해 주지만[FE69][F6]스위치를 이상하게 조작해서[F6]골치 아픈 일이 생기지 않도록 해라.[F6]<FB>"
+  },
+  {
+   "id": 267,
+   "src": "002b4bdee1e1e10f0b05e2fdaf18fc01fc0219fdaf18557e3af8fd0f071934144f37083b1446e3f9e1e1e13b020b104c4b0f4f372c02defa",
+   "jp": "あれっ？・・・たしか、緑の宝箱は緑のカギで<F8>\n開くはずなんだけどなぁ。[F9]・・・どうしちゃったんだろう？<FA>",
+   "ko": "어라? ……초록 보물상자는 초록 열쇠로<F8>\n분명 열릴 텐데.[F9]……어떻게 된 거지?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 268,
+   "src": "3a19e2fdc0fc613b0429fd0b4b1222fd420136e3fa",
+   "jp": "では、約束どおり通っても良いぞ。<FA>",
+   "ko": "그럼, 약속대로 지나가도 좋소.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "그럼, 약속대로 지나가도 좋소.<FA>",
+     "reason": "§7 깅엄 병사 말투 `~하오/~이오` 적용(초벌은 `~다/~느냐`). (화자 추정: 0265–0266 직후의 깅엄 병사. 화자가 다르면 초벌 유지)"
+    }
+   ],
+   "draft_ko": "그럼, 약속대로 지나가도 좋다.<FA>"
+  },
+  {
+   "id": 269,
+   "src": "f2304bdff0fcc508101e4b0fe1e1e1e3f90b4e022d1703e2092b232a25dffa",
+   "jp": "[F2]げっ！　負けちまった・・・。[F9]しょうがねえ、これやるよ！<FA>",
+   "ko": "[F2]윽! 져 버렸다…….[F9]할 수 없지, 이거 줄게!<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 270,
+   "src": "f50339526d6de5f8fc1bfc1a1e013b0029e5f9f0f0789b577c9b57fe6d20fc93e2fc7ffd0615224b120725e5e3fa",
+   "jp": "[F50339]ウホホ～<F8>\n訳：まいどあり～[F9]　　ラックロック[FE6D20]個、勝手にもってくよ～。<FA>",
+   "ko": "[F50339]우호호~<F8>\n번역: 고맙습니다~[F9]　　럭록 [FE6D20]개, 마음대로 가져간다~.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 271,
+   "src": "fd0e1561902dfd4a0112002a1f0f0137e3f80918fdf405283713d7110b05fd26031401083be1e1e1e1e1f9fc000161902dd511e2fdb00161902dd611fd26032ae3fb",
+   "jp": "下にツボが置いてあるみたいだ。<F8>\nこの穴からだと３つしか見えないけど・・・・・[F9]赤いツボが１つ、青いツボが２つ見える。<FB>",
+   "ko": "아래에 항아리가 놓여 있는 것 같아.<F8>\n이 구멍으로는 3개밖에 안 보이지만……[F9]빨간 항아리 1개, 파란 항아리 2개가 보여.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 272,
+   "src": "fd0e1561902dfd4a0112002a1f0f0137e3f80918fdf405283713d8110b05fd26031401083be1e1e1e1e1f9fc000161902dd611e2fdb00161902dd611fd26032ae3fb",
+   "jp": "下にツボが置いてあるみたいだ。<F8>\nこの穴からだと４つしか見えないけど・・・・・[F9]赤いツボが２つ、青いツボが２つ見える。<FB>",
+   "ko": "아래에 항아리가 놓여 있는 것 같아.<F8>\n이 구멍으로는 4개밖에 안 보이지만……[F9]빨간 항아리 2개, 파란 항아리 2개가 보여.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 273,
+   "src": "0918fdf418e2104e023bfc6cfd0e15002a182d0918619037e3fb",
+   "jp": "この穴の、ちょうど真下にあるのがこのツボだ。<FB>",
+   "ko": "이 구멍 바로 아래에 있는 게 이 항아리야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 274,
+   "src": "092b19fc0001fd5b18619037e3fb",
+   "jp": "これは赤い色のツボだ。<FB>",
+   "ko": "이건 빨간색 항아리다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 275,
+   "src": "092b19fdb001fd5b18619037e3fb",
+   "jp": "これは青い色のツボだ。<FB>",
+   "ko": "이건 파란색 항아리다.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 276,
+   "src": "fd960715fd514b12fd4207fd26121f2502e3fb",
+   "jp": "近くに行って良く見てみよう。<FB>",
+   "ko": "가까이 가서 잘 보자.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 277,
+   "src": "947ee2947ee2947fe0e3f8fc1bfc1afd3dfd0a18949b634b12231115142a1822e2f9f0f00101224f3714e0e3fb",
+   "jp": "ペギ、ペギ、ペグー。<F8>\n訳：人間のペットってやつになるのも、[F9]　　いいもんだなー。<FB>",
+   "ko": "펭, 펭, 펭그ー.<F8>\n번역: 인간의 애완동물이란 것도,[F9]　　좋은 거구나ー.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 278,
+   "src": "004bdffdf418fc6cfd0e15002a619015fd0505fd074b122ae3fb",
+   "jp": "あっ！穴の真下にあるツボに何か入ってる。<FB>",
+   "ko": "앗! 구멍 바로 아래 항아리에 뭔가 들었어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 279,
+   "src": "e1e1e1df234b41290e0237e3f80918619018fd041569606f612dfc4c100f4f37e3fb",
+   "jp": "・・・！やっぱりそうだ。<F8>\nこのツボの中にハチミツが落ちたんだ。<FB>",
+   "ko": "……! 역시 그렇구나.<F8>\n이 항아리 안에 꿀이 떨어진 거야.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 280,
+   "src": "e1e1e1e1e1094f14fd2a3afd050b122a05fd3c290f014b12def80e4f14224f6a6f6115fc0d1e4b122a372c02e1e1e13a22f904fd9fe2250e224f1f0f01370b14e1e1e1fdf115010105e3fe69f604fd9fe2fc100528fd680f4f372c02def6fd163ae23a4b0501696015ee2614054b0f05def65478190e18696018fc4c130c6f6127fdfc4b122a4f37e3fe69f614051405e2fc4c130b12072b1401083b14e3fb",
+   "jp": "・・・・・こんな所で何してるか知りたいって？<F8>\nそんなもんヒミツに決まってるだろう・・・でも[F9]お前、よそもんみたいだしな・・・別にいいか。[FE69][F6]お前、森から来たんだろう？[F6]上で、でっかいハチに会わなかったか？[F6]オラはそのハチの落とすミツを待ってるんだ。[FE69][F6]なかなか、落としてくれないけどな。<FB>",
+   "ko": "……이런 데서 뭘 하는지 알고 싶다고?<F8>\n그런 건 당연히 비밀이지…… 그래도[F9]너, 외지 사람 같으니께…… 뭐 괜찮겠지.[FE69][F6]너, 숲에서 왔지?[F6]위에서, 커다란 벌 못 만났어?[F6]난 그 벌이 떨어뜨리는 꿀을 기다리는 거여.[FE69][F6]좀처럼, 떨어뜨려 주질 않지만.<FB>",
+   "state": "needs_human_review",
+   "note": "꿀 기다리는 남자(オラ, ～だ)는 가벼운 시골 말투(~구먼/~니께/~여)로 처리. 0282–0288 통일.",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "……이런 데서 뭘 하는지 알고 싶다고?<F8>\n그런 건 당연히 비밀이지…… 그래도[F9]너, 외지 사람 같으니께…… 뭐 괜찮겠지.[FE69][F6]너, 숲에서 왔지?[F6]위에서, 커다란 벌 못 만났어?[F6]난 그 벌이 떨어뜨리는 꿀을 기다리는 거여.[FE69][F6]좀처럼, 떨어뜨려 주질 않지만.<FB>",
+     "reason": "§7 꿀단지 남자는 충청도식 `~여/말어/아녀`. 「~구먼」은 관리인·하잔 쪽 어미라 겹침."
+    }
+   ],
+   "draft_ko": "……이런 데서 뭘 하는지 알고 싶다고?<F8>\n그런 건 당연히 비밀이지…… 그래도[F9]너, 외지 사람 같으니께…… 뭐 괜찮겠지.[FE69][F6]너, 숲에서 왔지?[F6]위에서, 커다란 벌 못 만났어?[F6]난 그 벌이 떨어뜨리는 꿀을 기다리고 있구먼.[FE69][F6]좀처럼, 떨어뜨려 주질 않지만.<FB>"
+  },
+  {
+   "id": 281,
+   "src": "f262e0937b59e087e0270034054b0fe3f8fd52fdea23fc84fd622dfd31fd682a5c7f7b7268dfdff9104e4b13e2052912040902e3fa",
+   "jp": "[F2]テープレコーダーをあずかった。<F8>\n録音や再生が出来るスグレモノ！！[F9]ちょっと、かりておこう。<FA>",
+   "ko": "[F2]테이프 레코더를 맡았다.<F8>\n녹음도 재생도 되는 훌륭한 물건!![F9]잠깐, 빌려 두자.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 282,
+   "src": "0401e20401df0e186190195478180b05080f224f37e3f8054b1215fd260f2801054f36dff9e1e1e1e1e1e1e1e1e11e4be2fd262a2f280119010105e3fb",
+   "jp": "おい、おい！そのツボはオラのしかけたもんだ。<F8>\nかってに見たらいかんぞ！[F9]・・・・・・・・・まっ、見るぐらいはいいか。<FB>",
+   "ko": "어이, 어이! 그 항아리는 내가 설치한 거여.<F8>\n멋대로 보지 말어![F9]………뭐, 보는 정도는 괜찮겠지.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "어이, 어이! 그 항아리는 내가 설치한 거여.<F8>\n멋대로 보지 말어![F9]………뭐, 보는 정도는 괜찮겠지.<FB>",
+     "reason": "§7 꿀단지 남자 충청도식 `~여/말어/아녀`."
+    }
+   ],
+   "draft_ko": "어이, 어이! 그 항아리는 내가 설치한 거여.<F8>\n멋대로 보면 안 된다고![F9]………뭐, 보는 정도는 괜찮겠지.<FB>"
+  },
+  {
+   "id": 283,
+   "src": "fd05def0fd163a69606f6127fc4c130b0f181904fd9f374b12f8fd10024f05def0e1e1e1e11d4f1305dee1e1e1e1e1e1f96d9f631428224b13fd960715fd6801e3fb",
+   "jp": "何？　上でハチミツを落としたのはお前だって<F8>\n言うんか？　・・・・ほんとか？・・・・・・[F9]ホントならもっと近くに来い。<FB>",
+   "ko": "뭐? 위에서 꿀을 떨어뜨린 게 너라고<F8>\n하는 거여? ……정말이여? ………[F9]정말이면 좀 더 가까이 와 봐.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 284,
+   "src": "6963fd4ffdb2278d9b57790a0d0f250214736137dffb",
+   "jp": "ハト時計をビックリさせたようなヤツだ！<FB>",
+   "ko": "뻐꾸기시계를 놀래 준 것 같은 녀석이다!<FB>",
+   "state": "needs_human_review",
+   "note": "원문 「ハト時計」=뻐꾸기시계. 문맥 불명의 조사 문구.",
+   "question": ""
+  },
+  {
+   "id": 285,
+   "src": "f26ee07ce0fc9bfc9c0528e2835b9c572722284b0fdff937083be2094f141822284b123b020c2a18defa",
+   "jp": "[F2]マーロー博士から、ジシャクをもらった！[F9]だけど、こんなのもらってどうするの？<FA>",
+   "ko": "[F2]말로 박사에게서 자석을 받았다![F9]그런데, 이런 걸 받아서 어쩌라고?<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 286,
+   "src": "947ee2947ee2947ee3f8fc1bfc1afc670f1015110112010713003e1401864b12e2f9f0f0905718fcb6fd3cfc66fd4e2dfd104b122a4f37e3fb",
+   "jp": "ペギ、ペギ、ペギ。<F8>\n訳：君たちについていくとあぶないゾって、[F9]　　ボクの予知能力が言ってるんだ。<FB>",
+   "ko": "펭, 펭, 펭.<F8>\n번역: 너희를 따라가면 위험하다고,[F9]　　내 예지 능력이 말하고 있어.<FB>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 287,
+   "src": "220be20e2b2d1d4f13021428e23b18619015fc4c100f05f82226052a1934372514e3f91428e2fc1912121f14e3fa",
+   "jp": "もし、それがほんとうなら、どのツボに落ちたか<F8>\nもわかるはずだよな。[F9]なら、当ててみな。<FA>",
+   "ko": "그게 정말이면, 어느 항아리에 떨어졌는지도<F8>\n알 거 아녀.[F9]그럼, 맞혀 봐.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 288,
+   "src": "547819fdccfd3d37052814e2d6fdc31e3a609c9f5c27232ae3f8fce418fe6d461891677a3a6190270a0b14e3fa",
+   "jp": "オラは大人だからな、２回までチャンスをやる。<F8>\n横の[FE6D46]のパネルでツボをさしな。<FA>",
+   "ko": "난 어른이니께, 기회를 2번까지 줄 겨.<F8>\n옆의 [FE6D46] 패널로 항아리를 가리켜.<FA>",
+   "state": "needs_human_review",
+   "note": "",
+   "question": "",
+   "review": [
+    {
+     "kind": "consistency",
+     "proposed": "난 어른이니께, 기회를 2번까지 줄 겨.<F8>\n옆의 [FE6D46] 패널로 항아리를 가리켜.<FA>",
+     "reason": "§7 꿀단지 남자 충청도식 어미."
+    }
+   ],
+   "draft_ko": "난 어른이니께, 기회를 2번까지 주겠어.<F8>\n옆의 [FE6D46] 패널로 항아리를 가리켜.<FA>"
+  }
+ ]
+}

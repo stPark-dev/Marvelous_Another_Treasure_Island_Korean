@@ -1,0 +1,944 @@
+{
+ "batch": "ui",
+ "source_sha256": "555d78c9e4667bee7fb503efd87ed9fc82c55b0e8bde034a10aa2a53967762c5",
+ "entries": [
+  {
+   "id": 2973,
+   "src": "000102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f202122232425262728292a2b2c2d2e2f303132333435363738393a3b3c3d3e3f404142434445464748494a4b4c4d4e4ffb",
+   "jp": "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよわをらりるれろがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょん<FB>",
+   "ko": "",
+   "keep_source": true,
+   "state": "needs_human_review",
+   "note": "이름 입력 문자판: 바이트=글리프 번호. 슬롯 00-9F/E9-EF에 data/name_entry.json 음절을 고정 배치하므로 원문 바이트를 유지(설계 결정)",
+   "question": ""
+  },
+  {
+   "id": 2974,
+   "src": "505152535455565758595a5b5c5d5e5f606162636465666768696a6b6c6d6e6f707172737475767778797a7b7c7d7e7f808182838485868788898a8b8c8d8e8f909192939495969798999a9b9c9d9e9ffb",
+   "jp": "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨワヲラリルレロガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョン<FB>",
+   "ko": "",
+   "keep_source": true,
+   "state": "needs_human_review",
+   "note": "이름 입력 문자판: 바이트=글리프 번호. 슬롯 00-9F/E9-EF에 data/name_entry.json 음절을 고정 배치하므로 원문 바이트를 유지(설계 결정)",
+   "question": ""
+  },
+  {
+   "id": 2975,
+   "src": "a0a1a2a3a4a5a6a7a8a9aaabacadaeafb0b1b2b3b4b5b6b7b8b9babbbcbdbebfc0c1c2c3c4c5c6c7c8c9cacbcccdcecfd0d1d2d3d4d5d6d7d8d9dadbdcdddedfe0e1e2e3e4e5e6e7e8e9eaebecedeeeffb",
+   "jp": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ０１２３４５６７８９？！ー・、。’～「」／倶楽部隊団会族<FB>",
+   "ko": "",
+   "keep_source": true,
+   "state": "needs_human_review",
+   "note": "이름 입력 문자판: 바이트=글리프 번호. 슬롯 00-9F/E9-EF에 data/name_entry.json 음절을 고정 배치하므로 원문 바이트를 유지(설계 결정)",
+   "question": ""
+  },
+  {
+   "id": 2976,
+   "src": "fdf8fdf9d5d6d7d8d9e0569c9f93fd7418f413f0fd15fd77f08f9f5e9ff08c548c8e18fdddf0f07979919b63fc5afcc7f083e064fd48fd62e1e1e1f0f0f0f0f0f0f0f0fb",
+   "jp": "第章１２３４５ーキャンプ島の夏　海賊　ベンソン　バオバブの木　　リリパット王国　ジーナ先生・・・　　　　　　　　<FB>",
+   "ko": "제장12345ー캠프섬의　여름　해적　벤슨　　　바오바브나무　　릴리퍼트　왕국　지나　선생님……　　　　　　　　<FB>",
+   "state": "needs_review",
+   "note": "장 제목 풀: 第→제, 章→장 위치 보존, 제목 8칸 고정(전각 공백)",
+   "question": ""
+  },
+  {
+   "id": 2977,
+   "src": "e0fdf8d5fdf92af0f0f0569c9f93fd7418f413f0629f6305285c5fe0630c2af0f0f0f0f0fda618fd0405285c5fe0630c2af0f0f0f0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第１章る　　　キャンプ島の夏　テントからスタートする　　　　　船の中からスタートする　　　　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제1장　　　　캠프섬의　여름　텐트에서　시작한다　　　　　　　배　안에서　시작한다　　　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2978,
+   "src": "e0fdf8d6fdf92af0f0f0fd15fd77f08f9f5e9ff0fda618fd0405285c5fe0630c2af0f0f0f0f0fd4ffdb218002afc0705285c5fe0630c2af0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第２章る　　　海賊　ベンソン　船の中からスタートする　　　　　時計のある家からスタートする　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제2장　　　　해적　벤슨　　　배　안에서　시작한다　　　　　　시계　있는　집에서　시작　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2979,
+   "src": "e0fdf8d7fdf92af0f0f08c548c8e18fdddf0f0fda618fd0405285c5fe0630c2af0f0f0f0f0fd8d18fc62fd3efda405285c5fe0630c2af0f0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第３章る　　　バオバブの木　　船の中からスタートする　　　　　村の馬小屋からスタートする　　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제3장　　　　바오바브나무　　배　안에서　시작한다　　　　　　마을　마구간에서　시작　　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2980,
+   "src": "e0fdf8d8fdf92af0f0f07979919b63fc5afcc7f0fda618fd0405285c5fe0630c2af0f0f0f0f0fcc4fd0efc0c18f418fda405285c5fe0630c2af0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第４章る　　　リリパット王国　船の中からスタートする　　　　　城下町の宿屋からスタートする　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제4장　　　　릴리퍼트　왕국　배　안에서　시작한다　　　　　　성　아랫마을　여관에서　　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2981,
+   "src": "e0fdf8d9fdf92af0f0f083e064fd48fd62e1e1e1fda618fd0405285c5fe0630c2af0f0f0f0f0fda618fd0405285c5fe0630c2af0f0f0f0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第５章る　　　ジーナ先生・・・船の中からスタートする　　　　　船の中からスタートする　　　　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제5장　　　　지나　선생님……배　안에서　시작한다　　　　　　배　안에서　시작한다　　　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2982,
+   "src": "e1e1e1877137e1e1e1e3fdbafccf27fc9a12fcd40e02dfdff0f0f0f0f0f0f0f0f0f0f0f0f0fb",
+   "jp": "・・・ダメだ・・・。作戦を立て直そう！！　　　　　　　　　　　　　<FB>",
+   "ko": "……안　돼……　작전을　다시　　세우자!!　　　　　　　　　　　　<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2983,
+   "src": "e0fdf8d5fdf92af0f0f0569c9f93fd7418f413f0629f630528fc84fd0f0c2af0f0f0f0f0f0f0fda618fd040528fc84fd0f0c2af0f0f0f0f0f0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第１章る　　　キャンプ島の夏　テントから再開する　　　　　　　船の中から再開する　　　　　　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제1장　　　　캠프섬의　여름　텐트에서　다시　시작　　　　　　배　안에서　다시　시작　　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2984,
+   "src": "e0fdf8d6fdf92af0f0f0fd15fd77f08f9f5e9ff0fda618fd040528fc84fd0f0c2af0f0f0f0f0f0f0fd4ffdb218002afc070528fc84fd0f0c2af0f0f0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第２章る　　　海賊　ベンソン　船の中から再開する　　　　　　　時計のある家から再開する　　　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제2장　　　　해적　벤슨　　　배　안에서　다시　시작　　　　　시계　있는　집에서　재개　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2985,
+   "src": "e0fdf8d7fdf92af0f0f08c548c8e18fdddf0f0fda618fd040528fc84fd0f0c2af0f0f0f0f0f0f0fd8d18fc62fd3efda40528fc84fd0f0c2af0f0f0f0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第３章る　　　バオバブの木　　船の中から再開する　　　　　　　村の馬小屋から再開する　　　　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제3장　　　　바오바브나무　　배　안에서　다시　시작　　　　　마을　마구간에서　재개　　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2986,
+   "src": "e0fdf8d8fdf92af0f0f07979919b63fc5afcc7f0fda618fd040528fc84fd0f0c2af0f0f0f0f0f0f0fcc4fd0efc0c18f418fda40528fc84fd0f0c2af0f0f0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第４章る　　　リリパット王国　船の中から再開する　　　　　　　城下町の宿屋から再開する　　　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제4장　　　　릴리퍼트　왕국　배　안에서　다시　시작　　　　　성　아랫마을　여관에서　　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2987,
+   "src": "e0fdf8d9fdf92af0f0f083e064fd48fd62e1e1e1fdb018fdd718fd9f0528fc84fd0f0c2af0f0f0f0f0fdb018fdd718fd9f0528fc84fd0f0c2af0f0f0f0f0b2a0b5a40b12fd1326fb",
+   "jp": "ー第５章る　　　ジーナ先生・・・青の扉の前から再開する　　　　　青の扉の前から再開する　　　　　ＳＡＶＥして終わ<FB>",
+   "ko": "ー제5장　　　　지나　선생님……배　안에서　다시　시작　　　　　파란　문　앞에서　재개　　　　　저장하고　끝내기<FB>",
+   "state": "needs_review",
+   "note": "장 선택 풀: 8칸 구간 위치 보존, る 칸(4번)은 공백, 마지막 구간=저장하고 끝내기",
+   "question": ""
+  },
+  {
+   "id": 2988,
+   "src": "7b9b8b57795c5f7afb",
+   "jp": "レッドクリスタル<FB>",
+   "ko": "레드 크리스털<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 2989,
+   "src": "8e7ae057795c5f7afb",
+   "jp": "ブルークリスタル<FB>",
+   "ko": "블루 크리스털<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 2990,
+   "src": "51537ce057795c5f7afb",
+   "jp": "イエロークリスタル<FB>",
+   "ko": "옐로 크리스털<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 2991,
+   "src": "7f79e09f57795c5f7afb",
+   "jp": "グリーンクリスタル<FB>",
+   "ko": "그린 크리스털<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 2992,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 2993,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 2994,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 2995,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 2996,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 2997,
+   "src": "0c4b4101557efb",
+   "jp": "すっぱいカギ<FB>",
+   "ko": "시큼한 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 2998,
+   "src": "839c9f052822284b0ff005090118557efb",
+   "jp": "ジャンからもらった　かこいのカギ<FB>",
+   "ko": "가위에게 받은 울타리 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": "",
+   "draft_ko": "장에게 받은 울타리 열쇠<FB>",
+   "review": [
+    {
+     "kind": "decision",
+     "proposed": "",
+     "reason": "D9/D10 적용"
+    }
+   ]
+  },
+  {
+   "id": 2999,
+   "src": "a1905f9f18839c9f938ee061fb",
+   "jp": "Ｂボタンのジャンプブーツ<FB>",
+   "ko": "B버튼의 점프 부츠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3000,
+   "src": "a1905f9f18fdcc0614699f6ee0fb",
+   "jp": "Ｂボタンの大きなハンマー<FB>",
+   "ko": "B버튼의 커다란 해머<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3001,
+   "src": "a1905f9f18919f607f7ce08efb",
+   "jp": "Ｂボタンのパンチグローブ<FB>",
+   "ko": "B버튼의 펀치 글러브<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3002,
+   "src": "6ee07ce0fc9bfc9c18835b9c57fb",
+   "jp": "マーロー博士のジシャク<FB>",
+   "ko": "말로 박사의 자석<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3003,
+   "src": "a1905f9f1863789f5be08ce0fb",
+   "jp": "Ｂボタンのトランシーバー<FB>",
+   "ko": "B버튼의 무전기<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3004,
+   "src": "fd650a2b120ffdb1567bfb",
+   "jp": "隠されてた板キレ<FB>",
+   "ko": "숨겨져 있던 판자 조각<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3005,
+   "src": "1411050b01fdf4000660e084fb",
+   "jp": "なつかしい穴あきチーズ<FB>",
+   "ko": "그리운 구멍 난 치즈<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3006,
+   "src": "a1905f9f185b54fd38185c937be0fb",
+   "jp": "Ｂボタンのシオ水のスプレー<FB>",
+   "ko": "B버튼의 소금물 스프레이<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3007,
+   "src": "011f0b4f14fded3d0f7ce093fb",
+   "jp": "いみしんな古びたロープ<FB>",
+   "ko": "의미심장한 낡은 밧줄<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3008,
+   "src": "fd0d0115070e0214599f637ce078e0fb",
+   "jp": "使いにくそうなコントローラー<FB>",
+   "ko": "다루기 힘든 컨트롤러<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3009,
+   "src": "6d9f726818765b185f6e81fb",
+   "jp": "ホンモノのワシのタマゴ<FB>",
+   "ko": "진짜 독수리 알<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3010,
+   "src": "262d1e1e14fd3efd3df09579e0fb",
+   "jp": "わがままな小人　ポリー<FB>",
+   "ko": "제멋대로인 소인 폴리<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3011,
+   "src": "fd7b0b1222284b0ffdcc061461798c79fb",
+   "jp": "返してもらった大きなツリバリ<FB>",
+   "ko": "돌려받은 커다란 낚싯바늘<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3012,
+   "src": "a1905f9f1861798254fb",
+   "jp": "Ｂボタンのツリザオ<FB>",
+   "ko": "B버튼의 낚싯대<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3013,
+   "src": "64515b9e18fd8d1859519ffb",
+   "jp": "ナイショの村のコイン<FB>",
+   "ko": "비밀의 마을 코인<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3014,
+   "src": "a1905f9f18879b5b9d5b9de084fb",
+   "jp": "Ｂボタンのダッシュシューズ<FB>",
+   "ko": "B버튼의 대시 슈즈<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3015,
+   "src": "a1905f9f186f9b631390e07afb",
+   "jp": "Ｂボタンのミットとボール<FB>",
+   "ko": "B버튼의 미트와 공<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3016,
+   "src": "05294b41140b1862e0937b59e087e0fb",
+   "jp": "かりっぱなしのテープレコーダー<FB>",
+   "ko": "빌린 채인 테이프 녹음기<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3017,
+   "src": "f44518fc75fc6cfb",
+   "jp": "謎の写真<FB>",
+   "ko": "수수께끼의 사진<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3018,
+   "src": "04011208402918fd3dfd43fb",
+   "jp": "おいてけぼりの人形<FB>",
+   "ko": "홀로 남겨진 인형<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3019,
+   "src": "fdf4fd9d296e5be09ff0222f28fc67fb",
+   "jp": "穴掘りマシーン　もぐら君<FB>",
+   "ko": "구멍파기 머신 두더지 군<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3020,
+   "src": "0c4b41017c527318557efb",
+   "jp": "すっぱいロウヤのカギ<FB>",
+   "ko": "시큼한 감옥 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3021,
+   "src": "fc1efc9c18fcaaf05e7a839ce08e7ae0fb",
+   "jp": "兵士の薬　ソルジャーブルー<FB>",
+   "ko": "병사의 약 솔저 블루<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3022,
+   "src": "636e63fb",
+   "jp": "トマト<FB>",
+   "ko": "토마토<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3023,
+   "src": "0500104c4f1863527d785bfcc9fc19fb",
+   "jp": "かあちゃんのトウガラシ弁当<FB>",
+   "ko": "엄마의 고추 도시락<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3024,
+   "src": "8e561514281401557818fd386352fb",
+   "jp": "ブキにならないカラの水トウ<FB>",
+   "ko": "무기가 안 되는 빈 물통<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3025,
+   "src": "525e070a0164957b549f18648ffb",
+   "jp": "ウソくさいナポレオンのナベ<FB>",
+   "ko": "수상쩍은 나폴레옹의 냄비<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3026,
+   "src": "655d72684b45015b9e527f9f186190fb",
+   "jp": "ニセモノっぽいショウグンのツボ<FB>",
+   "ko": "가짜 같은 쇼군의 항아리<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3027,
+   "src": "00230b015b996bfd6b18fc70fdaefb",
+   "jp": "あやしいシェフ長の帽子<FB>",
+   "ko": "수상한 주방장의 모자<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3028,
+   "src": "fd04fded18fc101855517d78fb",
+   "jp": "中古の森のカイガラ<FB>",
+   "ko": "중고 숲의 조개껍데기<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3029,
+   "src": "024f10076e7afc6e1866587d78fb",
+   "jp": "うんちくマル虫のヌケガラ<FB>",
+   "ko": "아는 척 공벌레의 허물<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3030,
+   "src": "fca1fd508d798d79f055537a185b9b95fb",
+   "jp": "電気ビリビリ　カエルのシッポ<FB>",
+   "ko": "찌릿찌릿 개구리 꼬리<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3031,
+   "src": "1e132214fddcfd3efda4fb",
+   "jp": "まともな犬小屋<FB>",
+   "ko": "멀쩡한 개집<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3032,
+   "src": "040b4c2b6f68705b18fc101859e063fb",
+   "jp": "おしゃれミノムシの森のコート<FB>",
+   "ko": "멋쟁이 도롱이벌레 숲 코트<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3033,
+   "src": "04073d4e028c6018fc4a180b3407fb",
+   "jp": "おくびょうバチの金のしずく<FB>",
+   "ko": "겁쟁이 벌의 금빛 물방울<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3034,
+   "src": "577218fc120618fd3f18fc151e06fb",
+   "jp": "クモの兄きの銀の糸まき<FB>",
+   "ko": "거미 형님의 은 실패<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3035,
+   "src": "fc0001fd5a18fc25f06958f42406fb",
+   "jp": "赤い絵の具　ハケ付き<FB>",
+   "ko": "빨간 물감 붓 포함<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3036,
+   "src": "fdaf18fd5a18fc25f06958f42406fb",
+   "jp": "緑の絵の具　ハケ付き<FB>",
+   "ko": "초록 물감 붓 포함<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3037,
+   "src": "fdb001fd5a18fc25f06958f42406fb",
+   "jp": "青い絵の具　ハケ付き<FB>",
+   "ko": "파란 물감 붓 포함<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3038,
+   "src": "fd3e0a14557efb",
+   "jp": "小さなカギ<FB>",
+   "ko": "작은 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3039,
+   "src": "fd48fd6215fd26122228010f016b5b7e14fdc7fb",
+   "jp": "先生に見てもらいたいフシギな玉<FB>",
+   "ko": "선생님께 보일 신기한 구슬<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3040,
+   "src": "fc0001557efb",
+   "jp": "赤いカギ<FB>",
+   "ko": "빨간 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3041,
+   "src": "fdaf18557efb",
+   "jp": "緑のカギ<FB>",
+   "ko": "초록 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3042,
+   "src": "fdb001557efb",
+   "jp": "青いカギ<FB>",
+   "ko": "파란 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3043,
+   "src": "e65f567ee719e2d4fb",
+   "jp": "「タキギ」は、０<FB>",
+   "ko": "「땔감」은　　0<FB>",
+   "state": "needs_review",
+   "note": "숫자 앞 글자 수 7칸 유지(런타임 위치 덮어쓰기 가능성)",
+   "question": ""
+  },
+  {
+   "id": 3044,
+   "src": "0f181e2b0f5b5c5918fcd0fb",
+   "jp": "たのまれたシスコの花<FB>",
+   "ko": "부탁받은 시스코의 꽃<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3045,
+   "src": "fcd3e6fddc18535ae7fb",
+   "jp": "骨「犬のエサ」<FB>",
+   "ko": "뼈 「개 먹이」<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3046,
+   "src": "e6230b06e718557efb",
+   "jp": "「やしき」のカギ<FB>",
+   "ko": "「저택」 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3047,
+   "src": "fdecfc470b12114b0f55537afb",
+   "jp": "苦労してつったカエル<FB>",
+   "ko": "고생해서 낚은 개구리<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3048,
+   "src": "8f9f5e9f1852e59ff08751646e5163fb",
+   "jp": "ベンソンのウ～ン　ダイナマイト<FB>",
+   "ko": "벤슨의 으~음 다이너마이트<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3049,
+   "src": "e6789b577c9b57e719e2d4fc93fb",
+   "jp": "「ラックロック」は、０個<FB>",
+   "ko": "「럭록」은　　　　　0개<FB>",
+   "state": "needs_review",
+   "note": "숫자 앞 10칸 유지(같은 이유)",
+   "question": ""
+  },
+  {
+   "id": 3050,
+   "src": "a1905f9f185a9b55e05b9de084fb",
+   "jp": "Ｂボタンのサッカーシューズ<FB>",
+   "ko": "B버튼의 축구화<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3051,
+   "src": "a1905f9f18fd38fd04717d67fb",
+   "jp": "Ｂボタンの水中メガネ<FB>",
+   "ko": "B버튼의 물안경<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3052,
+   "src": "fdf4fd9d296e5b9f18fcf6fdb2fc33fb",
+   "jp": "穴掘りマシンの設計図<FB>",
+   "ko": "구멍파기 머신 설계도<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3053,
+   "src": "64515b9e18fd48fd6218fc00015c55e06bfb",
+   "jp": "ナイショの先生の赤いスカーフ<FB>",
+   "ko": "비밀의 선생님 빨간 스카프<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3054,
+   "src": "646e2f0a01575a7918557efb",
+   "jp": "ナマぐさいクサリのカギ<FB>",
+   "ko": "비린내 나는 쇠사슬 열쇠<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3055,
+   "src": "0b4e4b41015b54fd3818fd386352fb",
+   "jp": "しょっぱいシオ水の水トウ<FB>",
+   "ko": "짭짤한 소금물 물통<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3056,
+   "src": "7079232922284b0f8c5c5fe0f42dfb",
+   "jp": "ムリやりもらったバスター砲<FB>",
+   "ko": "억지로 받은 버스터 포<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3057,
+   "src": "8c7b0f28092601fdccf45118fd0bfd51f45dfb",
+   "jp": "バレたらこわい大佐の通行証<FB>",
+   "ko": "들키면 무서운 대령 통행증<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3058,
+   "src": "fc0001557ed5fb",
+   "jp": "赤いカギ１<FB>",
+   "ko": "빨간 열쇠1<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3059,
+   "src": "fc0001557ed6fb",
+   "jp": "赤いカギ２<FB>",
+   "ko": "빨간 열쇠2<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3060,
+   "src": "fc0001557ed7fb",
+   "jp": "赤いカギ３<FB>",
+   "ko": "빨간 열쇠3<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3061,
+   "src": "fc0001557ed8fb",
+   "jp": "赤いカギ４<FB>",
+   "ko": "빨간 열쇠4<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3062,
+   "src": "fdaf18557ed5fb",
+   "jp": "緑のカギ１<FB>",
+   "ko": "초록 열쇠1<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3063,
+   "src": "fdaf18557ed6fb",
+   "jp": "緑のカギ２<FB>",
+   "ko": "초록 열쇠2<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3064,
+   "src": "fdaf18557ed7fb",
+   "jp": "緑のカギ３<FB>",
+   "ko": "초록 열쇠3<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3065,
+   "src": "fdaf18557ed8fb",
+   "jp": "緑のカギ４<FB>",
+   "ko": "초록 열쇠4<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3066,
+   "src": "fdb001557ed5fb",
+   "jp": "青いカギ１<FB>",
+   "ko": "파란 열쇠1<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3067,
+   "src": "fdb001557ed6fb",
+   "jp": "青いカギ２<FB>",
+   "ko": "파란 열쇠2<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3068,
+   "src": "fdb001557ed7fb",
+   "jp": "青いカギ３<FB>",
+   "ko": "파란 열쇠3<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3069,
+   "src": "fdb001557ed8fb",
+   "jp": "青いカギ４<FB>",
+   "ko": "파란 열쇠4<FB>",
+   "state": "needs_review",
+   "note": "",
+   "question": ""
+  },
+  {
+   "id": 3070,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 3071,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 3072,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 3073,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 3074,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  },
+  {
+   "id": 3075,
+   "src": "fb",
+   "jp": "<FB>",
+   "ko": "<FB>",
+   "state": "needs_review",
+   "note": "빈 메시지",
+   "question": ""
+  }
+ ]
+}
