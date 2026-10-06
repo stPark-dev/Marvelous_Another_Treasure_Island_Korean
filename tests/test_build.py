@@ -281,3 +281,15 @@ def test_credits_patched(src):
     for a, data in want.items():
         p = out[0x11E3 + a] << 16 | out[0x12DC + a] << 8 | out[0x13D5 + a]
         assert lz2.decompress(out, build.lz_offset(p)) == data
+
+
+def test_default_output_name_carries_version():
+    path = build.default_out()
+    assert os.path.basename(path) == 'marvelous_ko_v%s.sfc' % build.VERSION
+    assert os.path.dirname(path) == os.path.join(ROOT, 'build')
+
+
+def test_readme_states_build_version():
+    import re
+    readme = open(os.path.join(ROOT, 'README.md'), encoding='utf-8').read()
+    assert re.search(r'현재 버전: v(\d+\.\d+\.\d+)', readme).group(1) == build.VERSION

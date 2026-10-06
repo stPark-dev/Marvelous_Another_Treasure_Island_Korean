@@ -1,6 +1,6 @@
 """Product build: Korean Marvelous ROM from the immutable Japanese source.
 
-  python tools/build.py [--policy dev|release] [--out build/marvelous_ko.sfc]
+  python tools/build.py [--policy dev|release] [--out build/marvelous_ko_v<VERSION>.sfc]
 
 Inputs: rom/baserom.sfc (verified by SHA-256), text/ko/*.json translations,
 Galmuri bitmap font.  Every changed byte is declared in a WritePlan.
@@ -35,6 +35,7 @@ from dis65816 import lorom_to_file   # noqa: E402
 from writeplan import WritePlan, verify, PlanError   # noqa: E402
 
 ROOT = mvscript.ROOT
+VERSION = '0.1.0'                 # also stated in README.md (test_readme_states_build_version)
 SOURCE_SHA256 = '555d78c9e4667bee7fb503efd87ed9fc82c55b0e8bde034a10aa2a53967762c5'
 OUT_SIZE = 0x400000
 
@@ -452,10 +453,14 @@ def ips(src, out):
     return bytes(data)
 
 
+def default_out():
+    return os.path.join(ROOT, 'build', 'marvelous_ko_v%s.sfc' % VERSION)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--policy', choices=['dev', 'release'], default='dev')
-    ap.add_argument('--out', default=os.path.join(ROOT, 'build', 'marvelous_ko.sfc'))
+    ap.add_argument('--out', default=default_out())
     a = ap.parse_args()
     with open(os.path.join(ROOT, 'rom', 'baserom.sfc'), 'rb') as f:
         src = f.read()
@@ -468,6 +473,7 @@ def main():
         f.write(out)
     with open(os.path.splitext(a.out)[0] + '.ips', 'wb') as f:
         f.write(ips(src, out))
+    rep['version'] = VERSION
     rep['sha256'] = hashlib.sha256(out).hexdigest()
     rep['charmap'] = {ch: code.hex() for ch, code in cmap.items() if ch not in FIXED}
     with open(os.path.splitext(a.out)[0] + '.report.json', 'w', encoding='utf-8') as f:

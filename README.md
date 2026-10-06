@@ -56,7 +56,7 @@
 
 ```sh
 python -m pytest -q tests/          # 테스트 (rom/baserom.sfc가 있어야 대부분 실행됨)
-python tools/build.py               # build/marvelous_ko.sfc, .ips, .report.json 생성
+python tools/build.py               # build/marvelous_ko_v<버전>.sfc, .ips, .report.json 생성
 python tools/check_ko.py text/ko/*.json   # 번역 파일 기계 검사
 ```
 
