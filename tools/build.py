@@ -36,7 +36,7 @@ from dis65816 import lorom_to_file   # noqa: E402
 from writeplan import WritePlan, verify, PlanError   # noqa: E402
 
 ROOT = mvscript.ROOT
-VERSION = '0.1.0'                 # also stated in README.md (test_readme_states_build_version)
+VERSION = '0.2.0'                 # also stated in README.md (test_readme_states_build_version)
 SOURCE_SHA256 = '555d78c9e4667bee7fb503efd87ed9fc82c55b0e8bde034a10aa2a53967762c5'
 OUT_SIZE = 0x400000
 
