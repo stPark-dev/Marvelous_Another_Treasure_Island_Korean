@@ -293,3 +293,13 @@ def test_readme_states_build_version():
     import re
     readme = open(os.path.join(ROOT, 'README.md'), encoding='utf-8').read()
     assert re.search(r'현재 버전: v(\d+\.\d+\.\d+)', readme).group(1) == build.VERSION
+
+
+def test_lift_label_patched(src):
+    import lz2
+    import lift_label
+    out, _, _ = build.build(src, {}, 'dev')
+    a = lift_label.ASSET
+    old = lz2.decompress(src, build.lz_offset(src[0x11E3 + a] << 16 | src[0x12DC + a] << 8 | src[0x13D5 + a]))
+    p = out[0x11E3 + a] << 16 | out[0x12DC + a] << 8 | out[0x13D5 + a]
+    assert lz2.decompress(out, build.lz_offset(p)) == lift_label.build(old)

@@ -29,6 +29,7 @@ import poster_title  # noqa: E402
 import scene_text  # noqa: E402
 import riddle_text  # noqa: E402
 import credits_text  # noqa: E402
+import lift_label  # noqa: E402
 import koenc      # noqa: E402
 import mvscript   # noqa: E402
 from dis65816 import lorom_to_file   # noqa: E402
@@ -357,6 +358,7 @@ def logo_writes(plan, src):
     credit_sheet, credit_map = credits_text.build(lz2.decompress(src, lz_offset(ptr(credits_text.SHEET_ASSET))),
                                                   lz2.decompress(src, lz_offset(ptr(credits_text.MAP_ASSET))))
     assets += [(credits_text.SHEET_ASSET, credit_sheet), (credits_text.MAP_ASSET, credit_map)]
+    assets.append((lift_label.ASSET, lift_label.build(lz2.decompress(src, lz_offset(ptr(lift_label.ASSET))))))
     riddle_tiles, riddle_writes = riddle_text.build(src)
     assets.append((riddle_text.TILE_ASSET, riddle_tiles))
     for off, data in sorted(riddle_writes.items()):
