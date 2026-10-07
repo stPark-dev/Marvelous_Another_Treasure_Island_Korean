@@ -303,3 +303,10 @@ def test_lift_label_patched(src):
     old = lz2.decompress(src, build.lz_offset(src[0x11E3 + a] << 16 | src[0x12DC + a] << 8 | src[0x13D5 + a]))
     p = out[0x11E3 + a] << 16 | out[0x12DC + a] << 8 | out[0x13D5 + a]
     assert lz2.decompress(out, build.lz_offset(p)) == lift_label.build(old)
+
+
+def test_inline_icons_patched(src):
+    import inline_icons
+    out, _, _ = build.build(src, {}, 'dev')
+    for off, data in inline_icons.build(src).items():
+        assert out[off:off + 16] == data

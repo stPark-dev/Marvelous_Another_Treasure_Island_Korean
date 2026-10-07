@@ -30,13 +30,14 @@ import scene_text  # noqa: E402
 import riddle_text  # noqa: E402
 import credits_text  # noqa: E402
 import lift_label  # noqa: E402
+import inline_icons  # noqa: E402
 import koenc      # noqa: E402
 import mvscript   # noqa: E402
 from dis65816 import lorom_to_file   # noqa: E402
 from writeplan import WritePlan, verify, PlanError   # noqa: E402
 
 ROOT = mvscript.ROOT
-VERSION = '0.2.0'                 # also stated in README.md (test_readme_states_build_version)
+VERSION = '0.2.1'                 # also stated in README.md (test_readme_states_build_version)
 SOURCE_SHA256 = '555d78c9e4667bee7fb503efd87ed9fc82c55b0e8bde034a10aa2a53967762c5'
 OUT_SIZE = 0x400000
 
@@ -418,6 +419,8 @@ def build(src, trans, policy='dev', bdf=None):
     hl = hud_logo.build()
     plan.patch('hud logo', hud_logo.BASE, hl, expect=src[hud_logo.BASE:hud_logo.BASE + len(hl)])
     plan.patch('big shout art', big_shout.BASE, shout, expect=src[big_shout.BASE:big_shout.BASE + len(shout)])
+    for off, data in sorted(inline_icons.build(src).items()):
+        plan.patch('inline icon', off, data, expect=src[off:off + 16])
 
     # checksum: compute over the output with placeholder complement/sum (FFFF/0000 sums to 0x1FE)
     plan.patch('checksum', 0x7FDC, b'\xff\xff\x00\x00', expect=src[0x7FDC:0x7FE0])
