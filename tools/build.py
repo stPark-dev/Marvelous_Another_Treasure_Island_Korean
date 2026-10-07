@@ -1,6 +1,6 @@
 """Product build: Korean Marvelous ROM from the immutable Japanese source.
 
-  python tools/build.py [--policy dev|release] [--out build/marvelous_ko_v<VERSION>.sfc]
+  python tools/build.py [--policy dev|beta|release] [--out build/marvelous_ko_v<VERSION>.sfc]
 
 Inputs: rom/baserom.sfc (verified by SHA-256), text/ko/*.json translations,
 Galmuri bitmap font.  Every changed byte is declared in a WritePlan.
@@ -38,7 +38,7 @@ from dis65816 import lorom_to_file   # noqa: E402
 from writeplan import WritePlan, verify, PlanError   # noqa: E402
 
 ROOT = mvscript.ROOT
-VERSION = '0.2.2'                 # also stated in README.md (test_readme_states_build_version)
+VERSION = '0.3.0-beta'                 # also stated in README.md (test_readme_states_build_version)
 SOURCE_SHA256 = '555d78c9e4667bee7fb503efd87ed9fc82c55b0e8bde034a10aa2a53967762c5'
 OUT_SIZE = 0x400000
 
@@ -231,8 +231,15 @@ def protected_sequence(raw_or_text):
     return [s for s in seq if s not in MOVABLE]
 
 
+BETA_STATES = {'needs_review', 'needs_human_review', 'distribution_eligible'}
+
+
 def select_texts(msgs, trans, policy):
-    """Return (per-message list of ('ko', text) | ('raw', bytes), report)."""
+    """Return (per-message list of ('ko', text) | ('raw', bytes), report).
+
+    dev: anything goes.  beta (public test, D16): every message translated and
+    past drafting, approval not required.  release: every message approved.
+    """
     out, rep = [], {'translated': 0, 'source_kept': 0, 'ineligible_used': [], 'kept_by_decision': []}
     for m in msgs:
         e = trans.get(m['id'])
@@ -247,6 +254,8 @@ def select_texts(msgs, trans, policy):
             continue
         ko = e.get('ko') if e else None
         if ko:
+            if policy == 'beta' and e.get('state') not in BETA_STATES:
+                raise BuildError('message %d is %s; beta policy needs a reviewed draft' % (m['id'], e.get('state')))
             if policy == 'release' and e.get('state') != 'distribution_eligible':
                 raise BuildError('message %d is %s; release policy needs distribution_eligible' % (m['id'], e.get('state')))
             if e.get('state') != 'distribution_eligible':
@@ -261,7 +270,7 @@ def select_texts(msgs, trans, policy):
             out.append(('ko', ko))
             rep['translated'] += 1
         else:
-            if policy == 'release':
+            if policy in ('release', 'beta'):
                 raise BuildError('message %d has no translation' % m['id'])
             out.append(('raw', bytes.fromhex(m['raw'])))
             rep['source_kept'] += 1
@@ -436,7 +445,8 @@ def build(src, trans, policy='dev', bdf=None):
     rep['logo_tiles'] = rep_logo
     rep.update({'policy': policy, 'messages': len(msgs), 'glyphs': len([c for c in cmap if c not in FIXED]),
                 'page_glyphs': len([c for c in cmap if len(cmap[c]) == 2]),
-                'script_bytes': len(blob), 'distribution': policy == 'release' and not rep['ineligible_used']})
+                'script_bytes': len(blob), 'distribution': policy == 'release' and not rep['ineligible_used'],
+                'public_beta': policy == 'beta'})
     return out, cmap, rep
 
 
@@ -465,7 +475,7 @@ def default_out():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--policy', choices=['dev', 'release'], default='dev')
+    ap.add_argument('--policy', choices=['dev', 'beta', 'release'], default='dev')
     ap.add_argument('--out', default=default_out())
     a = ap.parse_args()
     with open(os.path.join(ROOT, 'rom', 'baserom.sfc'), 'rb') as f:
@@ -484,8 +494,13 @@ def main():
     rep['charmap'] = {ch: code.hex() for ch, code in cmap.items() if ch not in FIXED}
     with open(os.path.splitext(a.out)[0] + '.report.json', 'w', encoding='utf-8') as f:
         json.dump(rep, f, ensure_ascii=False, indent=1)
-    marker = '' if rep['distribution'] else '  [NOT FOR DISTRIBUTION: %d ineligible, %d source-kept]' % (
-        len(rep['ineligible_used']), rep['source_kept'])
+    if rep['distribution']:
+        marker = ''
+    elif rep['public_beta']:
+        marker = '  [PUBLIC BETA: %d not yet human-approved]' % len(rep['ineligible_used'])
+    else:
+        marker = '  [NOT FOR DISTRIBUTION: %d ineligible, %d source-kept]' % (
+            len(rep['ineligible_used']), rep['source_kept'])
     print('%s: %d translated, %d glyphs, script %d bytes%s' % (
         a.out, rep['translated'], rep['glyphs'], rep['script_bytes'], marker))
 

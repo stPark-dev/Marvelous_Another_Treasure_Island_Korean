@@ -293,7 +293,7 @@ def test_default_output_name_carries_version():
 def test_readme_states_build_version():
     import re
     readme = open(os.path.join(ROOT, 'README.md'), encoding='utf-8').read()
-    assert re.search(r'현재 버전: v(\d+\.\d+\.\d+)', readme).group(1) == build.VERSION
+    assert re.search(r'현재 버전: v(\d+\.\d+\.\d+(?:-[a-z]+)?)', readme).group(1) == build.VERSION
 
 
 def test_lift_label_patched(src):
@@ -311,3 +311,38 @@ def test_inline_icons_patched(src):
     out, _, _ = build.build(src, {}, 'dev')
     for off, data in inline_icons.build(src).items():
         assert out[off:off + 16] == data
+
+
+
+def test_beta_policy_needs_full_translation_but_not_approval(msgs):
+    full = {m['id']: {'id': m['id'], 'src': m['raw'], 'ko': '<FB>' if m['raw'] == 'fb' else 'x',
+                      'state': 'needs_human_review'} for m in msgs[:3]}
+    with pytest.raises(build.BuildError, match='no translation'):
+        build.select_texts(msgs, {}, 'beta')                       # nothing translated
+    i = msgs[0]['id']
+    draft = {i: dict(full[i], state='in_progress')}
+    with pytest.raises(build.BuildError, match='beta'):
+        build.select_texts(msgs[:1], draft, 'beta')
+
+
+def test_beta_build_of_real_translations(src):
+    out, _, rep = build.build(src, build.load_translations(), 'beta')
+    assert rep['policy'] == 'beta' and rep['public_beta'] and not rep['distribution']
+    assert rep['source_kept'] == 0
+
+
+def test_ips_round_trip(src):
+    out, _, _ = build.build(src, {}, 'dev')
+    patch = build.ips(src, out)
+    assert patch[:5] == b'PATCH' and patch[-3:] == b'EOF'
+    res = bytearray(src)
+    p = 5
+    while patch[p:p + 3] != b'EOF':
+        off = int.from_bytes(patch[p:p + 3], 'big'); n = int.from_bytes(patch[p + 3:p + 5], 'big'); p += 5
+        if n == 0:
+            n = int.from_bytes(patch[p:p + 2], 'big'); res[off:off + n] = patch[p + 2:p + 3] * n; p += 3
+        else:
+            if len(res) < off + n:
+                res.extend(b'\0' * (off + n - len(res)))
+            res[off:off + n] = patch[p:p + n]; p += n
+    assert bytes(res) == out
