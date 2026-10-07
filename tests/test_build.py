@@ -263,10 +263,11 @@ def test_riddle_patched(src):
     import lz2
     import riddle_text
     out, _, _ = build.build(src, {}, 'dev')
+    import dud_sign
     tiles, writes = riddle_text.build(src)
     a = riddle_text.TILE_ASSET
     p = out[0x11E3 + a] << 16 | out[0x12DC + a] << 8 | out[0x13D5 + a]
-    assert lz2.decompress(out, build.lz_offset(p)) == tiles
+    assert lz2.decompress(out, build.lz_offset(p)) == dud_sign.build(tiles)      # scene 0x50 shares asset 100
     for off, data in writes.items():
         assert out[off:off + len(data)] == data
 

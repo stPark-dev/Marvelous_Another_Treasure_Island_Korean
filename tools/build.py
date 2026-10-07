@@ -31,13 +31,14 @@ import riddle_text  # noqa: E402
 import credits_text  # noqa: E402
 import lift_label  # noqa: E402
 import inline_icons  # noqa: E402
+import dud_sign  # noqa: E402
 import koenc      # noqa: E402
 import mvscript   # noqa: E402
 from dis65816 import lorom_to_file   # noqa: E402
 from writeplan import WritePlan, verify, PlanError   # noqa: E402
 
 ROOT = mvscript.ROOT
-VERSION = '0.2.1'                 # also stated in README.md (test_readme_states_build_version)
+VERSION = '0.2.2'                 # also stated in README.md (test_readme_states_build_version)
 SOURCE_SHA256 = '555d78c9e4667bee7fb503efd87ed9fc82c55b0e8bde034a10aa2a53967762c5'
 OUT_SIZE = 0x400000
 
@@ -361,7 +362,7 @@ def logo_writes(plan, src):
     assets += [(credits_text.SHEET_ASSET, credit_sheet), (credits_text.MAP_ASSET, credit_map)]
     assets.append((lift_label.ASSET, lift_label.build(lz2.decompress(src, lz_offset(ptr(lift_label.ASSET))))))
     riddle_tiles, riddle_writes = riddle_text.build(src)
-    assets.append((riddle_text.TILE_ASSET, riddle_tiles))
+    assets.append((riddle_text.TILE_ASSET, dud_sign.build(riddle_tiles)))    # scene 0x50 スカ shares asset 100
     for off, data in sorted(riddle_writes.items()):
         plan.patch('riddle pieces', off, data, expect=src[off:off + len(data)])
     if len({a for a, _ in assets}) != len(assets):
